@@ -13,30 +13,58 @@
   background-color: rgb(255, 228, 217);
 }
 
+
+
+.credits {
+  text-align: center;
+  color: rgb(227, 227, 227);
+  font-size: 0.9rem;
+}
+
+.body {
+  padding: 2rem 1rem;
+}
+
 .searchContainer {
-  margin: 0 2rem;
+  margin: 0 1rem;
   position: sticky;
   top: 1rem;
   box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
   border-radius: 1rem;
-}
-
-.credits {
-  text-align: center;
-  color: lightgrey;
-}
-
-.body {
-  padding: 3rem;
+  background-color: white;
 }
 
 input {
   width: 100%;
-  border-radius: 1rem;
-  font-size: 2rem;
+  font-size: 1rem;
   border: none;
   outline: none;
-  padding: 2rem;
+  padding: 1rem;
+  border-radius: 1rem;
+}
+
+@media only screen and (min-width: 37.5em) {
+
+  .body {
+    padding: 3rem;
+  }
+
+  .searchContainer {
+    margin: 0 2rem;
+    position: sticky;
+    top: 1rem;
+    box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
+    border-radius: 1rem;
+  }
+
+  input {
+    width: 100%;
+    font-size: 2rem;
+    border: none;
+    outline: none;
+    padding: 2rem;
+    border-radius: 1rem;
+  }
 }
 
 .alert {
@@ -49,13 +77,12 @@ input {
   border-radius: .375rem;
   color: white;
   font-weight: 500;
-  top: 50%;
+  top: 7rem;
   left: 50%;
-  margin-top: -10px;
   margin-left: -125px;
   text-align: center;
   line-height: 20px;
-  transition: opacity 0.2s;
+  transition: 0.3s;
 }
 
 .alert-hide{
@@ -66,4 +93,5 @@ input {
 .alert-show {
   visibility: visible;
   opacity: 1;
+  top: 8rem;
 }

@@ -4,6 +4,7 @@
   "private": true,
   "homepage": "https://seanlennaerts.github.io/mcuverse",
   "dependencies": {
+    "clipboard-polyfill": "^2.8.1",
     "gh-pages": "^2.0.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",

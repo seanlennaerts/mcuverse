@@ -1,27 +1,8 @@
 import React, { Component } from 'react';
 import './App.css';
+import * as clipboard from "clipboard-polyfill";
 import movies from './movies/index';
 
-
-function copyToClipboard(str) {
-  const el = document.createElement('textarea');
-  el.value = str;
-  el.setAttribute('readonly', '');
-  el.style.position = 'absolute';
-  el.style.left = '-9999px';
-  document.body.appendChild(el);
-  const selected =
-    document.getSelection().rangeCount > 0
-      ? document.getSelection().getRangeAt(0)
-      : false;
-  el.select();
-  document.execCommand('copy');
-  document.body.removeChild(el);
-  if (selected) {
-    document.getSelection().removeAllRanges();
-    document.getSelection().addRange(selected);
-  }
-};
 
 function Sub(props) {
 
@@ -29,11 +10,11 @@ function Sub(props) {
   let jSub = sub.join(' ');
 
   const handleClick = () => {
-    copyToClipboard(`${jSub} (*${title} ${time}*)`);
+    clipboard.writeText(`${jSub} (*${title} ${time}*)`);
     handle(true);
     setTimeout(() => {
       handle(false);
-    }, 2000);
+    }, 1500);
   }
   let index = jSub.toLowerCase().indexOf(search);
   // if (index >= 0) {
