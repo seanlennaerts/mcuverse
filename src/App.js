@@ -87,6 +87,7 @@ class App extends Component {
             value={this.state.value}
             onChange={this.handleSearchChange}
             placeholder="Search verse"
+            autoFocus
           ></input>
         </div>
         <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipobard</div>

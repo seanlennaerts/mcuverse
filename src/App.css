@@ -1,5 +1,10 @@
+html {
+  background-color: #2C2F33;
+}
+
 .highlight {
-  background-color: lightsalmon;
+  background-color: darksalmon;
+  padding: 0.1rem 0rem;
 }
 
 .sub {
@@ -7,18 +12,19 @@
   border-radius: .375rem;
   padding: 0rem 1rem;
   cursor: pointer;
+  color: white;
 }
 
 .sub:hover {
-  background-color: rgb(255, 228, 217);
+  background-color: darksalmon;
 }
 
 
 
 .credits {
   text-align: center;
-  color: rgb(227, 227, 227);
-  font-size: 0.9rem;
+  color: rgb(54, 60, 63);
+  font-size: 0.8rem;
 }
 
 .body {
@@ -29,18 +35,28 @@
   margin: 0 1rem;
   position: sticky;
   top: 1rem;
-  box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
+  box-shadow: 0 2px 10px 0 rgba(0,0,0,.2);
   border-radius: 1rem;
-  background-color: white;
+  background-color: #23272A;
+
 }
 
 input {
+  color: white;
   width: 100%;
   font-size: 1rem;
   border: none;
   outline: none;
   padding: 1rem;
   border-radius: 1rem;
+  background-color: #23272A;
+  border: solid 1px #23272A;
+  transition: 0.15s;
+  -webkit-appearance: none;
+}
+
+input:focus {
+  border: solid 1px cornflowerblue;
 }
 
 @media only screen and (min-width: 37.5em) {
@@ -51,19 +67,11 @@ input {
 
   .searchContainer {
     margin: 0 2rem;
-    position: sticky;
-    top: 1rem;
-    box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
-    border-radius: 1rem;
   }
 
   input {
-    width: 100%;
     font-size: 2rem;
-    border: none;
-    outline: none;
     padding: 2rem;
-    border-radius: 1rem;
   }
 }
 
