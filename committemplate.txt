@@ -1,0 +1,8 @@
+# SUMMARY - Short (!) summary what this commit achieves
+
+# WHAT HAVE YOU DONE
+# A few lines as to WHAT you did and WHY and HOW you did it.
+
+# WHAT ARE KNOW ISSUES & MISSING FEATURES
+# Is there anything that needs to be done for this to work as expected?
+# Any unresolved issues or caveats that you ran into?

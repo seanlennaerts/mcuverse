@@ -1,37 +1,8 @@
 import React, { Component } from 'react';
-import './App.css';
-import * as clipboard from "clipboard-polyfill";
+import Quote from './components/Quote';
+import Searchbar from './components/Searchbar';
+import './App.scss';
 import movies from './movies/index';
-
-
-function Sub(props) {
-
-  const { sub, search, title, time, handle } = props;
-  let jSub = sub.join(' ');
-
-  const handleClick = () => {
-    clipboard.writeText(`${jSub} (*${title} ${time}*)`);
-    handle(true);
-    setTimeout(() => {
-      handle(false);
-    }, 1500);
-  }
-  let index = jSub.toLowerCase().indexOf(search);
-  // if (index >= 0) {
-  return (
-    <div className="sub"
-      onClick={handleClick}
-      title="click to copy to clipboard">
-      <p>
-        {jSub.substring(0, index)}
-        <span className="highlight">{jSub.substring(index, index + search.length)}</span>
-        {jSub.substring(index + search.length)}
-        &nbsp;(<i>{title} {time}</i>)
-      </p>
-    </div>
-  );
-  // }
-}
 
 class App extends Component {
 
@@ -56,13 +27,15 @@ class App extends Component {
     movies.forEach(movie => {
       movie.subs.forEach(sub => {
         if (sub.sub.join(' ').toLowerCase().includes(this.state.search)) {
-          matches.push(<Sub
-            sub={sub.sub}
-            search={this.state.search}
-            title={movie.title}
-            time={sub.time}
-            handle={this.handleAlert}
-          />)
+          matches.push(
+            <Quote
+              sub={sub.sub}
+              search={this.state.search}
+              title={movie.title}
+              time={sub.time}
+              handle={this.handleAlert}
+            />
+          )
         }
       });
     });
@@ -77,19 +50,10 @@ class App extends Component {
     );
   }
 
-
   render() {
     return (
       <div className="App">
-        <div className="searchContainer">
-          <input
-            type="search"
-            value={this.state.value}
-            onChange={this.handleSearchChange}
-            placeholder="Search verse"
-            autoFocus
-          ></input>
-        </div>
+        <Searchbar value={this.state.search} onSearchChange={this.handleSearchChange}/>
         <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipboard</div>
         <div className="body">
           {this.state.search.length > 3 ? this.showSubs() : this.showCredits()}
