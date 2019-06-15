@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "b992cffc168af5533916ee2b805b309e",
+    "revision": "f3219806da3f748308c718565aa4b3f3",
     "url": "/mcuverse/index.html"
   },
   {
-    "revision": "888580a4c9cd3edacfa7",
+    "revision": "dc33b0c498f30e144451",
     "url": "/mcuverse/static/css/main.28f24f14.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/mcuverse/static/js/2.e5f91b43.chunk.js"
   },
   {
-    "revision": "888580a4c9cd3edacfa7",
-    "url": "/mcuverse/static/js/main.83ce26b2.chunk.js"
+    "revision": "dc33b0c498f30e144451",
+    "url": "/mcuverse/static/js/main.c32028b1.chunk.js"
   },
   {
     "revision": "50400f15a05ec3907403",
