@@ -90,7 +90,7 @@ class App extends Component {
             autoFocus
           ></input>
         </div>
-        <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipobard</div>
+        <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipboard</div>
         <div className="body">
           {this.state.search.length > 3 ? this.showSubs() : this.showCredits()}
         </div>
