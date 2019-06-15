@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mcuverse/static/css/main.28f24f14.chunk.css",
-    "main.js": "/mcuverse/static/js/main.c32028b1.chunk.js",
-    "main.js.map": "/mcuverse/static/js/main.c32028b1.chunk.js.map",
+    "main.js": "/mcuverse/static/js/main.64b907b2.chunk.js",
+    "main.js.map": "/mcuverse/static/js/main.64b907b2.chunk.js.map",
     "runtime~main.js": "/mcuverse/static/js/runtime~main.86728467.js",
     "runtime~main.js.map": "/mcuverse/static/js/runtime~main.86728467.js.map",
     "static/js/2.e5f91b43.chunk.js": "/mcuverse/static/js/2.e5f91b43.chunk.js",
     "static/js/2.e5f91b43.chunk.js.map": "/mcuverse/static/js/2.e5f91b43.chunk.js.map",
     "index.html": "/mcuverse/index.html",
-    "precache-manifest.14a2b5db076be0a2af39eedcd951ee4c.js": "/mcuverse/precache-manifest.14a2b5db076be0a2af39eedcd951ee4c.js",
+    "precache-manifest.e8bf59cfd568c5bf1f38100d2cbd17f9.js": "/mcuverse/precache-manifest.e8bf59cfd568c5bf1f38100d2cbd17f9.js",
     "service-worker.js": "/mcuverse/service-worker.js",
     "static/css/main.28f24f14.chunk.css.map": "/mcuverse/static/css/main.28f24f14.chunk.css.map"
   }
