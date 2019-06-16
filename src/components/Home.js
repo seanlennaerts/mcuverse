@@ -1,34 +1,41 @@
 import React, { Component } from 'react';
+import '../styles/Home.scss';
 
 class Home extends Component {
-    constructor(props) {
-      super(props);
 
-      let rMovie = props.movies[this.getRandomInt(props.movies.length)];
-      let rQuote = rMovie.subs[this.getRandomInt(rMovie.subs.length)];
-      let rQuoteLine = rQuote.sub.join(' ');
-      while (rQuote.sub.join(' ').split(' ').length <= 4 && rQuoteLine.substring(0,1) === rQuoteLine.substring(0,1).toUpperCase()) {
-        rQuote = rMovie.subs[this.getRandomInt(rMovie.subs.length)];
-      }
-      this.state = { quote: { title: rMovie.title, line: rQuote.sub.join(' '), time: rQuote.time } };
-    }
-  
-    getRandomInt(max) {
-      return Math.floor(Math.random() * Math.floor(max));
-    }
-  
-    render() {
-      return (
-        <div className="flexContainer">
-          <div className="randomQuote">
-            <p>{this.state.quote.line} <i>({this.state.quote.title} {this.state.quote.time})</i></p>
-          </div>
-          <div className="credits">
-            made by /u/shonnyboymushi
-          </div>
-        </div>
-      );
-    }
+  getRandomQuote(movies) {
+    let randMovie = movies[this.getRandomInt(movies.length)];
+    let randQuote = randMovie.subs[this.getRandomInt(randMovie.subs.length)];
+    return {title: randMovie.title, line: randQuote.sub.join(' '), time: randQuote.time}
   }
 
-  export { Home };
+  constructor(props) {
+    super(props);
+    const { movies } = props;
+
+    let randQuote = this.getRandomQuote(movies);
+    while (randQuote.line.split(' ').length <= 4 || randQuote.line.substring(0,1) !== randQuote.line.substring(0,1).toUpperCase()) {
+        randQuote = this.getRandomQuote(movies);
+    }
+    this.state = { quote: { title: randQuote.title, line: randQuote.line, time: randQuote.time } };
+  }
+
+  getRandomInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+
+  render() {
+    return (
+      <div className="home">
+        <div className="randomQuote">
+          <p>{this.state.quote.line} <i>({this.state.quote.title} {this.state.quote.time})</i></p>
+        </div>
+        <div className="credits">
+          made by /u/shonnyboymushi
+          </div>
+      </div>
+    );
+  }
+}
+
+export { Home };
