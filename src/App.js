@@ -3,7 +3,6 @@ import './App.css';
 import * as clipboard from "clipboard-polyfill";
 import movies from './movies/index';
 
-
 function Sub(props) {
 
   const { sub, search, title, time, handle } = props;
@@ -17,7 +16,6 @@ function Sub(props) {
     }, 1500);
   }
   let index = jSub.toLowerCase().indexOf(search);
-  // if (index >= 0) {
   return (
     <div className="sub"
       onClick={handleClick}
@@ -30,7 +28,36 @@ function Sub(props) {
       </p>
     </div>
   );
-  // }
+}
+
+class Home extends Component {
+  constructor(props) {
+    super(props);
+    let rMovie = movies[this.getRandomInt(movies.length)];
+    let rQuote = rMovie.subs[this.getRandomInt(rMovie.subs.length)];
+    let rQuoteLine = rQuote.sub.join(' ');
+    while (rQuote.sub.join(' ').split(' ').length <= 4 && rQuoteLine.substring(0,1) === rQuoteLine.substring(0,1).toUpperCase()) {
+      rQuote = rMovie.subs[this.getRandomInt(rMovie.subs.length)];
+    }
+    this.state = { quote: { title: rMovie.title, line: rQuote.sub.join(' '), time: rQuote.time } };
+  }
+
+  getRandomInt(max) {
+    return Math.floor(Math.random() * Math.floor(max));
+  }
+
+  render() {
+    return (
+      <div className="flexContainer">
+        <div className="randomQuote">
+          <p>{this.state.quote.line} <i>({this.state.quote.title} {this.state.quote.time})</i></p>
+        </div>
+        <div className="credits">
+          made by /u/shonnyboymushi
+        </div>
+      </div>
+    );
+  }
 }
 
 class App extends Component {
@@ -44,7 +71,7 @@ class App extends Component {
   }
 
   handleAlert(show) {
-    this.setState({alert: show});
+    this.setState({ alert: show });
   }
 
   handleSearchChange(event) {
@@ -69,15 +96,6 @@ class App extends Component {
     return matches;
   }
 
-  showCredits() {
-    return (
-      <div className="credits">
-        made by /u/shonnyboymushi
-      </div>
-    );
-  }
-
-
   render() {
     return (
       <div className="App">
@@ -92,7 +110,7 @@ class App extends Component {
         </div>
         <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipboard</div>
         <div className="body">
-          {this.state.search.length > 3 ? this.showSubs() : this.showCredits()}
+          {this.state.search.length >= 3 ? this.showSubs() : <Home />}
         </div>
       </div>
     );

@@ -2,6 +2,10 @@ html {
   background-color: #2C2F33;
 }
 
+.randomQuote {
+  color: white;
+}
+
 .highlight {
   background-color: darksalmon;
   padding: 0.1rem 0rem;
@@ -20,11 +24,15 @@ html {
 }
 
 
+.flexContainer {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
 
 .credits {
-  text-align: center;
-  color: rgb(54, 60, 63);
-  font-size: 0.8rem;
+  color: grey;
+  font-size: 0.9rem;
 }
 
 .body {
@@ -38,7 +46,6 @@ html {
   box-shadow: 0 2px 10px 0 rgba(0,0,0,.2);
   border-radius: 1rem;
   background-color: #23272A;
-
 }
 
 input {
@@ -72,6 +79,10 @@ input:focus {
   input {
     font-size: 2rem;
     padding: 2rem;
+  }
+
+  .randomQuote {
+    font-size: 1.5rem;
   }
 }
 
