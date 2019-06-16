@@ -4,7 +4,7 @@ import * as clipboard from "clipboard-polyfill";
 
 function Quote(props) {
   
-  const { sub, search, title, time, handle } = props;
+  const { sub, search, title, time, handle, index } = props;
   let jSub = sub.join(' ');
 
   const handleClick = () => {
@@ -14,8 +14,6 @@ function Quote(props) {
       handle(false);
     }, 1500);
   }
-  let index = jSub.toLowerCase().indexOf(search);
-  // if (index >= 0) {
   return (
     <div className="sub"
       onClick={handleClick}
@@ -28,7 +26,6 @@ function Quote(props) {
       </p>
     </div>
   );
-  // }
 }
 
 export { Quote };

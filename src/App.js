@@ -18,21 +18,23 @@ class App extends Component {
   }
 
   handleSearchChange(event) {
-    this.setState({ search: event.target.value.toLowerCase().trim() });
+    this.setState({ search: event.target.value });
   }
 
   showSubs() {
     var matches = []
     movies.forEach(movie => {
       movie.subs.forEach(sub => {
-        if (sub.sub.join(' ').toLowerCase().includes(this.state.search)) {
+        let index = sub.sub.join(' ').toLowerCase().indexOf(this.state.search.toLowerCase().trim());
+        if (index >= 0) {
           matches.push(
             <Quote
               sub={sub.sub}
-              search={this.state.search}
+              search={this.state.search.trim()} //important to trim to match the actual search because highlighting calcs are based on length
               title={movie.title}
               time={sub.time}
               handle={this.handleAlert}
+              index={index}
             />
           )
         }
@@ -47,7 +49,7 @@ class App extends Component {
         <Searchbar value={this.state.search} onSearchChange={this.handleSearchChange} />
         <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipboard</div>
         <div className="body">
-          {this.state.search.length >= 3 ? this.showSubs() : <Home />}
+          {this.state.search.length >= 3 ? this.showSubs() : <Home movies={movies}/>}
         </div>
       </div>
     );
