@@ -19,7 +19,7 @@ class App extends Component {
   }
 
   handleSearchChange(event) {
-    this.setState({ search: event.target.value.toLowerCase().trim() });
+    this.setState({ search: event.target.value.toLowerCase() });
   }
 
   showSubs() {
