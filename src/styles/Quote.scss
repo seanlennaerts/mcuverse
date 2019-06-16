@@ -1,0 +1,16 @@
+.sub {
+  display: table;
+  border-radius: .375rem;
+  padding: 0rem 1rem;
+  cursor: pointer;
+  color: white;
+
+  &:hover {
+    background-color: darksalmon;
+  }
+
+  .highlight {
+    background-color: darksalmon;
+    padding: 0.1rem 0rem;
+  }
+}
