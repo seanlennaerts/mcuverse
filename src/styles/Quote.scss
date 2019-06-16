@@ -1,5 +1,6 @@
 .sub {
   display: table;
+  position: relative;
   border-radius: .375rem;
   padding: 0rem 1rem;
   cursor: pointer;
@@ -12,5 +13,43 @@
   .highlight {
     background-color: darksalmon;
     padding: 0.1rem 0rem;
+  }
+
+  .preContext, .postContext {
+    padding: 2rem 0;
+    list-style-type: none;
+
+    li {
+      width: 100%;
+      display: flex;
+      justify-content: space-between;
+    }
+  }
+
+  .quoteModal {
+    font-size: 2rem;
+    border-radius: .375rem;
+    padding: 1rem 1rem;
+    cursor: pointer;
+
+    span {
+      display: block;
+
+      &:nth-child(1) {
+        text-align: left;
+      }
+
+      &:nth-child(2) {
+        text-align: right;
+      }
+    }
+
+    &:hover {
+      background-color: darksalmon;
+    }
+  }
+
+  .copyToClipBoardButton {
+    width: 100%;
   }
 }

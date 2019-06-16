@@ -12,6 +12,7 @@ class App extends Component {
 
     this.handleSearchChange = this.handleSearchChange.bind(this);
     this.handleAlert = this.handleAlert.bind(this);
+    this.buildContext = this.buildContext.bind(this);
   }
 
   handleAlert(show) {
@@ -22,13 +23,25 @@ class App extends Component {
     this.setState({ search: event.target.value.toLowerCase().trim() });
   }
 
+  buildContext(movie, index) {
+    const start = index - 10 >= 0 ? index - 10 : 0;
+    const end = index + 10 >= movie.subs.length ? movie.subs.length : index + 10;
+
+    return {
+      prev: movie.subs.slice(start, index),
+      post: movie.subs.slice(index + 1, end + 1),
+    }
+  }
+
   showSubs() {
     var matches = []
     movies.forEach(movie => {
-      movie.subs.forEach(sub => {
-        if (sub.sub.join(' ').toLowerCase().includes(this.state.search)) {
+      movie.subs.forEach((sub, index) => {
+        let jSub = sub.sub.join(' ');
+        if (jSub.toLowerCase().includes(this.state.search)) {
           matches.push(
             <Quote
+              context={this.buildContext(movie, index)}
               sub={sub.sub}
               search={this.state.search}
               title={movie.title}
