@@ -22,91 +22,113 @@ import * as IVAvengers from './IV Avengers.json';
 import * as TheIncredibleHulk from './The Incredible Hulk.json';
 
 const subs = [
-    {
+    {   
+        id: "blackpanther",
         title: "Black Panther",
         subs: BlackPanther.default
     },
-    {
+    {   
+        id: "captainmarvel",
         title: "Captain Marvel",
         subs: CaptainMarvel.default
     }, 
-    {
+    {   
+        id: "doctorstrange",
         title: "Doctor Strange",
         subs: DoctorStrange.default
     },
     {
+        id: "antman1",
         title: "I Ant-Man",
         subs: IAntMan.default
     },
     {
+        id: "avengers1",
         title: "I Avengers",
         subs: IAvengers.default
     },
-    {
+    {   
+        id: "captainamerica1",
         title: "I Captain America",
         subs: ICaptainAmerica.default
     },
     {
+        id: "guardians1",
         title: "I Guardians of the Galaxy",
         subs: IGuardiansoftheGalaxy.default
     },
     {
+        id: "ironman1",
         title: "I Iron Man",
         subs: IIronMan.default
     },
     {
+        id: "spiderman1",
         title: "I Spider-Man",
         subs: ISpiderMan.default
     },
     {
+        id: "thor1",
         title: "I Thor",
         subs: IThor.default
     },
     {
+        id: "antman2",
         title: "II Ant-Man",
         subs: IIAntMan.default
     },
     {
+        id: "avengers2",
         title: "II Avengers",
         subs: IIAvengers.default
     },
     {
+        id: "captainamerica2",
         title: "II Captain America",
         subs: IICaptainAmerica.default
     },
-    {
+    {   
+        id: "guardians2",
         title: "II Guardians of the Galaxy",
         subs: IIGuardiansoftheGalaxy.default
     },
     {
+        id: "ironman2",
         title: "II Iron Man",
         subs: IIIronMan.default
     },
     {
+        id: "thor2",
         title: "II Thor",
         subs: IIThor.default
     },
     {
+        id: "avengers3",
         title: "III Avengers",
         subs: IIIAvengers.default
     },
     {
+        id: "captainamerica3",
         title: "III Captain America",
         subs: IIICaptainAmerica.default
     },
     {
+        id: "ironman3",
         title: "III Iron Man",
         subs: IIIIronMan.default
     },
     {
+        id: "thor3",
         title: "III Thor",
         subs: IIIThor.default
     },
-    {
+    {   
+        id: "avengers4",
         title: "IV Avengers",
         subs: IVAvengers.default
     },
     {
+        id: "hulk",
         title: "The Incredible Hulk",
         subs: TheIncredibleHulk.default
     }

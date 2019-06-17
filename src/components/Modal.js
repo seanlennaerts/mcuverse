@@ -54,8 +54,8 @@ class ModalWrapper extends React.PureComponent {
 
   render() {
     return (
-      <div className={`modal ${this.state.visible ? 'modalVisible' : ''}`} onClick={this.handleClick}>
-        <div className={`modalContent ${this.state.visible ? 'modalContentVisible' : ''}`}>
+      <div className={`modalWrapper ${this.state.visible ? 'modalVisible' : ''}`} onClick={this.handleClick}>
+        <div className={`modal ${this.state.visible ? 'modalContentVisible' : ''}`}>
           {this.props.children}
         </div>
       </div>

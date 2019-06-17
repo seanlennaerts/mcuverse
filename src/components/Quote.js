@@ -1,11 +1,13 @@
 import React, { Component } from 'react';
 import Modal from './Modal';
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+import { faCopy } from '@fortawesome/free-solid-svg-icons';
+import { faReddit } from '@fortawesome/free-brands-svg-icons';
+
 import '../styles/Quote.scss';
 import * as clipboard from "clipboard-polyfill";
 
 class Quote extends Component {
-
-
   constructor(props) {
     super(props);
 
@@ -13,12 +15,22 @@ class Quote extends Component {
     this.handleClickModal = this.handleClickModal.bind(this);
 
     this.state = {
-      showModal: false,
+      showModal: props.showModal,
     };
   }
 
-  handleClick() {
-    clipboard.writeText(`${this.props.sub} (*${this.props.title} ${this.props.time}*)`);
+  handleClick(purpose) {
+    const buildCopyTextFor = (purpose) => {
+      const quote = this.props.sub.join(' ');
+      switch(purpose) {
+        case "reddit":
+          return `${quote} [(*${this.props.title} ${this.props.time}*)](https://${window.location.hostname}/?movie=${this.props.movieId}&quoteIndex=${this.props.subIndex})`;
+        default:
+          return `${quote} (${this.props.title} ${this.props.time})`;
+      }
+    };
+
+    clipboard.writeText(buildCopyTextFor(purpose));
     this.props.handle(true);
     setTimeout(() => {
       this.props.handle(false);
@@ -50,6 +62,45 @@ class Quote extends Component {
     let jSub = sub.join(' ');
     let index = jSub.toLowerCase().indexOf(search);
 
+    const SubWheel = (props) => {
+
+      const buildLines = (subs) => {
+        return subs.map((line, index) => {
+          return <li key={index}><span>{line.sub.join(' ')}</span><span>{line.time}</span></li>
+        });
+      };
+    
+      return (
+        <div className="subWheel">
+          <div className="preContextWrapper">
+            <ul className="preContext">
+              {buildLines(props.context.prev)}
+            </ul>
+          </div>
+          <p className="quoteModal" onClick={props.onClick}>
+            <span>{props.quote.join(' ')}</span>
+            <span>— <i>{props.title} {props.timestamp}</i></span>
+          </p>
+          <div className="postContextWrapper">
+            <ul className="postContext">
+              {buildLines(props.context.post)}
+            </ul>
+          </div>
+    
+        </div>
+    
+      );
+    };
+
+    const ShareBar = () => {   
+      return (
+        <div className={"shareBar"}>
+          <div className={"shareButton"} id={"textCopy"} onClick={() => this.handleClick()}><FontAwesomeIcon icon={faCopy} size="2x"/></div>
+          <div className={"shareButton"} id={"redditCopy"} onClick={() => this.handleClick("reddit")}><FontAwesomeIcon icon={faReddit} size="2x"/></div>
+        </div> 
+      )
+    };
+
     return (
       <div className="sub"
         onClick={this.handleClickModal}
@@ -69,44 +120,12 @@ class Quote extends Component {
             quote={sub}
             onClick={this.handleClick}
           />
+          <ShareBar />
         </Modal>
 
       </div>
     );
   }
-}
-
-
-const SubWheel = (props) => {
-
-  const buildLines = (subs) => {
-    return subs.map((line, index) => {
-      return <li key={index}><span>{line.sub.join(' ')}</span><span>{line.time}</span></li>
-    });
-  };
-
-  return (
-    <div className="subWheel">
-      <div className="ulWrapper">
-        <ul className="preContext">
-          {buildLines(props.context.prev)}
-        </ul>
-      </div>
-
-
-      <p className="quoteModal" onClick={props.onClick}>
-        <span>{props.quote.join(' ')}</span>
-        <span>— <i>{props.title} {props.timestamp}</i></span>
-      </p>
-      <div className="ulWrapper">
-        <ul className="postContext">
-          {buildLines(props.context.post)}
-        </ul>
-      </div>
-
-    </div>
-
-  );
 }
 
 export { Quote };
