@@ -11,6 +11,7 @@ class App extends Component {
 
     this.handleSearchChange = this.handleSearchChange.bind(this);
     this.handleAlert = this.handleAlert.bind(this);
+    this.buildContext = this.buildContext.bind(this);
   }
 
   handleAlert(show) {
@@ -21,20 +22,31 @@ class App extends Component {
     this.setState({ search: event.target.value });
   }
 
+  buildContext(movie, index) {
+    const start = index - 10 >= 0 ? index - 10 : 0;
+    const end = index + 10 >= movie.subs.length ? movie.subs.length : index + 10;
+
+    return {
+      prev: movie.subs.slice(start, index),
+      post: movie.subs.slice(index + 1, end + 1),
+    }
+  }
+
   showSubs() {
     var matches = []
     movies.forEach(movie => {
-      movie.subs.forEach(sub => {
-        let index = sub.sub.join(' ').toLowerCase().indexOf(this.state.search.toLowerCase().trim());
-        if (index >= 0) {
+      movie.subs.forEach((sub, index) => {
+        let strIndex = sub.sub.join(' ').toLowerCase().indexOf(this.state.search.toLowerCase().trim());
+        if (strIndex >= 0) {
           matches.push(
             <Quote
+              context={this.buildContext(movie, index)}
               sub={sub.sub}
-              search={this.state.search.trim()} //important to trim to match the actual search because highlighting calcs are based on length
+              search={this.state.search.toLowerCase().trim()} //important to trim to match the actual search because highlighting calcs are based on length
               title={movie.title}
               time={sub.time}
               handle={this.handleAlert}
-              index={index}
+              index={strIndex}
             />
           )
         }
