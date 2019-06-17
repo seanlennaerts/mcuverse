@@ -15,14 +15,25 @@
     padding: 0.1rem 0rem;
   }
 
+  .ulWrapper {
+    overflow: hidden;
+    flex: 1 0 0;
+    position: relative;
+    width: 100%;
+  }
+
+  .preContext {
+    bottom: 0;
+  }
+
   .preContext, .postContext {
+    position: absolute;
     margin: 0;
     padding: 0;
-    list-style-type: none;
-    flex: 1 0 0;
+    list-style-type: none;    
+    width: 100%;
 
     li {
-      width: 100%;
       display: flex;
       justify-content: space-between;
       line-height: 2rem;
@@ -31,11 +42,11 @@
   }
 
   .subWheel {
-    height: 100%;
-    display: flex;
+    flex: 1;
     justify-content: center;
     flex-direction: column;
     width: 100%;
+    display: flex;
   }
 
   .quoteModal {

@@ -21,9 +21,8 @@
   transform: translate(0,-2rem);  
   transition: 0.3s;
   display: flex;
-  // position: absolute;
   height: 100%;
-
+  z-index: 999;
   
   @media only screen and (min-width: 37.5em) {
     max-width: 50rem;
@@ -33,7 +32,6 @@
   }
 }
 
-
 .modalContent:before {
   content: '';
   width: 100%;
@@ -42,6 +40,7 @@
   left:0;
   top: 0;
   background: linear-gradient( rgb(15, 16, 17), transparent);
+  z-index: 999;
 }
 
 .modalContent:after {

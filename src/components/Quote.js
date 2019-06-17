@@ -87,17 +87,22 @@ const SubWheel = (props) => {
 
   return (
     <div className="subWheel">
-      <ul className="preContext">
-        {buildLines(props.context.prev)}
-      </ul>
+      <div className="ulWrapper">
+        <ul className="preContext">
+          {buildLines(props.context.prev)}
+        </ul>
+      </div>
+
 
       <p className="quoteModal" onClick={props.onClick}>
         <span>{props.quote.join(' ')}</span>
         <span>— <i>{props.title} {props.timestamp}</i></span>
       </p>
-      <ul className="postContext">
-        {buildLines(props.context.post)}
-      </ul>
+      <div className="ulWrapper">
+        <ul className="postContext">
+          {buildLines(props.context.post)}
+        </ul>
+      </div>
 
     </div>
 
