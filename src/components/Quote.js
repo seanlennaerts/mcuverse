@@ -24,7 +24,7 @@ class Quote extends Component {
       const quote = this.props.sub.join(' ');
       switch(purpose) {
         case "reddit":
-          return `${quote} [(*${this.props.title} ${this.props.time}*)](https://${window.location.hostname}/?movie=${this.props.movieId}&quoteIndex=${this.props.subIndex})`;
+          return `${quote} [(*${this.props.title} ${this.props.time}*)](https://${window.location.hostname}/mcuverse/?movie=${this.props.movieId}&quoteIndex=${this.props.subIndex})`;
         default:
           return `${quote} (${this.props.title} ${this.props.time})`;
       }
@@ -95,8 +95,8 @@ class Quote extends Component {
     const ShareBar = () => {   
       return (
         <div className={"shareBar"}>
-          <div className={"shareButton"} id={"textCopy"} onClick={() => this.handleClick()}><FontAwesomeIcon icon={faCopy} size="2x"/></div>
-          <div className={"shareButton"} id={"redditCopy"} onClick={() => this.handleClick("reddit")}><FontAwesomeIcon icon={faReddit} size="2x"/></div>
+          <div className={"shareButton"} id={"textCopy"} onClick={() => this.handleClick()} title='copy to clipboard'><FontAwesomeIcon icon={faCopy} size="2x"/></div>
+          <div className={"shareButton"} id={"redditCopy"} onClick={() => this.handleClick("reddit")} title='copy with reddit markdown'><FontAwesomeIcon icon={faReddit} size="2x"/></div>
         </div> 
       )
     };
@@ -104,7 +104,6 @@ class Quote extends Component {
     return (
       <div className="sub"
         onClick={this.handleClickModal}
-        title="click to copy to clipboard"
         onKeyPress={this.handleEsc}>
         <p>
           {jSub.substring(0, index)}
