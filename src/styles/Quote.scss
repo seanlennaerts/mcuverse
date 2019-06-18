@@ -1,0 +1,116 @@
+.sub {
+  display: table;
+  position: relative;
+  border-radius: .375rem;
+  padding: 0rem 1rem;
+  cursor: pointer;
+  color: white;
+
+  &:hover {
+    background-color: darksalmon;
+  }
+
+  .highlight {
+    background-color: darksalmon;
+    padding: 0.1rem 0rem;
+  }
+
+  .subWheel {
+    flex: 1 0 0;
+    flex-direction: column;
+    width: 100%;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+
+    &:before {
+      content: '';
+      width: 100%;
+      height: 10%;
+      position: absolute;
+      left:0;
+      top: 0;
+      background: linear-gradient( rgb(15, 16, 17), transparent);
+      z-index: 999;
+    }
+
+    &:after {
+      content: '';
+      width: 100%;
+      height: 10%;
+      position: absolute;
+      left:0;
+      bottom: 0;
+      background: linear-gradient(transparent, rgb(15, 16, 17));
+    }
+
+    .postContextWrapper, .preContextWrapper {
+      overflow: hidden;
+      flex: 1 0 0;
+      width: 100%;
+      display: flex;
+      flex-direction: column;
+      box-sizing: border-box;
+
+      @media only screen and (min-width: 37.5em) {
+        padding: 0 2rem;
+      }
+  
+      .preContext, .postContext {
+        margin: 0;
+        padding: 0;
+        list-style-type: none;    
+        width: 100%;
+    
+        li {
+          display: flex;
+          justify-content: space-between;
+          color: rgba(255, 255, 255, 0.7);
+          padding: 0.5rem 0;
+        }
+      }
+    }
+  
+    .preContextWrapper {
+      justify-content: flex-end;
+    }
+  
+    .postContextWrapper {
+      justify-content: flex-start;
+    }
+
+    .quoteModal {
+      font-size: 1.5rem;
+      padding: 1rem 1rem;
+      cursor: pointer;
+      flex: 0 0 auto;
+  
+      span {
+        display: block;
+  
+        &:nth-child(1) {
+          text-align: left;
+        }
+  
+        &:nth-child(2) {
+          text-align: right;
+        }
+      }
+    }
+  }
+
+  .shareBar {
+    display: flex;
+
+    .shareButton {
+      flex: 1;
+      text-align: center;
+      padding: 1rem;
+    }
+
+  }
+
+  .copyToClipBoardButton {
+    width: 100%;
+  }
+}
