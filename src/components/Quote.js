@@ -60,7 +60,7 @@ class Quote extends Component {
     } = this.state;
 
     let jSub = sub.join(' ');
-    let index = jSub.toLowerCase().indexOf(search);
+    let index = jSub.replace(/[^\sA-Za-z0-9_]/g,"").toLowerCase().indexOf(search);
 
     const SubWheel = (props) => {
 
@@ -69,7 +69,7 @@ class Quote extends Component {
           return <li key={index}><span>{line.sub.join(' ')}</span><span>{line.time}</span></li>
         });
       };
-    
+
       return (
         <div className="subWheel">
           <div className="preContextWrapper">
@@ -86,18 +86,18 @@ class Quote extends Component {
               {buildLines(props.context.post)}
             </ul>
           </div>
-    
+
         </div>
-    
+
       );
     };
 
-    const ShareBar = () => {   
+    const ShareBar = () => {
       return (
         <div className={"shareBar"}>
           <div className={"shareButton"} id={"textCopy"} onClick={() => this.handleClick()} title='copy to clipboard'><FontAwesomeIcon icon={faCopy} size="2x"/></div>
           <div className={"shareButton"} id={"redditCopy"} onClick={() => this.handleClick("reddit")} title='copy with reddit markdown'><FontAwesomeIcon icon={faReddit} size="2x"/></div>
-        </div> 
+        </div>
       )
     };
 
