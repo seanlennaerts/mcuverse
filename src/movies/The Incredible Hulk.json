@@ -1,4959 +1,5426 @@
 [
   {
-    "index": 0,
+    "time": "4:0",
     "sub": [
-      "Is it ready?"
+      "\u00c8 pronto?"
     ],
-    "time": "4:02"
+    "index": 0
   },
   {
-    "index": 2,
+    "time": "4:16",
     "sub": [
-      "Hey! That's a great punch."
+      "Ehi! Che bel colpo."
     ],
-    "time": "4:18"
+    "index": 1
   },
   {
-    "index": 5,
+    "time": "4:38",
     "sub": [
-      "Fear no good.",
-      "So emotion and control."
+      "Fame?"
     ],
-    "time": "5:05"
+    "index": 2
   },
   {
-    "index": 7,
+    "time": "4:40",
     "sub": [
-      "Breathe. Breathe."
+      "Fame."
     ],
-    "time": "5:33"
+    "index": 3
   },
   {
-    "index": 11,
+    "time": "4:57",
     "sub": [
-      "Wait."
+      "Lavoriamo sulla respirazione."
     ],
-    "time": "5:43"
+    "index": 4
   },
   {
-    "index": 18,
+    "time": "4:59",
+    "sub": [
+      "Qui, emozione."
+    ],
+    "index": 5
+  },
+  {
+    "time": "5:3",
+    "sub": [
+      "Paura non buona.",
+      "Cos\u00ec, emozione e controllo."
+    ],
+    "index": 6
+  },
+  {
+    "time": "5:10",
+    "sub": [
+      "Usa il diaframma."
+    ],
+    "index": 7
+  },
+  {
+    "time": "5:23",
+    "sub": [
+      "Per controllare la rabbia"
+    ],
+    "index": 8
+  },
+  {
+    "time": "5:26",
+    "sub": [
+      "devi controllare il tuo corpo."
+    ],
+    "index": 9
+  },
+  {
+    "time": "5:29",
+    "sub": [
+      "Controllare il tuo battito."
+    ],
+    "index": 10
+  },
+  {
+    "time": "5:31",
+    "sub": [
+      "Respira. Respira."
+    ],
+    "index": 11
+  },
+  {
+    "time": "5:36",
+    "sub": [
+      "Respira."
+    ],
+    "index": 12
+  },
+  {
+    "time": "5:41",
+    "sub": [
+      "Aspetta."
+    ],
+    "index": 13
+  },
+  {
+    "time": "6:53",
     "sub": [
       "Okay."
     ],
-    "time": "6:55"
+    "index": 14
   },
   {
-    "index": 19,
+    "time": "6:59",
     "sub": [
-      "I can make it work for a while,",
-      "but you need..."
+      "Posso farlo funzionare per un po',",
+      "ma serve..."
     ],
-    "time": "7:01"
+    "index": 15
   },
   {
-    "index": 21,
+    "time": "7:6",
     "sub": [
-      "Okay. Okay."
+      "Serve una fabbrica nuova."
     ],
-    "time": "7:11"
+    "index": 16
   },
   {
-    "index": 22,
+    "time": "7:9",
     "sub": [
-      "Shut that off! Turn it off!"
+      "Okay."
     ],
-    "time": "7:30"
+    "index": 17
   },
   {
-    "index": 23,
+    "time": "7:12",
     "sub": [
-      "Watch out!"
+      "Sono cinque mesi che lavori per me cos\u00ec."
     ],
-    "time": "7:36"
+    "index": 18
   },
   {
-    "index": 25,
+    "time": "7:14",
+    "sub": [
+      "Sei troppo in gamba per fare il precario."
+    ],
+    "index": 19
+  },
+  {
+    "time": "7:17",
+    "sub": [
+      "Voglio assumerti."
+    ],
+    "index": 20
+  },
+  {
+    "time": "7:28",
+    "sub": [
+      "Ferma tutto! Spegni!"
+    ],
+    "index": 21
+  },
+  {
+    "time": "7:34",
+    "sub": [
+      "Attento!"
+    ],
+    "index": 22
+  },
+  {
+    "time": "8:6",
     "sub": [
       "Okay!"
     ],
-    "time": "8:08"
+    "index": 23
   },
   {
-    "index": 30,
+    "time": "9:10",
     "sub": [
-      "That's not right."
+      "Ti va di pranzare con me?"
     ],
-    "time": "9:35"
+    "index": 24
   },
   {
-    "index": 33,
+    "time": "9:13",
     "sub": [
-      "Oh, you."
+      "Sparisci, Gringo."
     ],
-    "time": "10:02"
+    "index": 25
   },
   {
-    "index": 35,
+    "time": "9:21",
     "sub": [
-      "You see that? See that?",
-      "My ticket out of here."
+      "Hai qualche problema?"
     ],
-    "time": "10:13"
+    "index": 26
   },
   {
-    "index": 36,
+    "time": "9:24",
     "sub": [
-      "Damn it!"
+      "Troppo tardi."
     ],
-    "time": "11:51"
+    "index": 27
   },
   {
-    "index": 38,
+    "time": "9:26",
     "sub": [
-      "SPARR: Here's something",
-      "a bit more interesting."
+      "Non farmi... affamare."
     ],
-    "time": "12:56"
+    "index": 28
   },
   {
-    "index": 39,
+    "time": "9:28",
     "sub": [
-      "It's a possible gamma sickness. Milwaukee."
+      "Guarda che non ti piaccio quando sono..."
     ],
-    "time": "12:59"
+    "index": 29
   },
   {
-    "index": 40,
+    "time": "9:30",
     "sub": [
-      "A man drank one of those guarana sodas."
+      "affamato."
     ],
-    "time": "13:04"
+    "index": 30
   },
   {
-    "index": 41,
+    "time": "9:33",
     "sub": [
-      "Guess it had a little more kick",
-      "than he was looking for."
+      "Non credo sia cos\u00ec in portoghese."
     ],
-    "time": "13:08"
+    "index": 31
   },
   {
-    "index": 42,
+    "time": "9:59",
     "sub": [
-      "Wow."
+      "Ah."
     ],
-    "time": "13:12"
+    "index": 32
   },
   {
-    "index": 43,
+    "time": "10:10",
     "sub": [
-      "Where was it bottled?",
-      "Porto Verde, Brazil."
+      "Lo vedi questo? Lo vedi questo?",
+      "\u00c8 il modo per andar via da qui."
     ],
-    "time": "13:17"
+    "index": 33
   },
   {
-    "index": 44,
+    "time": "10:30",
     "sub": [
-      "Have our people look for a white man",
-      "at the bottling plant."
+      "Blue, ci sei?"
     ],
-    "time": "13:20"
+    "index": 34
   },
   {
-    "index": 45,
+    "time": "10:35",
     "sub": [
-      "Tell them no contact!",
-      "If he even sees them, he's gone!"
+      "Mr. Green!"
     ],
-    "time": "13:24"
+    "index": 35
   },
   {
-    "index": 46,
+    "time": "10:36",
     "sub": [
-      "I got you who I could.",
-      "Short notice, but they're all quality."
+      "Bello risentirti,",
+      "mio misterioso amico!"
     ],
-    "time": "13:49"
+    "index": 36
   },
   {
-    "index": 47,
+    "time": "10:40",
     "sub": [
-      "And I pulled you one ace."
+      "L'ho trovato."
     ],
-    "time": "13:52"
+    "index": 37
   },
   {
-    "index": 48,
+    "time": "10:42",
+    "sub": [
+      "Finalmente."
+    ],
+    "index": 38
+  },
+  {
+    "time": "10:43",
+    "sub": [
+      "\u00c8 un bel fiorellino, non \u00e8 vero?"
+    ],
+    "index": 39
+  },
+  {
+    "time": "10:49",
+    "sub": [
+      "- Provane una dose bella forte.",
+      "- Buona fortuna :)"
+    ],
+    "index": 40
+  },
+  {
+    "time": "11:49",
+    "sub": [
+      "Porca miseria!"
+    ],
+    "index": 41
+  },
+  {
+    "time": "11:51",
+    "sub": [
+      "Un altro fallimento"
+    ],
+    "index": 42
+  },
+  {
+    "time": "11:55",
+    "sub": [
+      ":( Quanto ne hai usato?"
+    ],
+    "index": 43
+  },
+  {
+    "time": "12:1",
+    "sub": [
+      "Tutto quanto."
+    ],
+    "index": 44
+  },
+  {
+    "time": "12:4",
+    "sub": [
+      "Allora \u00e8 tempo di incontrarci"
+    ],
+    "index": 45
+  },
+  {
+    "time": "12:10",
+    "sub": [
+      "Non sicuro."
+    ],
+    "index": 46
+  },
+  {
+    "time": "12:12",
+    "sub": [
+      "Vivere con i raggi GAMMA",
+      "non \u00e8 sicuro."
+    ],
+    "index": 47
+  },
+  {
+    "time": "12:14",
+    "sub": [
+      "Basta cogliere fiori"
+    ],
+    "index": 48
+  },
+  {
+    "time": "12:16",
+    "sub": [
+      "Inviami un campione di sangue"
+    ],
+    "index": 49
+  },
+  {
+    "time": "12:20",
+    "sub": [
+      "Non posso aiutarti",
+      "se non me lo permetti."
+    ],
+    "index": 50
+  },
+  {
+    "time": "12:54",
+    "sub": [
+      "C'\u00e8 qualcosa di pi\u00f9 interessante."
+    ],
+    "index": 51
+  },
+  {
+    "time": "12:57",
+    "sub": [
+      "Possibili sintomi da gamma. Milwaukee."
+    ],
+    "index": 52
+  },
+  {
+    "time": "13:2",
+    "sub": [
+      "Un uomo ha bevuto una bibita al guaran\u00e0."
+    ],
+    "index": 53
+  },
+  {
+    "time": "13:5",
+    "sub": [
+      "Forse era pi\u00f9 energetica di quanto volesse."
+    ],
+    "index": 54
+  },
+  {
+    "time": "13:10",
+    "sub": [
+      "Per\u00f2."
+    ],
+    "index": 55
+  },
+  {
+    "time": "13:15",
+    "sub": [
+      "- Dove \u00e8 stata imbottigliata?",
+      "- A Porto Verde, in Brasile."
+    ],
+    "index": 56
+  },
+  {
+    "time": "13:18",
+    "sub": [
+      "Chiedi ai nostri uomini di cercare",
+      "un uomo bianco in quello stabilimento."
+    ],
+    "index": 57
+  },
+  {
+    "time": "13:22",
+    "sub": [
+      "Digli di non contattarlo.",
+      "Lo perderemmo se si accorgesse di loro."
+    ],
+    "index": 58
+  },
+  {
+    "time": "13:46",
+    "sub": [
+      "Ho trovato chi c'era.",
+      "Preavviso breve, ma tutti qualificati."
+    ],
+    "index": 59
+  },
+  {
+    "time": "13:50",
+    "sub": [
+      "E ho rimediato un fuoriclasse."
+    ],
+    "index": 60
+  },
+  {
+    "time": "13:56",
     "sub": [
       "Emil Blonsky.",
-      "Born in Russia, raised in England."
+      "Nato in Russia, cresciuto in Inghilterra."
     ],
-    "time": "13:59"
+    "index": 61
   },
   {
-    "index": 49,
+    "time": "14:1",
     "sub": [
-      "And on loan to SOCOM",
-      "from the Royal Marines."
+      "Passato dalla Royal Marine ai nostri."
     ],
-    "time": "14:03"
+    "index": 62
   },
   {
-    "index": 50,
+    "time": "14:9",
     "sub": [
-      "GENERAL: I know you",
-      "cashed in some chips for this, Joe."
+      "So che le \u00e8 costato molto",
+      "ottenere questo, Joe."
     ],
-    "time": "14:12"
+    "index": 63
   },
   {
-    "index": 51,
+    "time": "14:12",
     "sub": [
-      "Glad I could help. Just make it good."
+      "Felice di poterla aiutare. Basta che funzioni."
     ],
-    "time": "14:14"
+    "index": 64
   },
   {
-    "index": 52,
+    "time": "14:25",
     "sub": [
-      "SPARR: This is the target and the location.",
-      "Snatch and grab, live capture."
+      "Ecco l'obiettivo e la localit\u00e0.",
+      "Prelevare, catturare vivo."
     ],
-    "time": "14:27"
+    "index": 65
   },
   {
-    "index": 53,
+    "time": "14:28",
     "sub": [
-      "You'll have your dart clips",
-      "and suppression ordnance,"
+      "Avrete il caricatore con i sedativi",
+      "e le munizioni letali,"
     ],
-    "time": "14:30"
+    "index": 66
   },
   {
-    "index": 54,
+    "time": "14:30",
     "sub": [
-      "but live fire is for backup only."
+      "ma potrete fare fuoco solo se necessario."
     ],
-    "time": "14:32"
+    "index": 67
   },
   {
-    "index": 55,
+    "time": "14:33",
     "sub": [
-      "We got local out there,",
-      "but we want it tight and quiet."
+      "Quelli del luogo sono con noi,",
+      "ma vogliamo una cosa tranquilla."
     ],
-    "time": "14:35"
+    "index": 68
   },
   {
-    "index": 56,
+    "time": "14:35",
     "sub": [
-      "Is he a fighter?"
+      "\u00c8 un violento?"
     ],
-    "time": "14:38"
+    "index": 69
   },
   {
-    "index": 57,
+    "time": "14:38",
     "sub": [
-      "Your target is a fugitive",
-      "from the US government"
+      "Il vostro obiettivo \u00e8 un ricercato",
+      "dal governo degli Stati Uniti"
     ],
-    "time": "14:40"
+    "index": 70
   },
   {
-    "index": 58,
+    "time": "14:41",
     "sub": [
-      "who stole military secrets."
+      "che ha rubato segreti militari."
     ],
-    "time": "14:44"
+    "index": 71
   },
   {
-    "index": 59,
+    "time": "14:44",
     "sub": [
-      "He is also implicated",
-      "in the deaths of two scientists,"
+      "\u00c8 anche implicato",
+      "nella morte di due scienziati,"
     ],
-    "time": "14:46"
+    "index": 72
   },
   {
-    "index": 60,
+    "time": "14:48",
     "sub": [
-      "a military officer, an Idaho state trooper",
-      "and possibly two Canadian hunters."
+      "di un ufficiale, di un poliziotto dell'Idaho",
+      "e forse di due cacciatori canadesi."
     ],
-    "time": "14:51"
+    "index": 73
   },
   {
-    "index": 61,
+    "time": "14:52",
     "sub": [
-      "So don't wait to see if he's a fighter!"
+      "Non aspettate di vedere se \u00e8 un violento!"
     ],
-    "time": "14:55"
+    "index": 74
   },
   {
-    "index": 62,
+    "time": "14:56",
     "sub": [
-      "Tranq him and bring him back."
+      "Sedatelo e consegnatelo a me."
     ],
-    "time": "14:58"
+    "index": 75
   },
   {
-    "index": 64,
+    "time": "15:16",
     "sub": [
-      "Oh, come on."
+      "Buone notizie"
     ],
-    "time": "15:42"
+    "index": 76
   },
   {
-    "index": 70,
+    "time": "15:19",
     "sub": [
-      "Camera."
+      "I primi esami sul sangue",
+      "indicano significativa riduzione gamma."
     ],
-    "time": "16:47"
+    "index": 77
   },
   {
-    "index": 72,
+    "time": "15:28",
     "sub": [
-      "Here we go."
+      "Mi curer\u00e0?"
     ],
-    "time": "16:51"
+    "index": 78
   },
   {
-    "index": 73,
+    "time": "15:31",
     "sub": [
-      "Get rid of the damn dog."
+      "S\u00ec"
     ],
-    "time": "17:04"
+    "index": 79
   },
   {
-    "index": 74,
+    "time": "15:38",
     "sub": [
-      "Take him!"
+      "- Ma...",
+      "- mi servono pi\u00f9 DATI"
     ],
-    "time": "17:18"
+    "index": 80
   },
   {
-    "index": 75,
+    "time": "15:40",
     "sub": [
-      "Target's on the move."
+      "Oh, ma ti prego."
     ],
-    "time": "17:31"
+    "index": 81
   },
   {
-    "index": 80,
+    "time": "15:42",
     "sub": [
-      "Where is he?"
+      "Livelli di esposizione - concentrazione",
+      "gamma - saturazione cellulare"
     ],
-    "time": "17:41"
+    "index": 82
   },
   {
-    "index": 83,
+    "time": "15:47",
     "sub": [
-      "He's on the ground."
+      "Impossibile. I dati non sono qui."
     ],
-    "time": "17:49"
+    "index": 83
   },
   {
-    "index": 84,
+    "time": "15:51",
     "sub": [
-      "Let's go!",
-      "COMMANDO: Go!"
+      "Dove sono?"
     ],
-    "time": "17:50"
+    "index": 84
   },
   {
-    "index": 85,
+    "time": "16:3",
     "sub": [
-      "Move, move!"
+      "A CASA."
     ],
-    "time": "17:53"
+    "index": 85
   },
   {
-    "index": 86,
+    "time": "16:45",
     "sub": [
-      "Go, go, go!"
+      "Videosonda."
     ],
-    "time": "18:16"
+    "index": 86
   },
   {
-    "index": 87,
+    "time": "16:48",
     "sub": [
-      "Go! Go!"
+      "Eccoci qui."
     ],
-    "time": "18:19"
+    "index": 87
   },
   {
-    "index": 89,
+    "time": "17:2",
     "sub": [
-      "COMMANDO: Clear everyone out!"
+      "Liberatevi di quel cane maledetto."
     ],
-    "time": "18:23"
+    "index": 88
   },
   {
-    "index": 90,
+    "time": "17:16",
     "sub": [
-      "Do not lose him!"
+      "Prendetelo!"
     ],
-    "time": "18:27"
+    "index": 89
   },
   {
-    "index": 92,
+    "time": "17:28",
+    "sub": [
+      "L'obiettivo \u00e8 in movimento."
+    ],
+    "index": 90
+  },
+  {
+    "time": "17:39",
+    "sub": [
+      "Dov'\u00e8 andato?"
+    ],
+    "index": 91
+  },
+  {
+    "time": "17:46",
+    "sub": [
+      "\u00c8 in strada."
+    ],
+    "index": 92
+  },
+  {
+    "time": "17:48",
+    "sub": [
+      "- Avanti!",
+      "- Vai!"
+    ],
+    "index": 93
+  },
+  {
+    "time": "17:51",
+    "sub": [
+      "Muoversi, muoversi!"
+    ],
+    "index": 94
+  },
+  {
+    "time": "17:55",
+    "sub": [
+      "Grazie."
+    ],
+    "index": 95
+  },
+  {
+    "time": "18:14",
+    "sub": [
+      "Via, via, via!"
+    ],
+    "index": 96
+  },
+  {
+    "time": "18:17",
+    "sub": [
+      "Forza, forza!"
+    ],
+    "index": 97
+  },
+  {
+    "time": "18:21",
+    "sub": [
+      "Via, largo!"
+    ],
+    "index": 98
+  },
+  {
+    "time": "18:24",
+    "sub": [
+      "Non fatevelo scappare!"
+    ],
+    "index": 99
+  },
+  {
+    "time": "19:11",
     "sub": [
       "Oh! No!"
     ],
-    "time": "19:13"
+    "index": 100
   },
   {
-    "index": 99,
+    "time": "20:24",
     "sub": [
-      "Get around behind him!"
+      "Prendetelo alle spalle!"
     ],
-    "time": "20:27"
+    "index": 101
   },
   {
-    "index": 100,
+    "time": "20:27",
     "sub": [
-      "Target moving past mobile unit 090."
+      "L'obiettivo si sposta",
+      "oltre l'unit\u00e0 mobile 0-9-0."
     ],
-    "time": "20:29"
+    "index": 102
   },
   {
-    "index": 101,
-    "sub": [
-      "Oh, no."
-    ],
-    "time": "20:47"
-  },
-  {
-    "index": 103,
-    "sub": [
-      "You got to be kidding me."
-    ],
-    "time": "20:49"
-  },
-  {
-    "index": 110,
-    "sub": [
-      "GENERAL ON RADIO: Where is he?",
-      "Target acquired."
-    ],
-    "time": "21:22"
-  },
-  {
-    "index": 113,
-    "sub": [
-      "MAN: Gringo!"
-    ],
-    "time": "21:37"
-  },
-  {
-    "index": 115,
-    "sub": [
-      "Let's go."
-    ],
-    "time": "21:54"
-  },
-  {
-    "index": 117,
-    "sub": [
-      "No!"
-    ],
-    "time": "22:09"
-  },
-  {
-    "index": 118,
-    "sub": [
-      "BRUCE: Please! No!"
-    ],
-    "time": "22:11"
-  },
-  {
-    "index": 119,
-    "sub": [
-      "Not the computer!"
-    ],
-    "time": "22:15"
-  },
-  {
-    "index": 120,
-    "sub": [
-      "Gimme that! No!"
-    ],
-    "time": "22:17"
-  },
-  {
-    "index": 121,
-    "sub": [
-      "You bad angry, G?",
-      "I very bad angry."
-    ],
-    "time": "22:35"
-  },
-  {
-    "index": 122,
+    "time": "20:44",
     "sub": [
       "Oh, no."
     ],
-    "time": "22:44"
+    "index": 103
   },
   {
-    "index": 123,
+    "time": "20:47",
     "sub": [
-      "You don't understand! Something really bad",
-      "is about to happen here!"
+      "Non ci posso credere."
     ],
-    "time": "22:46"
+    "index": 104
   },
   {
-    "index": 127,
+    "time": "21:19",
     "sub": [
-      "Anybody else seeing this?"
+      "- Dov'\u00e8?",
+      "- Obiettivo localizzato."
     ],
-    "time": "23:08"
+    "index": 105
   },
   {
-    "index": 133,
+    "time": "21:35",
     "sub": [
-      "COMMANDO 1: We've got a bogey",
-      "of some kind. Please advice."
+      "Gringo!"
     ],
-    "time": "23:43"
+    "index": 106
   },
   {
-    "index": 134,
+    "time": "21:52",
     "sub": [
-      "That is the target!",
-      "Use every tranq you've got!"
+      "Andiamo."
     ],
-    "time": "23:45"
+    "index": 107
   },
   {
-    "index": 135,
-    "sub": [
-      "Do it now!"
-    ],
-    "time": "23:48"
-  },
-  {
-    "index": 137,
-    "sub": [
-      "Go live! Go live! Go live!"
-    ],
-    "time": "23:57"
-  },
-  {
-    "index": 138,
-    "sub": [
-      "COMMANDO 1: Move!",
-      "COMMANDO 2: Get out of the way!"
-    ],
-    "time": "24:00"
-  },
-  {
-    "index": 139,
+    "time": "22:7",
     "sub": [
       "No!"
     ],
-    "time": "24:02"
+    "index": 108
   },
   {
-    "index": 142,
+    "time": "22:9",
     "sub": [
-      "COMMANDO 2: It's behind us! Move! Move!"
+      "Ti prego! No!"
     ],
-    "time": "24:36"
+    "index": 109
   },
   {
-    "index": 143,
+    "time": "22:13",
     "sub": [
-      "COMMANDO 1: Get him!"
+      "Il computer no!"
     ],
-    "time": "24:47"
+    "index": 110
   },
   {
-    "index": 144,
+    "time": "22:14",
     "sub": [
-      "Shoot!"
+      "Dammelo! No!"
     ],
-    "time": "24:50"
+    "index": 111
   },
   {
-    "index": 146,
+    "time": "22:22",
     "sub": [
-      "HULK: Leave me alone."
+      "Non fai pi\u00f9 il duro, adesso, eh?"
     ],
-    "time": "25:06"
+    "index": 112
   },
   {
-    "index": 149,
+    "time": "22:24",
+    "sub": [
+      "Riprovaci con quelle mosse."
+    ],
+    "index": 113
+  },
+  {
+    "time": "22:25",
+    "sub": [
+      "Dai."
+    ],
+    "index": 114
+  },
+  {
+    "time": "22:27",
+    "sub": [
+      "Basta. Per favore."
+    ],
+    "index": 115
+  },
+  {
+    "time": "22:30",
+    "sub": [
+      "Io... arrabbiato..."
+    ],
+    "index": 116
+  },
+  {
+    "time": "22:32",
+    "sub": [
+      "molto brutto."
+    ],
+    "index": 117
+  },
+  {
+    "time": "22:33",
+    "sub": [
+      "Tu brutto arrabbiato, G?",
+      "Io brutto arrabbiato!"
+    ],
+    "index": 118
+  },
+  {
+    "time": "22:41",
+    "sub": [
+      "Oh, no."
+    ],
+    "index": 119
+  },
+  {
+    "time": "22:44",
+    "sub": [
+      "Non capisci!",
+      "Sta per succedere qualcosa di molto brutto!"
+    ],
+    "index": 120
+  },
+  {
+    "time": "22:48",
+    "sub": [
+      "S\u00ec... molto brutto."
+    ],
+    "index": 121
+  },
+  {
+    "time": "23:5",
+    "sub": [
+      "Qualcun altro vedr\u00e0 questo video?"
+    ],
+    "index": 122
+  },
+  {
+    "time": "23:41",
+    "sub": [
+      "Oggetto non identificato. Chiedo istruzioni."
+    ],
+    "index": 123
+  },
+  {
+    "time": "23:43",
+    "sub": [
+      "\u00c8 lui l'obiettivo!",
+      "Usate tutti i sedativi che avete!"
+    ],
+    "index": 124
+  },
+  {
+    "time": "23:46",
+    "sub": [
+      "Agite subito!"
+    ],
+    "index": 125
+  },
+  {
+    "time": "23:55",
+    "sub": [
+      "Sparate! Sparate!"
+    ],
+    "index": 126
+  },
+  {
+    "time": "23:57",
+    "sub": [
+      "- Muovetevi!",
+      "- Levatevi di mezzo!"
+    ],
+    "index": 127
+  },
+  {
+    "time": "24:0",
+    "sub": [
+      "No!"
+    ],
+    "index": 128
+  },
+  {
+    "time": "24:33",
+    "sub": [
+      "\u00c8 dietro di noi! Muovetevi!"
+    ],
+    "index": 129
+  },
+  {
+    "time": "24:45",
+    "sub": [
+      "Prendetelo!"
+    ],
+    "index": 130
+  },
+  {
+    "time": "24:47",
+    "sub": [
+      "Fuoco a volont\u00e0!"
+    ],
+    "index": 131
+  },
+  {
+    "time": "25:3",
+    "sub": [
+      "Lasciami in pace."
+    ],
+    "index": 132
+  },
+  {
+    "time": "26:17",
     "sub": [
       "No! No!"
     ],
-    "time": "26:19"
+    "index": 133
   },
   {
-    "index": 152,
+    "time": "26:31",
     "sub": [
-      "I knew something was different",
-      "before I got the shot off."
+      "Ho capito che c'era qualcosa di diverso",
+      "prima di sparare."
     ],
-    "time": "26:33"
+    "index": 134
   },
   {
-    "index": 153,
+    "time": "26:33",
     "sub": [
-      "He had it on him when he bolted."
+      "L'aveva addosso quando \u00e8 scappato."
     ],
-    "time": "26:35"
+    "index": 135
   },
   {
-    "index": 154,
+    "time": "26:42",
     "sub": [
-      "Is that a girlfriend? She helps him, maybe?"
+      "\u00c8 una fidanzata? Forse lo aiuta?"
     ],
-    "time": "26:44"
+    "index": 136
   },
   {
-    "index": 155,
+    "time": "26:48",
     "sub": [
-      "She is no longer a factor."
+      "Lei non \u00e8 pi\u00f9 rilevante."
     ],
-    "time": "26:50"
+    "index": 137
   },
   {
-    "index": 156,
+    "time": "26:51",
     "sub": [
-      "We closed that door to him a long time ago.",
-      "He's alone."
+      "Gli abbiamo chiuso quella porta",
+      "tanto tempo fa. \u00c8 solo."
     ],
-    "time": "26:53"
+    "index": 138
   },
   {
-    "index": 157,
+    "time": "26:54",
     "sub": [
-      "He wants to be alone.",
-      "But see if he's been talking to anybody."
+      "Vuole restare da solo.",
+      "Ma controlli se ha parlato con qualcuno."
     ],
-    "time": "26:57"
+    "index": 139
   },
   {
-    "index": 158,
+    "time": "27:6",
     "sub": [
-      "Forgive me, sir?"
+      "Mi perdoni, signore."
     ],
-    "time": "27:08"
+    "index": 140
   },
   {
-    "index": 159,
+    "time": "27:9",
     "sub": [
-      "Doesn't anybody want to talk",
-      "about what went down in there? 'Cause..."
+      "Nessuno vuole parlare",
+      "di quanto \u00e8 successo l\u00e0? Perch\u00e9..."
     ],
-    "time": "27:11"
+    "index": 141
   },
   {
-    "index": 160,
+    "time": "27:14",
     "sub": [
-      "He didn't lose us."
+      "Non ci ha seminati."
     ],
-    "time": "27:16"
+    "index": 142
   },
   {
-    "index": 161,
+    "time": "27:15",
     "sub": [
-      "And he was not alone, sir. We had him."
+      "E non era da solo, signore. Era nostro."
     ],
-    "time": "27:18"
+    "index": 143
   },
   {
-    "index": 162,
+    "time": "27:19",
     "sub": [
-      "And then something hit us, something..."
+      "E poi qualcosa ci ha colpito. Qualcosa..."
     ],
-    "time": "27:21"
+    "index": 144
   },
   {
-    "index": 163,
+    "time": "27:22",
     "sub": [
-      "Something big hit us!"
+      "Qualcosa di enorme ci ha colpito!"
     ],
-    "time": "27:24"
+    "index": 145
   },
   {
-    "index": 164,
+    "time": "27:27",
     "sub": [
-      "It threw a forklift truck like it was a softball!"
+      "Ha lanciato un carrello elevatore",
+      "come se fosse una palla da baseball!"
     ],
-    "time": "27:29"
+    "index": 146
   },
   {
-    "index": 165,
+    "time": "27:32",
     "sub": [
-      "It was the most powerful thing",
-      "I've ever seen."
+      "\u00c8 l'essere pi\u00f9 possente",
+      "che abbia mai visto."
     ],
-    "time": "27:34"
+    "index": 147
   },
   {
-    "index": 166,
+    "time": "27:36",
     "sub": [
-      "Well, it's gone."
+      "Se n'\u00e8 andato."
     ],
-    "time": "27:39"
+    "index": 148
   },
   {
-    "index": 167,
+    "time": "27:40",
     "sub": [
-      "Well, if Banner knows what it is,"
+      "Se Banner sa che cos'\u00e8 quello,"
     ],
-    "time": "27:42"
+    "index": 149
   },
   {
-    "index": 168,
+    "time": "27:42",
     "sub": [
-      "I'm gonna track him down,",
-      "I'm gonna put my foot on his throat"
+      "io lo trover\u00f2 di sicuro.",
+      "Gli metter\u00f2 un piede sulla gola"
     ],
-    "time": "27:44"
+    "index": 150
   },
   {
-    "index": 169,
+    "time": "27:45",
     "sub": [
-      "and I'm gonna...",
-      "That was Banner."
+      "- e lo...",
+      "- Era Banner."
     ],
-    "time": "27:47"
+    "index": 151
   },
   {
-    "index": 170,
+    "time": "27:52",
     "sub": [
-      "It"
+      "Quello"
     ],
-    "time": "27:54"
+    "index": 152
   },
   {
-    "index": 171,
+    "time": "27:55",
     "sub": [
-      "was Banner."
+      "era Banner."
     ],
-    "time": "27:57"
+    "index": 153
   },
   {
-    "index": 172,
+    "time": "27:56",
     "sub": [
-      "You have to explain that statement, sir.",
-      "No, I don't."
+      "- Deve spiegare tale affermazione, signore.",
+      "- Non devo."
     ],
-    "time": "27:59"
+    "index": 154
   },
   {
-    "index": 173,
+    "time": "28:3",
     "sub": [
-      "You've done a good job."
+      "Avete fatto un buon lavoro."
     ],
-    "time": "28:05"
+    "index": 155
   },
   {
-    "index": 174,
+    "time": "28:6",
     "sub": [
-      "Pack up and get our men on a plane.",
-      "We're going home."
+      "Preparatevi e mettete i nostri uomini",
+      "su un aereo. Torniamo a casa."
     ],
-    "time": "28:08"
+    "index": 156
   },
   {
-    "index": 175,
+    "time": "29:15",
     "sub": [
-      "Wait."
+      "Aspetti."
     ],
-    "time": "29:17"
+    "index": 157
   },
   {
-    "index": 176,
+    "time": "29:19",
     "sub": [
-      "Please."
+      "La prego."
     ],
-    "time": "29:21"
+    "index": 158
   },
   {
-    "index": 177,
+    "time": "29:22",
     "sub": [
-      "Where am I?"
+      "Pu\u00f2 aiutarmi?"
     ],
-    "time": "29:29"
+    "index": 159
   },
   {
-    "index": 178,
+    "time": "29:24",
     "sub": [
-      "BLONSKY: I've run into bad situations",
-      "on crap missions before."
+      "Non parlo portoghese."
     ],
-    "time": "30:06"
+    "index": 160
   },
   {
-    "index": 179,
+    "time": "29:27",
     "sub": [
-      "I've seen good men go down"
+      "Dove sono?"
     ],
-    "time": "30:09"
+    "index": 161
   },
   {
-    "index": 180,
+    "time": "29:30",
     "sub": [
-      "purely because someone didn't let us know",
-      "what we were walking into."
+      "Dove sono?"
     ],
-    "time": "30:11"
+    "index": 162
   },
   {
-    "index": 181,
+    "time": "29:32",
     "sub": [
-      "I've moved on to the next one,",
-      "because that's what we do, right?"
+      "In Guatemala."
     ],
-    "time": "30:14"
+    "index": 163
   },
   {
-    "index": 182,
+    "time": "29:34",
     "sub": [
-      "I mean, that's the job."
+      "Vado in citt\u00e0."
     ],
-    "time": "30:16"
+    "index": 164
   },
   {
-    "index": 183,
+    "time": "29:40",
     "sub": [
-      "But this?"
+      "Mi aiuta, per favore?"
     ],
-    "time": "30:18"
+    "index": 165
   },
   {
-    "index": 184,
+    "time": "29:42",
     "sub": [
-      "This is a whole new level of weird."
+      "Sali."
     ],
-    "time": "30:21"
+    "index": 166
   },
   {
-    "index": 185,
+    "time": "29:46",
     "sub": [
-      "And I don't feel inclined",
-      "to step away from it."
+      "Mettiti questa."
     ],
-    "time": "30:24"
+    "index": 167
   },
   {
-    "index": 186,
+    "time": "29:54",
     "sub": [
-      "So if you're taking another crack at him,",
-      "I want in."
+      "Dove vai?"
     ],
-    "time": "30:27"
+    "index": 168
   },
   {
-    "index": 187,
+    "time": "29:56",
     "sub": [
-      "And, with respect, you should be looking",
-      "for a team that's prepped and ready to fight,"
+      "A casa."
     ],
-    "time": "30:30"
+    "index": 169
   },
   {
-    "index": 188,
+    "time": "30:4",
     "sub": [
-      "because if that thing shows up again,"
+      "Mi sono gi\u00e0 capitate situazioni difficili",
+      "in missioni schifose."
     ],
-    "time": "30:34"
+    "index": 170
   },
   {
-    "index": 189,
+    "time": "30:7",
     "sub": [
-      "you're gonna have a lot of professional",
-      "tough guys pissing in their pants."
+      "Ho visto uomini valorosi morire"
     ],
-    "time": "30:37"
+    "index": 171
   },
   {
-    "index": 190,
+    "time": "30:8",
     "sub": [
-      "Sir."
+      "solo perch\u00e9 qualcuno non ci aveva detto",
+      "cosa ci aspettava."
     ],
-    "time": "30:42"
+    "index": 172
   },
   {
-    "index": 196,
+    "time": "30:12",
     "sub": [
-      "Tienes m��s stretchy?"
+      "Non ho mollato",
+      "perch\u00e9 questo \u00e8 il nostro dovere, no?"
     ],
-    "time": "31:33"
+    "index": 173
   },
   {
-    "index": 197,
+    "time": "30:14",
     "sub": [
-      "Yeah. Perfecto."
+      "Il nostro lavoro \u00e8 cos\u00ec."
     ],
-    "time": "31:36"
+    "index": 174
   },
   {
-    "index": 199,
+    "time": "30:16",
     "sub": [
-      "Let me emphasise",
-      "that what I'm about to share with you"
+      "Ma questo?"
     ],
-    "time": "32:10"
+    "index": 175
   },
   {
-    "index": 200,
+    "time": "30:19",
     "sub": [
-      "is tremendously sensitive,",
-      "both to me personally and the Army."
+      "Questo arriva all'assurdo pi\u00f9 assurdo."
     ],
-    "time": "32:12"
+    "index": 176
   },
   {
-    "index": 201,
+    "time": "30:22",
     "sub": [
-      "You're aware that we've got an",
-      "Infantry Weapons Development programme."
+      "E non ho voglia di arrendermi."
     ],
-    "time": "32:19"
+    "index": 177
   },
   {
-    "index": 202,
+    "time": "30:25",
     "sub": [
-      "Well, in WWll, they initiated a subprogram"
+      "Quindi se volesse riprovare a prenderlo,",
+      "io voglio esserci."
     ],
-    "time": "32:22"
+    "index": 178
   },
   {
-    "index": 203,
+    "time": "30:28",
     "sub": [
-      "for BioTech Force Enhancement."
+      "E, con tutto il rispetto, dovrebbe cercare",
+      "uomini preparati e pronti a tutto,"
     ],
-    "time": "32:27"
+    "index": 179
   },
   {
-    "index": 204,
+    "time": "30:32",
     "sub": [
-      "Yeah, Super Soldier."
+      "perch\u00e9 se quella cosa si rifar\u00e0 viva"
     ],
-    "time": "32:29"
+    "index": 180
   },
   {
-    "index": 205,
+    "time": "30:35",
     "sub": [
-      "Yes."
+      "ci saranno tanti duri di professione",
+      "che se la faranno nei pantaloni."
     ],
-    "time": "32:34"
+    "index": 181
   },
   {
-    "index": 206,
+    "time": "30:39",
     "sub": [
-      "An oversimplification, but yes."
+      "Signore."
     ],
-    "time": "32:35"
+    "index": 182
   },
   {
-    "index": 207,
+    "time": "31:31",
     "sub": [
-      "And I dusted it off, got 'em doing",
-      "serious work again, bold work."
+      "\"Tienes mas\" elastici?"
     ],
-    "time": "32:39"
+    "index": 183
   },
   {
-    "index": 208,
+    "time": "31:34",
     "sub": [
-      "Across the hall,",
-      "they were trying to arm you better."
+      "Ah, s\u00ec. \"Perfecto.\""
     ],
-    "time": "32:43"
+    "index": 184
   },
   {
-    "index": 209,
+    "time": "32:8",
     "sub": [
-      "We were tryin' to make you better."
+      "Mi lasci sottolineare",
+      "che quanto sto per rivelarle"
     ],
-    "time": "32:45"
+    "index": 185
   },
   {
-    "index": 210,
+    "time": "32:10",
     "sub": [
-      "Banner's work was very early phase.",
-      "It wasn't even weapons application."
+      "\u00e8 assolutamente riservato,",
+      "sia per me che per lo Stato Maggiore."
     ],
-    "time": "32:51"
+    "index": 186
   },
   {
-    "index": 211,
+    "time": "32:16",
     "sub": [
-      "He thought he was working",
-      "on radiation resistance."
+      "Lei sa del nostro programma",
+      "di sviluppo di armi per la fanteria."
     ],
-    "time": "32:56"
+    "index": 187
   },
   {
-    "index": 212,
+    "time": "32:20",
     "sub": [
-      "I would never have told him",
-      "what the project really was."
+      "Durante la seconda guerra mondiale,",
+      "diedero inizio a un sotto programma"
     ],
-    "time": "32:59"
+    "index": 188
   },
   {
-    "index": 213,
+    "time": "32:24",
     "sub": [
-      "But he was so sure of what he was onto,",
-      "that he tested it on himself."
+      "per il perfezionamento",
+      "della bio-tecnica militare."
     ],
-    "time": "33:02"
+    "index": 189
   },
   {
-    "index": 214,
+    "time": "32:27",
     "sub": [
-      "And something went very wrong."
+      "S\u00ec, il Super Soldato."
     ],
-    "time": "33:07"
+    "index": 190
   },
   {
-    "index": 215,
+    "time": "32:31",
     "sub": [
-      "Or it went very right."
+      "S\u00ec."
     ],
-    "time": "33:12"
+    "index": 191
   },
   {
-    "index": 216,
+    "time": "32:33",
     "sub": [
-      "As far as I'm concerned, that man's",
-      "whole body is the property of the US Army."
+      "\u00c8 una super-semplificazione, ma \u00e8 cos\u00ec."
     ],
-    "time": "33:15"
+    "index": 192
   },
   {
-    "index": 217,
+    "time": "32:36",
     "sub": [
-      "You said he wasn't working",
-      "on weapons, right?"
+      "Io l'ho rispolverato. Li ho messi",
+      "di nuovo a fare un lavoro serio e audace."
     ],
-    "time": "33:19"
+    "index": 193
   },
   {
-    "index": 218,
+    "time": "32:40",
     "sub": [
-      "No.",
-      "But you were. You were, weren't you?"
+      "Il laboratorio cercava di armarvi meglio."
     ],
-    "time": "33:22"
+    "index": 194
   },
   {
-    "index": 219,
+    "time": "32:43",
     "sub": [
-      "You were trying other things."
+      "Noi cercavamo di rendere voi migliori."
     ],
-    "time": "33:24"
+    "index": 195
   },
   {
-    "index": 220,
+    "time": "32:49",
     "sub": [
-      "One serum we developed"
+      "Banner lavorava a una fase molto iniziale,",
+      "non ancora applicata."
     ],
-    "time": "33:27"
+    "index": 196
   },
   {
-    "index": 221,
+    "time": "32:54",
     "sub": [
-      "was very promising."
+      "Lui credeva di lavorare",
+      "sulla resistenza alle radiazioni."
     ],
-    "time": "33:31"
+    "index": 197
   },
   {
-    "index": 222,
+    "time": "32:57",
     "sub": [
-      "So why did he run?",
-      "He's a scientist."
+      "Non gli avrei mai svelato il vero progetto."
     ],
-    "time": "33:32"
+    "index": 198
   },
   {
-    "index": 223,
+    "time": "33:0",
     "sub": [
-      "He is not one of us."
+      "Ma era talmente sicuro della sua scoperta,",
+      "che l'ha sperimentata su se stesso."
     ],
-    "time": "33:36"
+    "index": 199
   },
   {
-    "index": 224,
+    "time": "33:5",
     "sub": [
-      "Blonsky, how old are you? 45?",
-      "39."
+      "E qualcosa \u00e8 andato molto male."
     ],
-    "time": "33:41"
+    "index": 200
   },
   {
-    "index": 225,
+    "time": "33:10",
     "sub": [
-      "It takes a toll, doesn't it?",
-      "Yes, it does."
+      "Oppure \u00e8 andato molto bene."
     ],
-    "time": "33:46"
+    "index": 201
   },
   {
-    "index": 226,
+    "time": "33:13",
     "sub": [
-      "So get out of the trenches."
+      "Per quanto mi riguarda, quell'uomo",
+      "appartiene all'esercito degli Stati uniti."
     ],
-    "time": "33:50"
+    "index": 202
   },
   {
-    "index": 227,
+    "time": "33:17",
     "sub": [
-      "You should be a Colonel by now,",
-      "with your record."
+      "Ha detto che non lavorava sulle armi, vero?"
     ],
-    "time": "33:51"
+    "index": 203
   },
   {
-    "index": 228,
+    "time": "33:20",
     "sub": [
-      "No, I'm a fighter.",
-      "I'll be one for as long as I can."
+      "- No.",
+      "- Ma voi s\u00ec. Giusto?"
     ],
-    "time": "33:54"
+    "index": 204
   },
   {
-    "index": 229,
+    "time": "33:22",
     "sub": [
-      "You know, if I could take what I know now,",
-      "put it in the body I had ten years ago,"
+      "Voi sperimentavate altre cose."
     ],
-    "time": "33:58"
+    "index": 205
   },
   {
-    "index": 230,
+    "time": "33:24",
     "sub": [
-      "that would be someone",
-      "I wouldn't want to fight."
+      "Un siero che elaborammo"
     ],
-    "time": "34:01"
+    "index": 206
   },
   {
-    "index": 231,
+    "time": "33:28",
     "sub": [
-      "I could probably arrange",
-      "something like that."
+      "era molto promettente."
     ],
-    "time": "34:06"
+    "index": 207
   },
   {
-    "index": 232,
+    "time": "33:30",
     "sub": [
-      "Take care, kids."
+      "- Allora perch\u00e9 \u00e8 fuggito?",
+      "- \u00c8 uno scienziato."
     ],
-    "time": "36:30"
+    "index": 208
   },
   {
-    "index": 233,
+    "time": "33:34",
     "sub": [
-      "Stan, I give you my word,"
+      "Non \u00e8 uno di noi."
     ],
-    "time": "36:43"
+    "index": 209
   },
   {
-    "index": 234,
+    "time": "33:39",
     "sub": [
-      "whatever you've heard about me,",
-      "it's not true."
+      "- Blonsky, quanti anni ha? 45?",
+      "- 39."
     ],
-    "time": "36:45"
+    "index": 210
   },
   {
-    "index": 235,
+    "time": "33:44",
     "sub": [
-      "Oh, I know it. I always knew it."
+      "- Si invecchia precocemente, vero?",
+      "- S\u00ec, \u00e8 vero."
     ],
-    "time": "36:46"
+    "index": 211
   },
   {
-    "index": 236,
+    "time": "33:48",
     "sub": [
-      "I mean, you know how I felt about you two."
+      "Allora lasci la trincea."
     ],
-    "time": "36:50"
+    "index": 212
   },
   {
-    "index": 237,
+    "time": "33:49",
     "sub": [
-      "Have you talked to her?",
-      "No."
+      "Dovrebbe essere colonnello,",
+      "col suo stato di servizio."
     ],
-    "time": "36:55"
+    "index": 213
   },
   {
-    "index": 238,
+    "time": "33:51",
     "sub": [
-      "She doesn't know that I'm here."
+      "No, sono un combattente.",
+      "Lo sar\u00f2 fino a che potr\u00f2."
     ],
-    "time": "36:58"
+    "index": 214
   },
   {
-    "index": 239,
+    "time": "33:56",
     "sub": [
-      "She's with somebody?",
-      "Yeah, he's a head shrink."
+      "Se potessi mettere la mia esperienza",
+      "nel corpo che avevo 10 anni fa,"
     ],
-    "time": "37:02"
+    "index": 215
   },
   {
-    "index": 240,
+    "time": "33:59",
     "sub": [
-      "They say he's one of the best.",
-      "But a really nice guy."
+      "ci sarebbe un uomo",
+      "che avrei paura di affrontare."
     ],
-    "time": "37:07"
+    "index": 216
   },
   {
-    "index": 241,
+    "time": "34:4",
     "sub": [
-      "Good. That's good."
+      "Forse potrei organizzare",
+      "una cosa del genere."
     ],
-    "time": "37:13"
+    "index": 217
   },
   {
-    "index": 242,
+    "time": "36:28",
     "sub": [
-      "Bruce, what can I do to help you?",
-      "I could use a bed for a few nights."
+      "Ci vediamo, ragazzi."
     ],
-    "time": "37:15"
+    "index": 218
   },
   {
-    "index": 243,
+    "time": "36:30",
     "sub": [
-      "You can have the spare room upstairs.",
-      "That'd be so great."
+      "Chiuso"
     ],
-    "time": "37:20"
+    "index": 219
   },
   {
-    "index": 244,
+    "time": "36:41",
     "sub": [
-      "There is one other thing."
+      "Stan, ti do la mia parola."
     ],
-    "time": "37:26"
+    "index": 220
   },
   {
-    "index": 245,
+    "time": "36:42",
     "sub": [
-      "Excuse me. Pardon me."
+      "Ci\u00f2 che hai sentito sul mio conto",
+      "non \u00e8 vero."
     ],
-    "time": "37:32"
+    "index": 221
   },
   {
-    "index": 246,
+    "time": "36:44",
     "sub": [
-      "Coming through."
+      "Lo so. L'ho sempre saputo."
     ],
-    "time": "37:36"
+    "index": 222
   },
   {
-    "index": 247,
+    "time": "36:47",
     "sub": [
-      "Hey, pal. I got a delivery on five."
+      "Lo sai cosa provavo per voi due."
     ],
-    "time": "37:42"
+    "index": 223
   },
   {
-    "index": 248,
+    "time": "36:53",
     "sub": [
-      "I don't think there's anybody up there."
+      "- Hai parlato con lei?",
+      "- No."
     ],
-    "time": "37:45"
+    "index": 224
   },
   {
-    "index": 249,
+    "time": "36:56",
     "sub": [
-      "Oh, man. I'm gonna catch hell",
-      "if I don't collect. You got to let me try."
+      "Lei non sa che sono qui."
     ],
-    "time": "37:46"
+    "index": 225
   },
   {
-    "index": 250,
+    "time": "37:0",
     "sub": [
-      "I'll tell you what. I got an extra medium.",
-      "Take it on the house."
+      "- Sta con qualcuno?",
+      "- S\u00ec, lui \u00e8 uno psichiatra."
     ],
-    "time": "37:53"
+    "index": 226
   },
   {
-    "index": 251,
+    "time": "37:5",
     "sub": [
-      "You are the man.",
-      "God bless you, brother."
+      "Dicono che sia uno dei migliori.",
+      "Per\u00f2 \u00e8 un tipo simpatico."
     ],
-    "time": "38:03"
+    "index": 227
   },
   {
-    "index": 252,
+    "time": "37:11",
     "sub": [
-      "All right."
+      "Bene. Va bene."
     ],
-    "time": "38:09"
+    "index": 228
   },
   {
-    "index": 254,
+    "time": "37:13",
+    "sub": [
+      "- Bruce, come ti posso aiutare?",
+      "- Se potessi avere un letto per qualche notte."
+    ],
+    "index": 229
+  },
+  {
+    "time": "37:18",
+    "sub": [
+      "- Puoi prendere la camera degli ospiti.",
+      "- Sarebbe grandioso."
+    ],
+    "index": 230
+  },
+  {
+    "time": "37:24",
+    "sub": [
+      "C'\u00e8 un'altra cosa."
+    ],
+    "index": 231
+  },
+  {
+    "time": "37:30",
+    "sub": [
+      "Scusate. Permesso."
+    ],
+    "index": 232
+  },
+  {
+    "time": "37:33",
+    "sub": [
+      "Pista!"
+    ],
+    "index": 233
+  },
+  {
+    "time": "37:40",
+    "sub": [
+      "Scusa, ho una consegna al quinto."
+    ],
+    "index": 234
+  },
+  {
+    "time": "37:42",
+    "sub": [
+      "Non c'\u00e8 nessuno di sopra."
+    ],
+    "index": 235
+  },
+  {
+    "time": "37:44",
+    "sub": [
+      "Porca miseria. E chi li sente",
+      "se non riscuoto? Fammi provare."
+    ],
+    "index": 236
+  },
+  {
+    "time": "37:50",
+    "sub": [
+      "Senti, ho una pizza in pi\u00f9. Offre la casa."
+    ],
+    "index": 237
+  },
+  {
+    "time": "38:1",
+    "sub": [
+      "- Sei un amico.",
+      "- Dio ti benedica, fratello."
+    ],
+    "index": 238
+  },
+  {
+    "time": "38:7",
+    "sub": [
+      "Bene."
+    ],
+    "index": 239
+  },
+  {
+    "time": "39:5",
     "sub": [
       "Okay."
     ],
-    "time": "39:08"
+    "index": 240
   },
   {
-    "index": 255,
+    "time": "39:46",
     "sub": [
-      "We're pretty well closed here, folks.",
-      "I'm sorry."
+      "Mr. Green! Come va la ricerca?"
     ],
-    "time": "40:22"
+    "index": 241
   },
   {
-    "index": 256,
+    "time": "39:49",
     "sub": [
-      "Oh, come on, Stan. It's Friday night."
+      "I dati sono scomparsi."
     ],
-    "time": "40:25"
+    "index": 242
   },
   {
-    "index": 257,
+    "time": "39:52",
     "sub": [
-      "Oh, kids."
+      "Senza quelli..."
     ],
-    "time": "40:28"
+    "index": 243
   },
   {
-    "index": 258,
+    "time": "39:54",
     "sub": [
-      "I got nothing but marinara now."
+      "non posso aiutarti"
     ],
-    "time": "40:30"
+    "index": 244
   },
   {
-    "index": 259,
+    "time": "39:59",
     "sub": [
-      "Oh, I got to have a Mister Pink, please."
+      "E ora che facciamo?"
     ],
-    "time": "40:33"
+    "index": 245
   },
   {
-    "index": 260,
+    "time": "40:1",
     "sub": [
-      "She worked through dinner again,",
-      "of course."
+      "Devo continuare a spostarmi."
     ],
-    "time": "40:35"
+    "index": 246
   },
   {
-    "index": 261,
+    "time": "40:20",
+    "sub": [
+      "Stiamo per chiudere, signori. Mi dispiace."
+    ],
+    "index": 247
+  },
+  {
+    "time": "40:23",
+    "sub": [
+      "Ti prego, Stan. \u00c8 venerd\u00ec sera."
+    ],
+    "index": 248
+  },
+  {
+    "time": "40:26",
+    "sub": [
+      "Oh, ragazzi."
+    ],
+    "index": 249
+  },
+  {
+    "time": "40:28",
+    "sub": [
+      "Vi posso fare soltanto la marinara."
+    ],
+    "index": 250
+  },
+  {
+    "time": "40:31",
+    "sub": [
+      "Ho tanta voglia di una Mister Pink, ti prego."
+    ],
+    "index": 251
+  },
+  {
+    "time": "40:33",
+    "sub": [
+      "Anche oggi ha lavorato all'ora di pranzo."
+    ],
+    "index": 252
+  },
+  {
+    "time": "40:43",
     "sub": [
       "Stan?"
     ],
-    "time": "40:45"
+    "index": 253
   },
   {
-    "index": 262,
+    "time": "40:45",
     "sub": [
-      "And he... I go, \"So, yeah,",
-      "I mean, where were you?"
+      "Cos\u00ec ho detto: \"Allora, dov'eri finito?\""
     ],
-    "time": "40:47"
+    "index": 254
   },
   {
-    "index": 263,
+    "time": "40:50",
     "sub": [
-      "\"I can't... I don't know",
-      "where you were, Cecil.\""
+      "\"Non sapevo dove fossi, Cecil.\""
     ],
-    "time": "40:52"
+    "index": 255
   },
   {
-    "index": 264,
+    "time": "40:52",
     "sub": [
-      "And he goes, \"Not where you been at.\""
+      "E lui fa: \"Non dove'eri tu.\""
     ],
-    "time": "40:54"
+    "index": 256
   },
   {
-    "index": 265,
+    "time": "40:54",
     "sub": [
-      "I thought, \"Oh, my God.\" I just felt so awful."
+      "Ho pensato: \"Oh, mio Dio.\"",
+      "Mi sono sentito uno stupido."
     ],
-    "time": "40:56"
+    "index": 257
   },
   {
-    "index": 267,
+    "time": "41:26",
     "sub": [
       "Bruce?"
     ],
-    "time": "41:28"
+    "index": 258
   },
   {
-    "index": 268,
+    "time": "41:34",
     "sub": [
-      "Betty? What's going on?"
+      "Betty? Che sta succedendo?"
     ],
-    "time": "41:36"
+    "index": 259
   },
   {
-    "index": 269,
+    "time": "41:52",
     "sub": [
       "Betty..."
     ],
-    "time": "41:54"
+    "index": 260
   },
   {
-    "index": 270,
+    "time": "41:53",
     "sub": [
-      "Just tell me if I saw what I think I saw."
+      "Devi solo dirmi se ho visto",
+      "chi credo di aver visto."
     ],
-    "time": "41:55"
+    "index": 261
   },
   {
-    "index": 271,
+    "time": "41:58",
     "sub": [
-      "I don't know what to say.",
-      "Please, just tell me the truth."
+      "- Non so che cosa dire.",
+      "- Ti prego, dimmi solo la verit\u00e0."
     ],
-    "time": "42:00"
+    "index": 262
   },
   {
-    "index": 272,
+    "time": "42:43",
     "sub": [
-      "BETTY: Don't go. Don't go."
+      "Non andare via. Non andare."
     ],
-    "time": "42:45"
+    "index": 263
   },
   {
-    "index": 273,
+    "time": "42:55",
     "sub": [
-      "I want you to come with me now."
+      "Voglio che tu venga con me adesso."
     ],
-    "time": "42:57"
+    "index": 264
   },
   {
-    "index": 274,
+    "time": "42:57",
     "sub": [
-      "Please. Come with me."
+      "Ti prego. Vieni con me."
     ],
-    "time": "42:59"
+    "index": 265
   },
   {
-    "index": 275,
+    "time": "43:1",
     "sub": [
-      "Please."
+      "Ti prego."
     ],
-    "time": "43:03"
+    "index": 266
   },
   {
-    "index": 276,
+    "time": "43:32",
     "sub": [
-      "BETTY: It's our data."
+      "Sono i nostri dati."
     ],
-    "time": "43:34"
+    "index": 267
   },
   {
-    "index": 277,
+    "time": "43:35",
     "sub": [
-      "I got in there before they carted it all away."
+      "Sono andata l\u00ec",
+      "prima che portassero via tutto."
     ],
-    "time": "43:37"
+    "index": 268
   },
   {
-    "index": 278,
+    "time": "43:40",
     "sub": [
-      "I hoped somewhere that it might tell us",
-      "something someday."
+      "Speravo che un giorno in qualche modo",
+      "potessero dirci qualcosa."
     ],
-    "time": "43:42"
+    "index": 269
   },
   {
-    "index": 279,
+    "time": "43:46",
     "sub": [
-      "Does the General know that you have this?",
-      "No, I don't think so."
+      "- Il generale sa che lii hai?",
+      "- No, non credo proprio."
     ],
-    "time": "43:48"
+    "index": 270
   },
   {
-    "index": 280,
+    "time": "43:51",
     "sub": [
-      "I haven't spoken to him in a couple of years."
+      "Non parlo pi\u00f9 con lui da un paio di anni."
     ],
-    "time": "43:53"
+    "index": 271
   },
   {
-    "index": 281,
+    "time": "43:53",
     "sub": [
-      "You have to be sure."
+      "Devi esserne sicura."
     ],
-    "time": "43:55"
+    "index": 272
   },
   {
-    "index": 282,
+    "time": "43:55",
     "sub": [
-      "Bruce, I don't understand why we can't",
-      "just go in there together and talk to him."
+      "Bruce, non capisco perch\u00e9",
+      "non possiamo provare a parlare con lui."
     ],
-    "time": "43:57"
+    "index": 273
   },
   {
-    "index": 283,
+    "time": "44:0",
     "sub": [
-      "He told me what he wanted to do.",
-      "He wants it out of me."
+      "Mi ha detto quello che intendeva fare.",
+      "Vuole il mio DNA."
     ],
-    "time": "44:02"
+    "index": 274
   },
   {
-    "index": 284,
+    "time": "44:5",
     "sub": [
-      "He wants to dissect it",
-      "so that he can replicate it."
+      "Vuole decodificarlo per poterlo riprodurre."
     ],
-    "time": "44:07"
+    "index": 275
   },
   {
-    "index": 285,
+    "time": "44:8",
     "sub": [
-      "He wants to make it a weapon."
+      "Vuole farne un'arma."
     ],
-    "time": "44:10"
+    "index": 276
   },
   {
-    "index": 286,
+    "time": "45:2",
     "sub": [
-      "Hi.",
-      "Hi."
+      "- Ciao.",
+      "- Ciao."
     ],
-    "time": "45:05"
+    "index": 277
   },
   {
-    "index": 287,
+    "time": "45:5",
     "sub": [
-      "I thought you might want to...",
-      "Thanks."
+      "- Ho pensato che volessi...",
+      "- Grazie."
     ],
-    "time": "45:07"
+    "index": 278
   },
   {
-    "index": 288,
+    "time": "45:11",
     "sub": [
-      "Listen, I should leave early,",
-      "as early as I can."
+      "Senti, dovrei andarmene presto,",
+      "il prima possibile."
     ],
-    "time": "45:13"
+    "index": 279
   },
   {
-    "index": 289,
+    "time": "45:14",
     "sub": [
-      "Really? You can't stay at all?"
+      "Davvero? Non puoi restare qualche giorno?"
     ],
-    "time": "45:16"
+    "index": 280
   },
   {
-    "index": 290,
+    "time": "45:18",
     "sub": [
-      "I want to,",
-      "but it's just not safe for me to be here."
+      "Vorrei, ma non \u00e8 sicuro per me stare qui."
     ],
-    "time": "45:20"
+    "index": 281
   },
   {
-    "index": 291,
+    "time": "45:24",
     "sub": [
-      "Lf I could borrow some cash...",
-      "Of course."
+      "- Se potessi prestarmi dei soldi...",
+      "- Certo."
     ],
-    "time": "45:26"
+    "index": 282
   },
   {
-    "index": 292,
+    "time": "45:26",
     "sub": [
-      "I need to take a bus."
+      "Devo prendere un pullman."
     ],
-    "time": "45:29"
+    "index": 283
   },
   {
-    "index": 293,
+    "time": "45:28",
     "sub": [
-      "Well, at least let me walk you to the station."
+      "Almeno lascia",
+      "che ti accompagni alla stazione."
     ],
-    "time": "45:30"
+    "index": 284
   },
   {
-    "index": 294,
+    "time": "45:33",
     "sub": [
       "Okay."
     ],
-    "time": "45:35"
+    "index": 285
   },
   {
-    "index": 295,
+    "time": "45:38",
     "sub": [
-      "You have everything you need?",
-      "Yeah."
+      "- Hai tutto quello che ti serve?",
+      "- S\u00ec."
     ],
-    "time": "45:40"
+    "index": 286
   },
   {
-    "index": 296,
+    "time": "45:43",
     "sub": [
-      "I..."
+      "Io..."
     ],
-    "time": "45:46"
+    "index": 287
   },
   {
-    "index": 297,
+    "time": "45:46",
     "sub": [
-      "What?"
+      "Che c'\u00e8?"
     ],
-    "time": "45:48"
+    "index": 288
   },
   {
-    "index": 298,
+    "time": "45:49",
     "sub": [
-      "Good night.",
-      "Good night."
+      "- Buonanotte.",
+      "- Buonanotte."
     ],
-    "time": "45:52"
+    "index": 289
   },
   {
-    "index": 299,
+    "time": "45:52",
     "sub": [
-      "I hope you get some rest."
+      "Spero che tu riesca a riposare."
     ],
-    "time": "45:54"
+    "index": 290
   },
   {
-    "index": 300,
+    "time": "46:36",
     "sub": [
-      "We're giving you a very low dose only."
+      "Le daremo soltanto",
+      "un dosaggio molto basso."
     ],
-    "time": "46:38"
+    "index": 291
   },
   {
-    "index": 301,
+    "time": "46:39",
     "sub": [
-      "I need you sharp out there and disciplined."
+      "La voglio vigile e disciplinato."
     ],
-    "time": "46:41"
+    "index": 292
   },
   {
-    "index": 302,
+    "time": "46:41",
     "sub": [
-      "First sign of any side effect,"
+      "Al primo segno di effetti collaterali,"
     ],
-    "time": "46:44"
+    "index": 293
   },
   {
-    "index": 303,
+    "time": "46:43",
     "sub": [
-      "we stop and you're off team",
-      "until you straighten out."
+      "ci fermiamo e finch\u00e9 non si riprende",
+      "\u00e8 fuori dalla squadra."
     ],
-    "time": "46:46"
+    "index": 294
   },
   {
-    "index": 304,
+    "time": "46:48",
     "sub": [
-      "Agreed?",
-      "Agreed."
+      "- D'accordo?",
+      "- D'accordo."
     ],
-    "time": "46:50"
+    "index": 295
   },
   {
-    "index": 305,
+    "time": "46:54",
     "sub": [
-      "You'll get two separate infusions."
+      "Faremo delle iniezioni separate."
     ],
-    "time": "46:56"
+    "index": 296
   },
   {
-    "index": 306,
+    "time": "46:56",
     "sub": [
-      "One into the deep muscle,",
-      "one into the bone marrow centres."
+      "Una intramuscolare e una nel midollo osseo."
     ],
-    "time": "46:59"
+    "index": 297
   },
   {
-    "index": 307,
+    "time": "47:1",
     "sub": [
-      "The bone ones are going to hurt."
+      "Quella nel midollo far\u00e0 male."
     ],
-    "time": "47:03"
+    "index": 298
   },
   {
-    "index": 309,
+    "time": "47:50",
     "sub": [
-      "Is everything okay?"
+      "Tutto bene?"
     ],
-    "time": "47:52"
+    "index": 299
   },
   {
-    "index": 310,
+    "time": "47:53",
     "sub": [
-      "I think so."
+      "Credo di s\u00ec."
     ],
-    "time": "47:56"
+    "index": 300
   },
   {
-    "index": 312,
+    "time": "48:3",
     "sub": [
-      "Come here."
+      "Vieni qui."
     ],
-    "time": "48:05"
+    "index": 301
   },
   {
-    "index": 313,
+    "time": "48:6",
     "sub": [
-      "I just wanna do this.",
-      "Oh."
+      "- Voglio solo fare questo.",
+      "- Oh."
     ],
-    "time": "48:08"
+    "index": 302
   },
   {
-    "index": 314,
+    "time": "48:9",
     "sub": [
-      "It's better like that.",
-      "Yeah?"
+      "- Cos\u00ec stai meglio.",
+      "- S\u00ec?"
     ],
-    "time": "48:12"
+    "index": 303
   },
   {
-    "index": 315,
+    "time": "48:16",
     "sub": [
-      "It feels too tight, huh?"
+      "\u00c8 troppo stretto."
     ],
-    "time": "48:18"
+    "index": 304
   },
   {
-    "index": 316,
+    "time": "48:18",
     "sub": [
-      "Yeah, a little.",
-      "Okay."
+      "- S\u00ec, un po'.",
+      "- Okay."
     ],
-    "time": "48:20"
+    "index": 305
   },
   {
-    "index": 317,
+    "time": "48:27",
     "sub": [
-      "What?",
-      "They're here."
+      "- Che c'\u00e8?",
+      "- Sono qui."
     ],
-    "time": "48:29"
+    "index": 306
   },
   {
-    "index": 318,
+    "time": "48:30",
     "sub": [
-      "Betty, look at me, look at me!",
-      "Bruce!"
+      "- Betty, guardami!",
+      "- Bruce!"
     ],
-    "time": "48:33"
+    "index": 307
   },
   {
-    "index": 319,
+    "time": "48:32",
     "sub": [
-      "You have to go far away",
-      "from me as you can!"
+      "Devi allontanarti da me pi\u00f9 che puoi."
     ],
-    "time": "48:34"
+    "index": 308
   },
   {
-    "index": 320,
+    "time": "48:33",
     "sub": [
-      "Don't argue with me, just go. Go!",
-      "Bruce!"
+      "- Non discutere. Vai!",
+      "- Bruce!"
     ],
-    "time": "48:35"
+    "index": 309
   },
   {
-    "index": 322,
+    "time": "48:46",
     "sub": [
-      "Damn it! We'd have had snipers on target",
-      "in three more minutes."
+      "Avremmo avuto i cecchini fra tre minuti."
     ],
-    "time": "48:48"
+    "index": 310
   },
   {
-    "index": 323,
+    "time": "48:48",
     "sub": [
-      "I wanna know who jumped the gun."
+      "Chi \u00e8 stato cos\u00ec precipitoso?"
     ],
-    "time": "48:50"
+    "index": 311
   },
   {
-    "index": 324,
+    "time": "48:52",
     "sub": [
-      "He's heading 270."
+      "Si dirige verso 2-7-0."
     ],
-    "time": "48:54"
+    "index": 312
   },
   {
-    "index": 325,
+    "time": "49:10",
     "sub": [
-      "Blonsky! Not yet!"
+      "Blonsky! Non ancora!"
     ],
-    "time": "49:13"
+    "index": 313
   },
   {
-    "index": 326,
+    "time": "49:13",
     "sub": [
-      "Sir."
+      "Signore."
     ],
-    "time": "49:16"
+    "index": 314
   },
   {
-    "index": 327,
+    "time": "49:16",
     "sub": [
-      "Look alive. This could get interesting."
+      "All'\u00e9rta, pu\u00f2 diventare interessante."
     ],
-    "time": "49:18"
+    "index": 315
   },
   {
-    "index": 328,
+    "time": "50:6",
     "sub": [
-      "I got him!"
+      "Lo vedo!"
     ],
-    "time": "50:08"
+    "index": 316
   },
   {
-    "index": 329,
+    "time": "50:7",
     "sub": [
-      "Stop! Stop!"
+      "Fermi! Fermi!"
     ],
-    "time": "50:09"
+    "index": 317
   },
   {
-    "index": 330,
+    "time": "50:12",
     "sub": [
-      "I know you're in there!"
+      "So che \u00e8 l\u00ec dentro!"
     ],
-    "time": "50:14"
+    "index": 318
   },
   {
-    "index": 331,
+    "time": "50:15",
     "sub": [
-      "General, please!"
+      "Generale, la prego!"
     ],
-    "time": "50:18"
+    "index": 319
   },
   {
-    "index": 332,
+    "time": "50:19",
     "sub": [
-      "Sir?"
+      "Signore?"
     ],
-    "time": "50:22"
+    "index": 320
   },
   {
-    "index": 333,
+    "time": "50:21",
     "sub": [
-      "Dad!"
+      "Pap\u00e0!"
     ],
-    "time": "50:23"
+    "index": 321
   },
   {
-    "index": 334,
+    "time": "50:30",
     "sub": [
-      "Dad, please don't do this.",
-      "You can't see this clearly. Now, get inside."
+      "- Pap\u00e0, ti prego non farlo.",
+      "- Non puoi ragionare lucidamente. Ora sali."
     ],
-    "time": "50:32"
+    "index": 322
   },
   {
-    "index": 335,
+    "time": "50:34",
     "sub": [
-      "There he is!"
+      "Eccolo!"
     ],
-    "time": "50:36"
+    "index": 323
   },
   {
-    "index": 336,
+    "time": "50:36",
     "sub": [
-      "SOLDIER 1 ON RADIO:",
-      "Target is in the overpass. We have a visual."
+      "L'obiettivo \u00e8 nel passaggio.",
+      "Ho il contatto visivo."
     ],
-    "time": "50:38"
+    "index": 324
   },
   {
-    "index": 337,
+    "time": "50:38",
     "sub": [
-      "Do not engage! Repeat, do not engage!"
+      "Non attaccate! Ripeto, non attaccate!"
     ],
-    "time": "50:40"
+    "index": 325
   },
   {
-    "index": 338,
+    "time": "50:46",
     "sub": [
-      "SOLDIER 2: He's locked in."
+      "\u00c8 bloccato all'interno."
     ],
-    "time": "50:48"
+    "index": 326
   },
   {
-    "index": 339,
+    "time": "50:54",
     "sub": [
-      "Put two canisters in there with him."
+      "Sparate due lacrimogeni."
     ],
-    "time": "50:56"
+    "index": 327
   },
   {
-    "index": 340,
+    "time": "50:56",
     "sub": [
-      "SOLDIER: Fire!"
+      "Fuoco!"
     ],
-    "time": "50:58"
+    "index": 328
   },
   {
-    "index": 341,
+    "time": "51:16",
     "sub": [
-      "Get her back here!"
+      "Riportatela qui!"
     ],
-    "time": "51:18"
+    "index": 329
   },
   {
-    "index": 343,
+    "time": "51:52",
     "sub": [
-      "Now she'll see."
+      "Ora vedr\u00e0."
     ],
-    "time": "51:54"
+    "index": 330
   },
   {
-    "index": 347,
+    "time": "52:16",
     "sub": [
-      "Alpha team?"
+      "Team Alfa?"
     ],
-    "time": "52:18"
+    "index": 331
   },
   {
-    "index": 348,
+    "time": "52:19",
     "sub": [
-      "Let him have all of it."
+      "Fuoco a volont\u00e0."
     ],
-    "time": "52:21"
+    "index": 332
   },
   {
-    "index": 349,
+    "time": "52:26",
     "sub": [
-      "SOLDIER 2: Come on, light him up!"
+      "Dai, sparategli!"
     ],
-    "time": "52:28"
+    "index": 333
   },
   {
-    "index": 350,
+    "time": "52:31",
     "sub": [
-      "Where are the fifty cals? Move your asses!"
+      "Dove sono i calibri da 50? Muovete il culo!"
     ],
-    "time": "52:33"
+    "index": 334
   },
   {
-    "index": 352,
+    "time": "53:22",
     "sub": [
-      "Oh, my God!"
+      "Oh, mio Dio!"
     ],
-    "time": "53:25"
+    "index": 335
   },
   {
-    "index": 353,
+    "time": "53:27",
     "sub": [
-      "Blonsky, now you're up!"
+      "Blonsky, tocca a te!"
     ],
-    "time": "53:29"
+    "index": 336
   },
   {
-    "index": 354,
+    "time": "53:29",
     "sub": [
-      "Sir?"
+      "Signore?"
     ],
-    "time": "53:31"
+    "index": 337
   },
   {
-    "index": 355,
+    "time": "53:31",
     "sub": [
-      "Cover me."
+      "Copritemi."
     ],
-    "time": "53:33"
+    "index": 338
   },
   {
-    "index": 357,
+    "time": "53:51",
     "sub": [
-      "Remember me?"
+      "Ti ricordi di me?"
     ],
-    "time": "53:53"
+    "index": 339
   },
   {
-    "index": 358,
+    "time": "54:12",
     "sub": [
-      "My God, he's doing it."
+      "Mio Dio, gli tiene testa."
     ],
-    "time": "54:14"
+    "index": 340
   },
   {
-    "index": 359,
+    "time": "54:18",
     "sub": [
-      "Move him toward the cannons!"
+      "Mandalo verso i cannoni!"
     ],
-    "time": "54:21"
+    "index": 341
   },
   {
-    "index": 360,
+    "time": "54:26",
     "sub": [
-      "SOLDIER: Move!"
+      "Muoversi!"
     ],
-    "time": "54:28"
+    "index": 342
   },
   {
-    "index": 362,
+    "time": "54:41",
     "sub": [
-      "Hold your position!"
+      "Mantenete la posizione!"
     ],
-    "time": "54:43"
+    "index": 343
   },
   {
-    "index": 363,
+    "time": "54:42",
     "sub": [
-      "BLONSKY: Do it now!"
+      "Sparate! Adesso!"
     ],
-    "time": "54:44"
+    "index": 344
   },
   {
-    "index": 366,
+    "time": "55:9",
     "sub": [
-      "Please, please, please, no!"
+      "Ti prego, no!"
     ],
-    "time": "55:11"
+    "index": 345
   },
   {
-    "index": 367,
+    "time": "55:11",
     "sub": [
-      "Please, please, please!",
-      "Get her back!"
+      "- Ti supplico!",
+      "- Portatela via!"
     ],
-    "time": "55:13"
+    "index": 346
   },
   {
-    "index": 368,
+    "time": "55:12",
     "sub": [
-      "You're killing him!"
+      "Cos\u00ec lo ucciderai!"
     ],
-    "time": "55:14"
+    "index": 347
   },
   {
-    "index": 369,
+    "time": "55:13",
     "sub": [
-      "BETTY: Stop! Get off of me!"
+      "Fermi! Lasciatemi!"
     ],
-    "time": "55:16"
+    "index": 348
   },
   {
-    "index": 370,
+    "time": "55:16",
     "sub": [
       "Bruce!"
     ],
-    "time": "55:18"
+    "index": 349
   },
   {
-    "index": 371,
+    "time": "55:20",
     "sub": [
       "Bruce! Bruce!"
     ],
-    "time": "55:22"
+    "index": 350
   },
   {
-    "index": 372,
+    "time": "55:54",
     "sub": [
-      "Where's the gunship?"
+      "Dov'\u00e8 l'elicottero?"
     ],
-    "time": "55:56"
+    "index": 351
   },
   {
-    "index": 373,
+    "time": "56:15",
     "sub": [
-      "Is that it?"
+      "\u00c8 tutto qui?"
     ],
-    "time": "56:17"
+    "index": 352
   },
   {
-    "index": 374,
+    "time": "56:16",
     "sub": [
-      "Blonsky, pull back now."
+      "Blonsky, ritirati subito."
     ],
-    "time": "56:18"
+    "index": 353
   },
   {
-    "index": 375,
+    "time": "56:18",
     "sub": [
-      "Pull back!"
+      "Ritirati!"
     ],
-    "time": "56:20"
+    "index": 354
   },
   {
-    "index": 376,
+    "time": "56:22",
     "sub": [
-      "Is that all you got?"
+      "\u00c8 tutto quello che sai fare?"
     ],
-    "time": "56:25"
+    "index": 355
   },
   {
-    "index": 378,
+    "time": "56:32",
     "sub": [
-      "Fall back!",
-      "SOLDIER 3: Fall back! Let's go, let's go!"
+      "- Tornate indietro!",
+      "- Indietro, forza!"
     ],
-    "time": "56:34"
+    "index": 356
   },
   {
-    "index": 379,
+    "time": "56:34",
     "sub": [
-      "GENERAL: Find cover!"
+      "Mettetevi al riparo!"
     ],
-    "time": "56:37"
+    "index": 357
   },
   {
-    "index": 380,
+    "time": "56:40",
     "sub": [
       "Betty!"
     ],
-    "time": "56:42"
+    "index": 358
   },
   {
-    "index": 381,
+    "time": "56:54",
     "sub": [
-      "Fire, goddamn it!"
+      "Fuoco, per la miseria!"
     ],
-    "time": "56:57"
+    "index": 359
   },
   {
-    "index": 382,
+    "time": "56:58",
     "sub": [
       "Bruce?"
     ],
-    "time": "57:00"
+    "index": 360
   },
   {
-    "index": 384,
+    "time": "57:12",
     "sub": [
-      "Stop firing!"
+      "Cessate il fuoco!"
     ],
-    "time": "57:14"
+    "index": 361
   },
   {
-    "index": 385,
+    "time": "57:27",
     "sub": [
       "No!"
     ],
-    "time": "57:29"
+    "index": 362
   },
   {
-    "index": 387,
+    "time": "58:18",
     "sub": [
-      "You did the right thing, calling us."
+      "Ha fatto bene a chiamarci."
     ],
-    "time": "58:21"
+    "index": 363
   },
   {
-    "index": 388,
+    "time": "58:23",
     "sub": [
-      "I need to know where they're going."
+      "Devo sapere dove vanno."
     ],
-    "time": "58:25"
+    "index": 364
   },
   {
-    "index": 389,
+    "time": "58:26",
     "sub": [
-      "She'll be in incredible danger",
-      "as long as she's with him."
+      "Corre un pericolo enorme",
+      "finch\u00e9 resta con lui."
     ],
-    "time": "58:28"
+    "index": 365
   },
   {
-    "index": 390,
+    "time": "58:28",
     "sub": [
-      "From who?"
+      "Da parte di chi?"
     ],
-    "time": "58:31"
+    "index": 366
   },
   {
-    "index": 391,
+    "time": "58:31",
     "sub": [
-      "He protected her. You almost killed her."
+      "Lui l'ha protetta.",
+      "\u00c8 lei ad averla quasi uccisa."
     ],
-    "time": "58:33"
+    "index": 367
   },
   {
-    "index": 392,
+    "time": "58:33",
     "sub": [
-      "I give you my word, her safety",
-      "is my main concern at this point."
+      "Mi creda, la sua incolumit\u00e0 \u00e8 la mia unica",
+      "preoccupazione, a questo punto."
     ],
-    "time": "58:35"
+    "index": 368
   },
   {
-    "index": 393,
+    "time": "58:37",
     "sub": [
-      "You know, it's a point",
-      "of professional pride with me"
+      "Sa, \u00e8 un mio punto",
+      "di orgoglio professionale"
     ],
-    "time": "58:39"
+    "index": 369
   },
   {
-    "index": 394,
+    "time": "58:40",
     "sub": [
-      "that I can always tell",
-      "when somebody's lying."
+      "capire sempre quando una persona mente."
     ],
-    "time": "58:42"
+    "index": 370
   },
   {
-    "index": 395,
+    "time": "58:43",
     "sub": [
-      "And you are."
+      "E lei mente."
     ],
-    "time": "58:45"
+    "index": 371
   },
   {
-    "index": 396,
+    "time": "58:45",
     "sub": [
-      "I don't know where he's going."
+      "Non so dove lui stia andando."
     ],
-    "time": "58:48"
+    "index": 372
   },
   {
-    "index": 397,
+    "time": "58:49",
     "sub": [
-      "I know she'll help him, if she can.",
-      "Then she's aiding a fugitive."
+      "- So che Betty, se pu\u00f2, lo aiuter\u00e0.",
+      "- Allora aiuter\u00e0 un ricercato."
     ],
-    "time": "58:51"
+    "index": 373
   },
   {
-    "index": 398,
+    "time": "58:54",
     "sub": [
-      "And I can't help either one of them."
+      "E io non potr\u00f2 aiutare nessuno dei due."
     ],
-    "time": "58:56"
+    "index": 374
   },
   {
-    "index": 399,
+    "time": "59:2",
     "sub": [
-      "I used to wonder",
-      "why she never talked about you."
+      "Mi domandavo",
+      "perch\u00e9 non parlasse mai di lei."
     ],
-    "time": "59:04"
+    "index": 375
   },
   {
-    "index": 400,
+    "time": "59:5",
     "sub": [
-      "Now I know!"
+      "Ora lo so!"
     ],
-    "time": "59:07"
+    "index": 376
   },
   {
-    "index": 401,
+    "time": "59:12",
     "sub": [
-      "GENERAL: Where does she meet these guys?"
+      "Mia figlia dove li trova questi uomini?"
     ],
-    "time": "59:14"
+    "index": 377
   },
   {
-    "index": 404,
+    "time": "60:3",
     "sub": [
       "Bruce?"
     ],
-    "time": "60:06"
+    "index": 378
   },
   {
-    "index": 405,
+    "time": "60:15",
     "sub": [
       "Bruce."
     ],
-    "time": "60:17"
+    "index": 379
   },
   {
-    "index": 407,
+    "time": "60:36",
     "sub": [
-      "It's okay. It's okay."
+      "Non \u00e8 niente."
     ],
-    "time": "60:38"
+    "index": 380
   },
   {
-    "index": 408,
+    "time": "60:51",
     "sub": [
-      "Come here. Come this way."
+      "Vieni qui. Vieni da questa parte."
     ],
-    "time": "60:54"
+    "index": 381
   },
   {
-    "index": 409,
+    "time": "60:57",
     "sub": [
-      "Watch your head."
+      "Attento alla testa."
     ],
-    "time": "61:00"
+    "index": 382
   },
   {
-    "index": 410,
-    "sub": [
-      "Okay."
-    ],
-    "time": "61:16"
-  },
-  {
-    "index": 411,
-    "sub": [
-      "We're okay."
-    ],
-    "time": "61:28"
-  },
-  {
-    "index": 412,
-    "sub": [
-      "It's okay."
-    ],
-    "time": "61:34"
-  },
-  {
-    "index": 413,
-    "sub": [
-      "It's just the rain."
-    ],
-    "time": "61:38"
-  },
-  {
-    "index": 414,
-    "sub": [
-      "GENERAL: Will he ever walk again?"
-    ],
-    "time": "61:49"
-  },
-  {
-    "index": 415,
-    "sub": [
-      "DOCTOR: Most of the bones in his body",
-      "look like crushed gravel right now."
-    ],
-    "time": "61:51"
-  },
-  {
-    "index": 416,
-    "sub": [
-      "I will say this for him.",
-      "He's got a heart like a machine."
-    ],
-    "time": "61:55"
-  },
-  {
-    "index": 417,
-    "sub": [
-      "Never seen anything like it,",
-      "outside of a racehorse."
-    ],
-    "time": "61:58"
-  },
-  {
-    "index": 418,
-    "sub": [
-      "Here."
-    ],
-    "time": "63:04"
-  },
-  {
-    "index": 419,
+    "time": "61:14",
     "sub": [
       "Okay."
     ],
-    "time": "63:07"
+    "index": 383
   },
   {
-    "index": 423,
+    "time": "61:26",
+    "sub": [
+      "Siamo al sicuro."
+    ],
+    "index": 384
+  },
+  {
+    "time": "61:32",
+    "sub": [
+      "Non \u00e8 niente."
+    ],
+    "index": 385
+  },
+  {
+    "time": "61:35",
+    "sub": [
+      "\u00c8 solo la pioggia."
+    ],
+    "index": 386
+  },
+  {
+    "time": "61:46",
+    "sub": [
+      "Potr\u00e0 ancora camminare?"
+    ],
+    "index": 387
+  },
+  {
+    "time": "61:49",
+    "sub": [
+      "Quasi tutte le ossa del corpo",
+      "sono ridotte in frantumi."
+    ],
+    "index": 388
+  },
+  {
+    "time": "61:52",
+    "sub": [
+      "Devo ammettere una cosa, per\u00f2.",
+      "Ha il cuore di una macchina."
+    ],
+    "index": 389
+  },
+  {
+    "time": "61:56",
+    "sub": [
+      "Solo nei cavalli da corsa",
+      "ho visto una cosa del genere."
+    ],
+    "index": 390
+  },
+  {
+    "time": "63:2",
+    "sub": [
+      "Vieni."
+    ],
+    "index": 391
+  },
+  {
+    "time": "63:5",
+    "sub": [
+      "Okay."
+    ],
+    "index": 392
+  },
+  {
+    "time": "63:46",
     "sub": [
       "Bruce?"
     ],
-    "time": "63:49"
+    "index": 393
   },
   {
-    "index": 424,
+    "time": "63:49",
     "sub": [
-      "Oh, hi."
+      "Oh, ciao."
     ],
-    "time": "63:51"
+    "index": 394
   },
   {
-    "index": 425,
+    "time": "63:51",
     "sub": [
-      "Are you okay?"
+      "Stai bene?"
     ],
-    "time": "63:53"
+    "index": 395
   },
   {
-    "index": 426,
+    "time": "63:53",
     "sub": [
-      "Yeah."
+      "S\u00ec."
     ],
-    "time": "63:55"
+    "index": 396
   },
   {
-    "index": 427,
+    "time": "63:54",
     "sub": [
-      "Yeah, actually, I feel a lot better."
+      "S\u00ec, in effetti mi sento molto meglio."
     ],
-    "time": "63:56"
+    "index": 397
   },
   {
-    "index": 428,
+    "time": "63:56",
     "sub": [
-      "Good.",
-      "I just had to get my data back."
+      "- Bene.",
+      "- Dovevo solo recuperare i miei dati."
     ],
-    "time": "63:59"
+    "index": 398
   },
   {
-    "index": 429,
+    "time": "64:1",
     "sub": [
-      "You ate it?"
+      "Te li eri mangiati?"
     ],
-    "time": "64:03"
+    "index": 399
   },
   {
-    "index": 430,
+    "time": "64:2",
     "sub": [
-      "Well, you know, the circumstances",
-      "called for a little improvisation."
+      "Sai, le circostanze",
+      "richiedevano un po' di improvvisazione."
     ],
-    "time": "64:04"
+    "index": 400
   },
   {
-    "index": 431,
+    "time": "64:6",
     "sub": [
-      "Wow."
+      "Per\u00f2."
     ],
-    "time": "64:08"
+    "index": 401
   },
   {
-    "index": 432,
+    "time": "64:9",
     "sub": [
-      "Okay, so they didn't have a great selection,",
-      "but I got you some options."
+      "Non c'era molto da scegliere,",
+      "ma ti ho preso qualcosa."
     ],
-    "time": "64:11"
+    "index": 402
   },
   {
-    "index": 433,
+    "time": "64:13",
     "sub": [
-      "First thing's first."
+      "Prima le cose pi\u00f9 importanti."
     ],
-    "time": "64:15"
+    "index": 403
   },
   {
-    "index": 434,
+    "time": "64:16",
     "sub": [
-      "Oh, you're kidding me."
+      "Non posso crederci."
     ],
-    "time": "64:18"
+    "index": 404
   },
   {
-    "index": 435,
+    "time": "64:28",
     "sub": [
-      "What?"
+      "Che c'\u00e8?"
     ],
-    "time": "64:30"
+    "index": 405
   },
   {
-    "index": 436,
+    "time": "64:29",
     "sub": [
-      "No.",
-      "They were the stretchiest pair they had."
+      "- No.",
+      "- Sono i pi\u00f9 elastici che avevano."
     ],
-    "time": "64:32"
+    "index": 406
   },
   {
-    "index": 437,
+    "time": "64:32",
     "sub": [
-      "I'll take my chances."
+      "Correr\u00f2 il rischio."
     ],
-    "time": "64:35"
+    "index": 407
   },
   {
-    "index": 438,
+    "time": "64:34",
     "sub": [
-      "FEMALE REPORTER: Rumours continue",
-      "to swirl about a violent clash"
+      "Continuano le voci su un violento scontro"
     ],
-    "time": "64:36"
+    "index": 408
   },
   {
-    "index": 439,
+    "time": "64:37",
     "sub": [
-      "between forces of the US military",
-      "and an unknown adversary"
+      "tra forze armate degli Stati Uniti",
+      "e un avversario sconosciuto"
     ],
-    "time": "64:39"
+    "index": 409
   },
   {
-    "index": 440,
+    "time": "64:40",
     "sub": [
-      "on the campus of Culver University",
-      "earlier today."
+      "avvenuto oggi alla Culver University."
     ],
-    "time": "64:43"
+    "index": 410
   },
   {
-    "index": 441,
+    "time": "64:43",
     "sub": [
-      "Sophomores Jack McGhee and Jim Wilson",
-      "witnessed some of the battle."
+      "Gli studenti Jack McGhee e Jim Wilson",
+      "hanno assistito a parte della battaglia."
     ],
-    "time": "64:46"
+    "index": 411
   },
   {
-    "index": 442,
+    "time": "64:47",
     "sub": [
-      "JIM: It was so big."
+      "Era grandissimo."
     ],
-    "time": "64:49"
+    "index": 412
   },
   {
-    "index": 443,
+    "time": "64:48",
     "sub": [
-      "It was like this huge, like, hulk!",
-      "Yeah."
+      "- Era enorme, come un gigante!",
+      "- S\u00ec."
     ],
-    "time": "64:50"
+    "index": 413
   },
   {
-    "index": 444,
+    "time": "64:51",
     "sub": [
-      "FEMALE REPORTER: McGhee, who happens",
-      "to be a reporter for the campus paper,"
+      "McGhee, che \u00e8 un reporter",
+      "del giornale universitario,"
     ],
-    "time": "64:53"
+    "index": 414
   },
   {
-    "index": 445,
+    "time": "64:54",
     "sub": [
-      "captured this on his cell phone."
+      "ha ripreso questo col cellulare."
     ],
-    "time": "64:57"
+    "index": 415
   },
   {
-    "index": 446,
+    "time": "64:56",
     "sub": [
-      "Further search for the mysterious \"hulk\""
+      "Le ricerche del misterioso \"gigante\""
     ],
-    "time": "64:58"
+    "index": 416
   },
   {
-    "index": 447,
+    "time": "64:58",
     "sub": [
-      "was postponed by powerful thunderstorms",
-      "in the Smoky Mountain National Forest."
+      "sono state rimandate per i forti temporali",
+      "abbattutisi sulle Smoky Mountains."
     ],
-    "time": "65:00"
+    "index": 417
   },
   {
-    "index": 448,
+    "time": "65:10",
     "sub": [
-      "Not too short back there."
+      "Non troppo corti dietro."
     ],
-    "time": "65:12"
+    "index": 418
   },
   {
-    "index": 449,
+    "time": "65:13",
     "sub": [
-      "I have done this before, you know."
+      "Li ho gi\u00e0 tagliati in passato."
     ],
-    "time": "65:15"
+    "index": 419
   },
   {
-    "index": 450,
+    "time": "65:31",
     "sub": [
-      "I don't know how you've done this",
-      "on your own for all this time."
+      "Non so come abbia potuto",
+      "farlo da solo per tanto tempo."
     ],
-    "time": "65:34"
+    "index": 420
   },
   {
-    "index": 451,
+    "time": "65:34",
     "sub": [
-      "With clippers, usually."
+      "Di solito con le forbici."
     ],
-    "time": "65:36"
+    "index": 421
   },
   {
-    "index": 455,
+    "time": "66:31",
     "sub": [
-      "Wait, wait, wait. Wait.",
-      "What? What?"
+      "- Aspetta, aspetta.",
+      "- Che c'\u00e8?"
     ],
-    "time": "66:33"
+    "index": 422
   },
   {
-    "index": 456,
+    "time": "66:33",
     "sub": [
-      "We can't do this."
+      "Non possiamo farlo."
     ],
-    "time": "66:36"
+    "index": 423
   },
   {
-    "index": 457,
+    "time": "66:35",
     "sub": [
-      "It's okay. I want to.",
-      "No."
+      "- Va bene, lo voglio fare anch'io.",
+      "- No."
     ],
-    "time": "66:37"
+    "index": 424
   },
   {
-    "index": 458,
+    "time": "66:38",
     "sub": [
       "No."
     ],
-    "time": "66:40"
+    "index": 425
   },
   {
-    "index": 459,
+    "time": "66:40",
     "sub": [
-      "I can't."
+      "Non posso."
     ],
-    "time": "66:43"
+    "index": 426
   },
   {
-    "index": 461,
+    "time": "66:45",
     "sub": [
-      "I can't get too excited."
+      "Non posso eccitarmi troppo."
     ],
-    "time": "66:47"
+    "index": 427
   },
   {
-    "index": 463,
+    "time": "66:50",
     "sub": [
-      "Not even a little excited?"
+      "E neanche eccitarti un po'?"
     ],
-    "time": "66:52"
+    "index": 428
   },
   {
-    "index": 465,
+    "time": "66:55",
     "sub": [
-      "BETTY: It's okay."
+      "Non fa niente."
     ],
-    "time": "66:57"
+    "index": 429
   },
   {
-    "index": 466,
+    "time": "67:1",
     "sub": [
-      "Sir, it's Blonsky."
+      "Signore, \u00e8 Blonsky."
     ],
-    "time": "67:03"
+    "index": 430
   },
   {
-    "index": 467,
+    "time": "67:5",
     "sub": [
-      "Has anyone found out",
-      "if he has next of kin or family?"
+      "Qualcuno ha scoperto",
+      "se ha amici o parenti?"
     ],
-    "time": "67:07"
+    "index": 431
   },
   {
-    "index": 468,
+    "time": "67:9",
     "sub": [
-      "Ask him yourself."
+      "Glielo chieda lei stesso."
     ],
-    "time": "67:11"
+    "index": 432
   },
   {
-    "index": 469,
+    "time": "67:14",
     "sub": [
-      "Sir?"
+      "Signore?"
     ],
-    "time": "67:16"
+    "index": 433
   },
   {
-    "index": 470,
+    "time": "67:35",
     "sub": [
-      "Good to see you back on your feet, soldier.",
-      "Thank you, sir."
+      "- Sono lieto di rivederla in forma, soldato.",
+      "- Grazie, signore."
     ],
-    "time": "67:38"
+    "index": 434
   },
   {
-    "index": 471,
+    "time": "67:46",
     "sub": [
-      "How do you feel?"
+      "Come ti senti?"
     ],
-    "time": "67:49"
+    "index": 435
   },
   {
-    "index": 472,
+    "time": "67:50",
     "sub": [
-      "Pissed off and ready for round three."
+      "Incazzato e pronto per il terzo round."
     ],
-    "time": "67:52"
+    "index": 436
   },
   {
-    "index": 473,
+    "time": "67:58",
     "sub": [
-      "Basically, we can't use any of this,",
-      "because they can track all of it."
+      "In pratica non possiamo usare niente,",
+      "perch\u00e9 se no ci localizzano."
     ],
-    "time": "68:01"
+    "index": 437
   },
   {
-    "index": 474,
+    "time": "68:3",
     "sub": [
-      "Well, my lip gloss? Can they track that?"
+      "E col mio rossetto? Ci localizzano?"
     ],
-    "time": "68:05"
+    "index": 438
   },
   {
-    "index": 475,
+    "time": "68:6",
     "sub": [
-      "No. You can take your lip gloss.",
-      "Thank you."
+      "- No. Il rossetto puoi tenerlo.",
+      "- Grazie."
     ],
-    "time": "68:09"
+    "index": 439
   },
   {
-    "index": 476,
+    "time": "68:10",
     "sub": [
-      "Well, I need my glasses.",
-      "Well, you can take"
+      "- Be', mi servono gli occhiali.",
+      "- Puoi prendere"
     ],
-    "time": "68:12"
+    "index": 440
   },
   {
-    "index": 477,
+    "time": "68:13",
     "sub": [
-      "your glasses and your watch, okay?",
+      "- occhiali e orologio.",
+      "- Okay."
+    ],
+    "index": 441
+  },
+  {
+    "time": "68:14",
+    "sub": [
+      "Possiamo usare tutto, a parte",
+      "carte di credito, documenti e telefono."
+    ],
+    "index": 442
+  },
+  {
+    "time": "68:18",
+    "sub": [
+      "- Non accenderlo neanche.",
+      "- Okay."
+    ],
+    "index": 443
+  },
+  {
+    "time": "68:20",
+    "sub": [
+      "E prenderemo i contanti, \u00e8 ovvio."
+    ],
+    "index": 444
+  },
+  {
+    "time": "68:22",
+    "sub": [
+      "Come arriveremo dove dobbiamo andare",
+      "con 40 dollari e senza carte di credito?"
+    ],
+    "index": 445
+  },
+  {
+    "time": "68:29",
+    "sub": [
+      "Be', potremmo vendere questo."
+    ],
+    "index": 446
+  },
+  {
+    "time": "68:32",
+    "sub": [
+      "No, \u00e8 l'unica cosa che ti rimane di lei."
+    ],
+    "index": 447
+  },
+  {
+    "time": "68:38",
+    "sub": [
+      "Potremmo recuperarlo poi."
+    ],
+    "index": 448
+  },
+  {
+    "time": "68:41",
+    "sub": [
+      "I federali stanno controllando telefoni,",
+      "carte e email della dott.ssa Ross,"
+    ],
+    "index": 449
+  },
+  {
+    "time": "68:46",
+    "sub": [
+      "e la polizia locale \u00e8 stata allertata."
+    ],
+    "index": 450
+  },
+  {
+    "time": "68:48",
+    "sub": [
+      "Da qualche parte si faranno vivi",
+      "e noi lo sapremo."
+    ],
+    "index": 451
+  },
+  {
+    "time": "68:51",
+    "sub": [
+      "Non si faranno vivi."
+    ],
+    "index": 452
+  },
+  {
+    "time": "68:53",
+    "sub": [
+      "Lui ce l'ha fatta per 5 anni",
+      "e ha passato i confini senza fare errori."
+    ],
+    "index": 453
+  },
+  {
+    "time": "68:56",
+    "sub": [
+      "Non user\u00e0 la carta di credito ora."
+    ],
+    "index": 454
+  },
+  {
+    "time": "68:58",
+    "sub": [
+      "Se volesse fuggire, l'avrebbe gi\u00e0 fatto."
+    ],
+    "index": 455
+  },
+  {
+    "time": "69:0",
+    "sub": [
+      "Non cerca di fuggire."
+    ],
+    "index": 456
+  },
+  {
+    "time": "69:1",
+    "sub": [
+      "Cerca aiuto. Per questo lo prenderemo."
+    ],
+    "index": 457
+  },
+  {
+    "time": "69:4",
+    "sub": [
+      "Sappiamo cosa cerca",
+      "ed \u00e8 in contatto con qualcuno."
+    ],
+    "index": 458
+  },
+  {
+    "time": "69:6",
+    "sub": [
+      "Avete le copie della corrispondenza."
+    ],
+    "index": 459
+  },
+  {
+    "time": "69:9",
+    "sub": [
+      "Gli pseudonimi Green e Blue"
+    ],
+    "index": 460
+  },
+  {
+    "time": "69:11",
+    "sub": [
+      "sono nel database operativo."
+    ],
+    "index": 461
+  },
+  {
+    "time": "69:12",
+    "sub": [
+      "Soggetto: File da Mr. Green"
+    ],
+    "index": 462
+  },
+  {
+    "time": "69:14",
+    "sub": [
+      "Se uscir\u00e0 allo scoperto, saremo l\u00ec."
+    ],
+    "index": 463
+  },
+  {
+    "time": "69:15",
+    "sub": [
+      "Mr. Blue. Ecco i dati.",
+      "\u00c8 ora di incontrarci. - Mr. Green."
+    ],
+    "index": 464
+  },
+  {
+    "time": "69:17",
+    "sub": [
+      "Se sospirer\u00e0, lo sentiremo."
+    ],
+    "index": 465
+  },
+  {
+    "time": "69:19",
+    "sub": [
+      "E al suo primo passo falso, saremo pronti."
+    ],
+    "index": 466
+  },
+  {
+    "time": "69:37",
+    "sub": [
+      "[Mr. Blue. Ecco i dati.",
+      "\u00c8 ora di incontrarci. - Mr. Green."
+    ],
+    "index": 467
+  },
+  {
+    "time": "70:4",
+    "sub": [
+      "Ehi."
+    ],
+    "index": 468
+  },
+  {
+    "time": "70:7",
+    "sub": [
+      "Sorridi."
+    ],
+    "index": 469
+  },
+  {
+    "time": "70:19",
+    "sub": [
+      "Com'\u00e8 la sensazione?"
+    ],
+    "index": 470
+  },
+  {
+    "time": "70:23",
+    "sub": [
+      "Quando ti capita, che cosa provi?"
+    ],
+    "index": 471
+  },
+  {
+    "time": "70:26",
+    "sub": [
+      "Ricordi gli esperimenti",
+      "per cui ci offrimmo volontari a Harvard?"
+    ],
+    "index": 472
+  },
+  {
+    "time": "70:29",
+    "sub": [
+      "Le allucinazioni indotte?"
+    ],
+    "index": 473
+  },
+  {
+    "time": "70:32",
+    "sub": [
+      "\u00c8 una cosa del genere,",
+      "ma amplificata mille volte."
+    ],
+    "index": 474
+  },
+  {
+    "time": "70:37",
+    "sub": [
+      "\u00c8 come se mi versassero",
+      "un litro d'acido nel cervello."
+    ],
+    "index": 475
+  },
+  {
+    "time": "70:41",
+    "sub": [
+      "- Ricordi qualcosa?",
+      "- Solo frammenti, immagini."
+    ],
+    "index": 476
+  },
+  {
+    "time": "70:46",
+    "sub": [
+      "C'\u00e8 troppo rumore,",
+      "non riesco mai a capirci niente."
+    ],
+    "index": 477
+  },
+  {
+    "time": "70:49",
+    "sub": [
+      "- Ma ci sei sempre tu, dentro di lui.",
+      "- No, non \u00e8 vero."
+    ],
+    "index": 478
+  },
+  {
+    "time": "70:55",
+    "sub": [
+      "Non lo so. Nella caverna avevo",
+      "la netta sensazione che mi conoscesse."
+    ],
+    "index": 479
+  },
+  {
+    "time": "71:0",
+    "sub": [
+      "Forse la tua mente \u00e8 l\u00ec dentro,"
+    ],
+    "index": 480
+  },
+  {
+    "time": "71:2",
+    "sub": [
+      "ma \u00e8 sovraccarica",
+      "e non elabora quello che accade."
+    ],
+    "index": 481
+  },
+  {
+    "time": "71:5",
+    "sub": [
+      "Io non voglio controllarlo.",
+      "Me ne voglio liberare."
+    ],
+    "index": 482
+  },
+  {
+    "time": "71:21",
+    "sub": [
+      "\u00c8 pronto, soldato?"
+    ],
+    "index": 483
+  },
+  {
+    "time": "71:23",
+    "sub": [
+      "Cerchiamo di giocare alla pari."
+    ],
+    "index": 484
+  },
+  {
+    "time": "71:28",
+    "sub": [
+      "Signori."
+    ],
+    "index": 485
+  },
+  {
+    "time": "71:33",
+    "sub": [
+      "Bruce, svegliati. Sta succedendo qualcosa."
+    ],
+    "index": 486
+  },
+  {
+    "time": "71:48",
+    "sub": [
+      "Dobbiamo andarcene. Andiamo a piedi.",
+      "Muoviti con calma."
+    ],
+    "index": 487
+  },
+  {
+    "time": "72:6",
+    "sub": [
+      "D'accordo, a bordo."
+    ],
+    "index": 488
+  },
+  {
+    "time": "72:22",
+    "sub": [
+      "\u00c8 lunga, fino alla parte nord di Manhattan.",
+      "La metropolitana \u00e8 il mezzo pi\u00f9 veloce."
+    ],
+    "index": 489
+  },
+  {
+    "time": "72:27",
+    "sub": [
+      "Io in un vagone di metallo, sottoterra,"
+    ],
+    "index": 490
+  },
+  {
+    "time": "72:29",
+    "sub": [
+      "con centinaia di persone",
+      "nella citt\u00e0 pi\u00f9 aggressiva del mondo?"
+    ],
+    "index": 491
+  },
+  {
+    "time": "72:32",
+    "sub": [
+      "Giusto. Prendiamo un taxi."
+    ],
+    "index": 492
+  },
+  {
+    "time": "72:34",
+    "sub": [
+      "E muoviti, forza! Vai troppo lento!",
+      "Guidi come una donna!"
+    ],
+    "index": 493
+  },
+  {
+    "time": "72:43",
+    "sub": [
+      "- Ma bravo! Hai visto quella?",
+      "- Oddio."
+    ],
+    "index": 494
+  },
+  {
+    "time": "72:45",
+    "sub": [
+      "\u00c8 proprio carina. Ehi, svegliati, somaro!"
+    ],
+    "index": 495
+  },
+  {
+    "time": "72:48",
+    "sub": [
+      "Respira, respira."
+    ],
+    "index": 496
+  },
+  {
+    "time": "72:54",
+    "sub": [
+      "Ma sei impazzito?"
+    ],
+    "index": 497
+  },
+  {
+    "time": "72:56",
+    "sub": [
+      "- Che cosa hai?",
+      "- Che ti prende, principessa?"
+    ],
+    "index": 498
+  },
+  {
+    "time": "72:58",
+    "sub": [
+      "Non ti \u00e8 piaciuta la corsa?"
+    ],
+    "index": 499
+  },
+  {
+    "time": "73:1",
+    "sub": [
+      "Stronzo!"
+    ],
+    "index": 500
+  },
+  {
+    "time": "73:6",
+    "sub": [
+      "Conosco delle tecniche di grande efficacia",
+      "per aiutarti"
+    ],
+    "index": 501
+  },
+  {
+    "time": "73:8",
+    "sub": [
+      "- a controllare la rabbia",
+      "- Chiudi il becco. Andiamo a piedi."
+    ],
+    "index": 502
+  },
+  {
+    "time": "73:13",
+    "sub": [
+      "D'accordo."
+    ],
+    "index": 503
+  },
+  {
+    "time": "73:22",
+    "sub": [
+      "Mi scusi. Il dott. Sterns?"
+    ],
+    "index": 504
+  },
+  {
+    "time": "73:24",
+    "sub": [
+      "- S\u00ec.",
+      "- Scusi se la disturbo. Sono Elizabeth Ross."
+    ],
+    "index": 505
+  },
+  {
+    "time": "73:27",
+    "sub": [
+      "Oh! Dott.ssa Ross!"
+    ],
+    "index": 506
+  },
+  {
+    "time": "73:29",
+    "sub": [
+      "- C'\u00e8 una persona che vorrebbe incontrarla.",
+      "- Va bene."
+    ],
+    "index": 507
+  },
+  {
+    "time": "73:35",
+    "sub": [
+      "Lei \u00e8 Mr. Blue, vero?"
+    ],
+    "index": 508
+  },
+  {
+    "time": "73:38",
+    "sub": [
+      "Mr. Green?"
+    ],
+    "index": 509
+  },
+  {
+    "time": "73:41",
+    "sub": [
+      "Devo dirtelo.",
+      "Mi chiedevo se esistessi davvero."
+    ],
+    "index": 510
+  },
+  {
+    "time": "73:45",
+    "sub": [
+      "E, nel caso, che aspetto avessi."
+    ],
+    "index": 511
+  },
+  {
+    "time": "73:47",
+    "sub": [
+      "Un uomo con tutto quel potere",
+      "in agguato dentro di s\u00e9."
+    ],
+    "index": 512
+  },
+  {
+    "time": "73:52",
+    "sub": [
+      "Niente poteva sorprendermi pi\u00f9"
+    ],
+    "index": 513
+  },
+  {
+    "time": "73:54",
+    "sub": [
+      "di questo uomo comune",
+      "che mi stringe la mano."
+    ],
+    "index": 514
+  },
+  {
+    "time": "73:56",
+    "sub": [
+      "Ma guardate che non sar\u00e0 una passeggiata."
+    ],
+    "index": 515
+  },
+  {
+    "time": "73:59",
+    "sub": [
+      "Anche se tutto va per il meglio,"
+    ],
+    "index": 516
+  },
+  {
+    "time": "74:1",
+    "sub": [
+      "se induciamo un episodio,",
+      "se troviamo il dosaggio giusto,"
+    ],
+    "index": 517
+  },
+  {
+    "time": "74:6",
+    "sub": [
+      "sar\u00e0 una cura definitiva"
+    ],
+    "index": 518
+  },
+  {
+    "time": "74:8",
+    "sub": [
+      "o soltanto un antidoto",
+      "per reprimere quella specifica crisi?"
+    ],
+    "index": 519
+  },
+  {
+    "time": "74:13",
+    "sub": [
+      "Chi lo sa?"
+    ],
+    "index": 520
+  },
+  {
+    "time": "74:16",
+    "sub": [
+      "Quello che voglio dire \u00e8 che basta eccedere",
+      "di una infinitesimale quantit\u00e0,"
+    ],
+    "index": 521
+  },
+  {
+    "time": "74:21",
+    "sub": [
+      "perch\u00e9 si tratta di concentrazioni",
+      "a straordinario livello di tossicit\u00e0."
+    ],
+    "index": 522
+  },
+  {
+    "time": "74:26",
+    "sub": [
+      "- Insomma potrebbe ucciderlo.",
+      "- Ucciderlo? S\u00ec, potrebbe rimanerci secco."
+    ],
+    "index": 523
+  },
+  {
+    "time": "74:33",
+    "sub": [
+      "Dovresti sapere",
+      "che c'\u00e8 anche un altro aspetto."
+    ],
+    "index": 524
+  },
+  {
+    "time": "74:35",
+    "sub": [
+      "Se sbagliamo per difetto, se induciamo",
+      "la crisi e l'esperimento fallisce,"
+    ],
+    "index": 525
+  },
+  {
+    "time": "74:38",
+    "sub": [
+      "sar\u00e0 molto pericoloso per te."
+    ],
+    "index": 526
+  },
+  {
+    "time": "74:43",
+    "sub": [
+      "Senti, io sono sempre stato",
+      "pi\u00f9 curioso che cauto"
+    ],
+    "index": 527
+  },
+  {
+    "time": "74:47",
+    "sub": [
+      "e finora mi \u00e8 andata molto bene.",
+      "Allora, ci vogliamo provare?"
+    ],
+    "index": 528
+  },
+  {
+    "time": "75:46",
+    "sub": [
+      "Allora come si sente?"
+    ],
+    "index": 529
+  },
+  {
+    "time": "75:49",
+    "sub": [
+      "Come un mostro."
+    ],
+    "index": 530
+  },
+  {
+    "time": "76:11",
+    "sub": [
+      "Okay. Sul lettino."
+    ],
+    "index": 531
+  },
+  {
+    "time": "76:13",
+    "sub": [
+      "Queste ti proteggeranno da te stesso",
+      "se avrai una reazione forte."
+    ],
+    "index": 532
+  },
+  {
+    "time": "76:20",
+    "sub": [
+      "Me lo dirai dopo se pensi che sia stata forte."
+    ],
+    "index": 533
+  },
+  {
+    "time": "76:27",
+    "sub": [
+      "Oh, andiamo! Stupidi studentelli."
+    ],
+    "index": 534
+  },
+  {
+    "time": "76:36",
+    "sub": [
       "Okay."
     ],
-    "time": "68:15"
+    "index": 535
   },
   {
-    "index": 478,
+    "time": "76:38",
     "sub": [
-      "We can use most of it. We just can't use",
-      "the credit cards, the ID or the phone."
+      "Tu, tu e tu."
     ],
-    "time": "68:16"
+    "index": 536
   },
   {
-    "index": 479,
+    "time": "76:41",
     "sub": [
-      "Don't even turn that on.",
-      "Okay."
+      "Questa sar\u00e0 in qualche modo",
+      "una sensazione insolita."
     ],
-    "time": "68:20"
+    "index": 537
   },
   {
-    "index": 480,
+    "time": "76:47",
     "sub": [
-      "And we'll take the cash, obviously."
+      "Abbiamo cominciato."
     ],
-    "time": "68:22"
+    "index": 538
   },
   {
-    "index": 481,
+    "time": "76:51",
     "sub": [
-      "How will we get where we need to go",
-      "on $40 and no credit cards?"
+      "La macchina della dialisi",
+      "mischier\u00e0 l'antidoto con il tuo sangue,"
     ],
-    "time": "68:24"
+    "index": 539
   },
   {
-    "index": 482,
+    "time": "76:54",
     "sub": [
-      "Well, we could sell this."
+      "ma l'antidoto funzioner\u00e0 solo",
+      "una volta raggiunta la reazione completa."
     ],
-    "time": "68:31"
+    "index": 540
   },
   {
-    "index": 483,
+    "time": "76:58",
     "sub": [
-      "No. No, that's the only thing",
-      "you have left from her. No."
+      "Rilassati."
     ],
-    "time": "68:34"
+    "index": 541
   },
   {
-    "index": 484,
+    "time": "77:0",
     "sub": [
-      "Well, we'll have to try and get it back."
+      "Bene. Stiamo iniettando il fluido."
     ],
-    "time": "68:40"
+    "index": 542
   },
   {
-    "index": 485,
+    "time": "77:7",
     "sub": [
-      "SPARR: Federal is",
-      "already monitoring phones,"
+      "Ecco fatto."
     ],
-    "time": "68:43"
+    "index": 543
   },
   {
-    "index": 486,
+    "time": "77:18",
     "sub": [
-      "plastic and Dr Ross's web accounts,"
+      "Allora, sei pronto per la scarica?"
     ],
-    "time": "68:45"
+    "index": 544
   },
   {
-    "index": 487,
+    "time": "77:23",
     "sub": [
-      "and local PD have been placed on alert."
+      "Io toglierei le mani."
     ],
-    "time": "68:48"
+    "index": 545
   },
   {
-    "index": 488,
+    "time": "77:45",
     "sub": [
-      "They'll pop up somewhere",
-      "and when they do, it comes straight to us."
+      "Oh, mio Dio!"
     ],
-    "time": "68:50"
+    "index": 546
   },
   {
-    "index": 489,
+    "time": "78:1",
     "sub": [
-      "GENERAL: They're not gonna just pop up."
+      "Aspetti! Non \u00e8 ancora pronto!"
     ],
-    "time": "68:53"
+    "index": 547
   },
   {
-    "index": 490,
+    "time": "78:14",
     "sub": [
-      "He made it five years and got across borders",
-      "without making any mistakes."
+      "- Ora! Okay, ora!",
+      "- Aspetti."
     ],
-    "time": "68:55"
+    "index": 548
   },
   {
-    "index": 491,
+    "time": "78:16",
     "sub": [
-      "He's not gonna use a damn credit card now."
+      "Lo faccia ora! Ora!"
     ],
-    "time": "68:58"
+    "index": 549
   },
   {
-    "index": 492,
+    "time": "78:26",
     "sub": [
-      "If he was trying to escape,",
-      "he'd be long gone."
+      "Bruce! Bruce, guardami negli occhi."
     ],
-    "time": "69:00"
+    "index": 550
   },
   {
-    "index": 493,
+    "time": "78:29",
     "sub": [
-      "He's not trying to escape this time."
+      "Resta con me. L'antidoto, Ora!",
+      "Sterns, lo faccia adesso!"
     ],
-    "time": "69:02"
+    "index": 551
   },
   {
-    "index": 494,
+    "time": "78:35",
     "sub": [
-      "He's looking for help",
-      "and that's how we're gonna get him."
+      "Bruce, guardami. Guardami negli occhi."
     ],
-    "time": "69:03"
+    "index": 552
   },
   {
-    "index": 495,
+    "time": "78:39",
     "sub": [
-      "We know what they're after and we know",
-      "he's been talking to somebody."
+      "Non riesco a crederci!"
     ],
-    "time": "69:06"
+    "index": 553
   },
   {
-    "index": 496,
-    "sub": [
-      "You all have copies of the correspondence."
-    ],
-    "time": "69:09"
-  },
-  {
-    "index": 497,
-    "sub": [
-      "The aliases Mr Green and Mr Blue"
-    ],
-    "time": "69:11"
-  },
-  {
-    "index": 498,
-    "sub": [
-      "have been added to the",
-      "SHIELD Operations Database."
-    ],
-    "time": "69:13"
-  },
-  {
-    "index": 499,
-    "sub": [
-      "If he comes up for air, we'll be waiting."
-    ],
-    "time": "69:16"
-  },
-  {
-    "index": 500,
-    "sub": [
-      "If he makes a peep, we'll hear him."
-    ],
-    "time": "69:19"
-  },
-  {
-    "index": 501,
-    "sub": [
-      "And when he slips up, we'll be ready."
-    ],
-    "time": "69:21"
-  },
-  {
-    "index": 502,
-    "sub": [
-      "Hey."
-    ],
-    "time": "70:07"
-  },
-  {
-    "index": 503,
-    "sub": [
-      "Smile."
-    ],
-    "time": "70:10"
-  },
-  {
-    "index": 504,
-    "sub": [
-      "What is it like?"
-    ],
-    "time": "70:21"
-  },
-  {
-    "index": 505,
-    "sub": [
-      "When it happens, what do you experience?"
-    ],
-    "time": "70:25"
-  },
-  {
-    "index": 506,
-    "sub": [
-      "Remember those experiments",
-      "we volunteered for at Harvard?"
-    ],
-    "time": "70:28"
-  },
-  {
-    "index": 507,
-    "sub": [
-      "Those induced hallucinations?"
-    ],
-    "time": "70:31"
-  },
-  {
-    "index": 508,
-    "sub": [
-      "It's a lot like that,",
-      "just a thousand times amplified."
-    ],
-    "time": "70:34"
-  },
-  {
-    "index": 509,
-    "sub": [
-      "It's like someone's poured",
-      "a litre of acid into my brain."
-    ],
-    "time": "70:39"
-  },
-  {
-    "index": 510,
-    "sub": [
-      "Do you remember anything?",
-      "Just fragments. Images."
-    ],
-    "time": "70:43"
-  },
-  {
-    "index": 511,
-    "sub": [
-      "There's too much noise.",
-      "I can never derive anything out of it."
-    ],
-    "time": "70:48"
-  },
-  {
-    "index": 512,
-    "sub": [
-      "But then it's still you inside it.",
-      "No. No, it's not."
-    ],
-    "time": "70:52"
-  },
-  {
-    "index": 513,
-    "sub": [
-      "I don't know.",
-      "In the cave, I really felt like it knew me."
-    ],
-    "time": "70:58"
-  },
-  {
-    "index": 514,
-    "sub": [
-      "Maybe your mind is in there,"
-    ],
-    "time": "71:03"
-  },
-  {
-    "index": 515,
-    "sub": [
-      "it's just overcharged",
-      "and can't process what's happening."
-    ],
-    "time": "71:04"
-  },
-  {
-    "index": 516,
-    "sub": [
-      "I don't want to control it.",
-      "I want to get rid of it."
-    ],
-    "time": "71:07"
-  },
-  {
-    "index": 517,
-    "sub": [
-      "Are you ready?"
-    ],
-    "time": "71:23"
-  },
-  {
-    "index": 518,
-    "sub": [
-      "Let's even the playing field a little."
-    ],
-    "time": "71:25"
-  },
-  {
-    "index": 519,
-    "sub": [
-      "Gentlemen."
-    ],
-    "time": "71:30"
-  },
-  {
-    "index": 521,
-    "sub": [
-      "BETTY: Bruce, wake up.",
-      "There's something going on."
-    ],
-    "time": "71:35"
-  },
-  {
-    "index": 522,
-    "sub": [
-      "We got to go. Walk toward the back.",
-      "Just don't move too fast."
-    ],
-    "time": "71:50"
-  },
-  {
-    "index": 523,
-    "sub": [
-      "All right. Come."
-    ],
-    "time": "72:09"
-  },
-  {
-    "index": 524,
-    "sub": [
-      "BETTY: It is a long way uptown.",
-      "I think the subway's probably quickest."
-    ],
-    "time": "72:24"
-  },
-  {
-    "index": 525,
-    "sub": [
-      "Me in a metal tube, deep underground,"
-    ],
-    "time": "72:29"
-  },
-  {
-    "index": 526,
-    "sub": [
-      "with hundreds of people",
-      "in the most aggressive city in the world?"
-    ],
-    "time": "72:31"
-  },
-  {
-    "index": 527,
-    "sub": [
-      "Right. Let's get a cab."
-    ],
-    "time": "72:34"
-  },
-  {
-    "index": 528,
-    "sub": [
-      "CAB DRIVER: Come on, now! Let's go!",
-      "You're too slow! You drive like a woman!"
-    ],
-    "time": "72:37"
-  },
-  {
-    "index": 530,
-    "sub": [
-      "Very nice. You see her?",
-      "Oh, my."
-    ],
-    "time": "72:46"
-  },
-  {
-    "index": 531,
-    "sub": [
-      "Very pretty. Watch out, you goat!"
-    ],
-    "time": "72:47"
-  },
-  {
-    "index": 532,
-    "sub": [
-      "Breathe, breathe, breathe."
-    ],
-    "time": "72:51"
-  },
-  {
-    "index": 533,
-    "sub": [
-      "Are you out of your mind?"
-    ],
-    "time": "72:56"
-  },
-  {
-    "index": 534,
-    "sub": [
-      "What is wrong with you?",
-      "What's the matter, baby?"
-    ],
-    "time": "72:59"
-  },
-  {
-    "index": 535,
-    "sub": [
-      "You don't like a good ride?"
-    ],
-    "time": "73:00"
-  },
-  {
-    "index": 537,
-    "sub": [
-      "Asshole!"
-    ],
-    "time": "73:04"
-  },
-  {
-    "index": 539,
-    "sub": [
-      "You know, I know a few",
-      "techniques could help you"
-    ],
-    "time": "73:08"
-  },
-  {
-    "index": 540,
-    "sub": [
-      "manage that anger very effectively.",
-      "You zip it. We're walking."
-    ],
-    "time": "73:11"
-  },
-  {
-    "index": 541,
-    "sub": [
-      "Okay."
-    ],
-    "time": "73:15"
-  },
-  {
-    "index": 542,
-    "sub": [
-      "Excuse me. Dr Sterns?"
-    ],
-    "time": "73:24"
-  },
-  {
-    "index": 543,
-    "sub": [
-      "Yes.",
-      "I'm sorry to bother you. I'm Elizabeth Ross."
-    ],
-    "time": "73:26"
-  },
-  {
-    "index": 544,
-    "sub": [
-      "Oh! Dr Ross!"
-    ],
-    "time": "73:29"
-  },
-  {
-    "index": 545,
-    "sub": [
-      "I have someone who'd like to meet you.",
-      "Okay."
-    ],
-    "time": "73:31"
-  },
-  {
-    "index": 546,
-    "sub": [
-      "It's Mr Blue, isn't it?"
-    ],
-    "time": "73:37"
-  },
-  {
-    "index": 547,
-    "sub": [
-      "Mr Green?"
-    ],
-    "time": "73:40"
-  },
-  {
-    "index": 548,
-    "sub": [
-      "I got to tell you,",
-      "I've been wondering if you were even real."
-    ],
-    "time": "73:44"
-  },
-  {
-    "index": 549,
-    "sub": [
-      "And if you were, what would it look like?"
-    ],
-    "time": "73:48"
-  },
-  {
-    "index": 550,
-    "sub": [
-      "A person with that much",
-      "power lurking in him."
-    ],
-    "time": "73:49"
-  },
-  {
-    "index": 551,
-    "sub": [
-      "Nothing could have surprised me more"
-    ],
-    "time": "73:54"
-  },
-  {
-    "index": 552,
-    "sub": [
-      "than this unassuming man",
-      "shaking my hand."
-    ],
-    "time": "73:56"
-  },
-  {
-    "index": 553,
-    "sub": [
-      "But, look. We're not strolling",
-      "into the park for a picnic, here."
-    ],
-    "time": "73:59"
-  },
-  {
-    "index": 554,
-    "sub": [
-      "Even if everything goes perfectly,"
-    ],
-    "time": "74:02"
-  },
-  {
-    "index": 555,
-    "sub": [
-      "if we induce an episode,",
-      "if we get the dosage exactly right,"
-    ],
-    "time": "74:03"
-  },
-  {
-    "index": 556,
-    "sub": [
-      "is that going to be a lasting cure"
-    ],
-    "time": "74:08"
-  },
-  {
-    "index": 557,
-    "sub": [
-      "or just some antidote to suppress",
-      "that specific flareup?"
-    ],
-    "time": "74:10"
-  },
-  {
-    "index": 558,
-    "sub": [
-      "I don't know."
-    ],
-    "time": "74:16"
-  },
-  {
-    "index": 559,
-    "sub": [
-      "What I'm saying is that if we overshoot this",
-      "by even the smallest integer"
-    ],
-    "time": "74:18"
-  },
-  {
-    "index": 560,
-    "sub": [
-      "we're dealing with concentrations",
-      "with extraordinary levels of toxicity."
-    ],
-    "time": "74:24"
-  },
-  {
-    "index": 561,
-    "sub": [
-      "You mean it could kill him.",
-      "Kill him? Yeah. I should say so."
-    ],
-    "time": "74:29"
-  },
-  {
-    "index": 562,
-    "sub": [
-      "You should know that there's",
-      "a flip side to this, too."
-    ],
-    "time": "74:35"
-  },
-  {
-    "index": 563,
-    "sub": [
-      "If we miss on the low side,",
-      "if we induce me and it fails,"
-    ],
-    "time": "74:37"
-  },
-  {
-    "index": 564,
-    "sub": [
-      "this will be very dangerous for you."
-    ],
-    "time": "74:41"
-  },
-  {
-    "index": 565,
-    "sub": [
-      "Look. I've always been",
-      "more curious than cautious,"
-    ],
-    "time": "74:45"
-  },
-  {
-    "index": 566,
-    "sub": [
-      "and that's served me pretty well.",
-      "So, are we going to do this?"
-    ],
-    "time": "74:49"
-  },
-  {
-    "index": 567,
-    "sub": [
-      "How you feeling, man?"
-    ],
-    "time": "75:48"
-  },
-  {
-    "index": 568,
-    "sub": [
-      "Like a monster."
-    ],
-    "time": "75:52"
-  },
-  {
-    "index": 569,
-    "sub": [
-      "Okay. On the table."
-    ],
-    "time": "76:13"
-  },
-  {
-    "index": 570,
-    "sub": [
-      "These will protect you from yourself",
-      "if you have a strong reaction."
-    ],
-    "time": "76:16"
-  },
-  {
-    "index": 571,
-    "sub": [
-      "You can tell me later",
-      "if you thought it was strong."
-    ],
-    "time": "76:22"
-  },
-  {
-    "index": 572,
-    "sub": [
-      "Oh, come on! Stupid graduate students."
-    ],
-    "time": "76:30"
-  },
-  {
-    "index": 573,
-    "sub": [
-      "Okay..."
-    ],
-    "time": "76:39"
-  },
-  {
-    "index": 574,
-    "sub": [
-      "You, you, you."
-    ],
-    "time": "76:40"
-  },
-  {
-    "index": 575,
-    "sub": [
-      "This will be a somewhat novel sensation."
-    ],
-    "time": "76:43"
-  },
-  {
-    "index": 577,
-    "sub": [
-      "We have begun."
-    ],
-    "time": "76:50"
-  },
-  {
-    "index": 578,
-    "sub": [
-      "The dialysis machine will mix the antidote",
-      "with your blood."
-    ],
-    "time": "76:53"
-  },
-  {
-    "index": 579,
-    "sub": [
-      "Except the antidote will only take hold",
-      "once we've achieved a full reaction."
-    ],
-    "time": "76:56"
-  },
-  {
-    "index": 580,
-    "sub": [
-      "Just relax."
-    ],
-    "time": "77:01"
-  },
-  {
-    "index": 581,
-    "sub": [
-      "Okay. We are comprehensive."
-    ],
-    "time": "77:02"
-  },
-  {
-    "index": 582,
-    "sub": [
-      "Here you go."
-    ],
-    "time": "77:09"
-  },
-  {
-    "index": 583,
-    "sub": [
-      "All right. We set to pop?"
-    ],
-    "time": "77:20"
-  },
-  {
-    "index": 584,
-    "sub": [
-      "I'd take your hands off him."
-    ],
-    "time": "77:25"
-  },
-  {
-    "index": 586,
-    "sub": [
-      "Oh, my God!"
-    ],
-    "time": "77:47"
-  },
-  {
-    "index": 589,
-    "sub": [
-      "Wait, wait! There's more! Wait!"
-    ],
-    "time": "78:03"
-  },
-  {
-    "index": 590,
-    "sub": [
-      "Now. Okay, now!",
-      "STERNS: Wait."
-    ],
-    "time": "78:16"
-  },
-  {
-    "index": 591,
-    "sub": [
-      "Now, do it! Do it!"
-    ],
-    "time": "78:19"
-  },
-  {
-    "index": 592,
-    "sub": [
-      "Bruce! Bruce, look at me."
-    ],
-    "time": "78:29"
-  },
-  {
-    "index": 593,
-    "sub": [
-      "Stay with me. The antidote, now!",
-      "Sterns, do it now!"
-    ],
-    "time": "78:31"
-  },
-  {
-    "index": 594,
-    "sub": [
-      "Bruce, look at me. Look in my eyes.",
-      "Please, look in my eyes."
-    ],
-    "time": "78:37"
-  },
-  {
-    "index": 596,
-    "sub": [
-      "Oh, you've got to be kidding me!"
-    ],
-    "time": "78:42"
-  },
-  {
-    "index": 598,
+    "time": "79:2",
     "sub": [
       "Bruce."
     ],
-    "time": "79:05"
+    "index": 554
   },
   {
-    "index": 599,
+    "time": "79:3",
     "sub": [
-      "Oh, my God."
+      "Oh, mio Dio!"
     ],
-    "time": "79:06"
+    "index": 555
   },
   {
-    "index": 600,
+    "time": "79:16",
     "sub": [
-      "Bruce? Bruce, can you hear me?"
+      "Bruce? Bruce, riesci a sentirmi?"
     ],
-    "time": "79:19"
+    "index": 556
   },
   {
-    "index": 601,
+    "time": "79:23",
     "sub": [
       "Bruce?"
     ],
-    "time": "79:26"
+    "index": 557
   },
   {
-    "index": 603,
+    "time": "79:33",
     "sub": [
-      "It's okay. You're okay. You're okay."
+      "\u00c8 tutto okay. Tu stai bene."
     ],
-    "time": "79:36"
+    "index": 558
   },
   {
-    "index": 604,
+    "time": "79:40",
     "sub": [
-      "You did it."
+      "Ce l'hai fatta!"
     ],
-    "time": "79:42"
+    "index": 559
   },
   {
-    "index": 605,
+    "time": "79:42",
     "sub": [
-      "He's fine. This is fantastic."
+      "Sta bene. \u00c8 fantastico."
     ],
-    "time": "79:44"
+    "index": 560
   },
   {
-    "index": 606,
+    "time": "79:44",
     "sub": [
-      "BETTY: It's over."
+      "\u00c8 tutto finito."
     ],
-    "time": "79:47"
+    "index": 561
   },
   {
-    "index": 607,
+    "time": "79:47",
     "sub": [
-      "Hi."
+      "Ciao."
     ],
-    "time": "79:49"
+    "index": 562
   },
   {
-    "index": 608,
+    "time": "79:48",
     "sub": [
-      "Hi."
+      "Ciao."
     ],
-    "time": "79:50"
+    "index": 563
   },
   {
-    "index": 609,
+    "time": "79:58",
     "sub": [
-      "That was the most extraordinary thing",
-      "I have seen in my entire life!"
+      "Questa \u00e8 stata la cosa pi\u00f9 straordinaria",
+      "che abbia mai visto in tutta la mia vita!"
     ],
-    "time": "80:00"
+    "index": 564
   },
   {
-    "index": 610,
+    "time": "80:4",
     "sub": [
-      "Okay, you know what? Stop, please."
+      "Senta, la smetta, la prego."
     ],
-    "time": "80:06"
+    "index": 565
   },
   {
-    "index": 611,
+    "time": "80:5",
     "sub": [
-      "We need to go back and talk",
-      "about what just happened in there."
+      "Dobbiamo esaminare",
+      "quanto \u00e8 successo l\u00e0 dentro."
     ],
-    "time": "80:08"
+    "index": 566
   },
   {
-    "index": 612,
+    "time": "80:8",
     "sub": [
-      "Absolutely. Okay. The gamma pulse",
-      "came from the amygdala."
+      "Assolutamente s\u00ec. L'impulso gamma",
+      "\u00e8 iniziato a livello della amigdala."
     ],
-    "time": "80:10"
+    "index": 567
   },
   {
-    "index": 613,
+    "time": "80:12",
     "sub": [
-      "I think Dr Ross's primer...",
-      "Are you okay?"
+      "- La sequenza primer della dott.ssa Ross...",
+      "- Stai bene?"
     ],
-    "time": "80:14"
+    "index": 568
   },
   {
-    "index": 614,
+    "time": "80:13",
     "sub": [
-      "...lets the cells absorb the energy",
-      "temporarily, and then it abates."
+      "...lascia che le cellule assorbano l'energia,",
+      "ma poi l'effetto svanisce."
     ],
-    "time": "80:16"
+    "index": 569
   },
   {
-    "index": 615,
+    "time": "80:17",
     "sub": [
-      "That's why you didn't die",
-      "of radiation sickness years ago!"
+      "Ecco perch\u00e9 non sei morto",
+      "per le radiazioni anni fa!"
     ],
-    "time": "80:19"
+    "index": 570
   },
   {
-    "index": 616,
+    "time": "80:20",
     "sub": [
-      "Now, maybe we've neutralised",
-      "those cells permanently,"
+      "Adesso, o abbiamo neutralizzato",
+      "tali cellule per sempre"
     ],
-    "time": "80:22"
+    "index": 571
   },
   {
-    "index": 617,
+    "time": "80:22",
     "sub": [
-      "or maybe we just suppressed that event."
+      "o abbiamo solo soppresso questo episodio."
     ],
-    "time": "80:25"
+    "index": 572
   },
   {
-    "index": 618,
+    "time": "80:24",
     "sub": [
-      "I'm inclined to think the latter,",
-      "but it's hard to know"
+      "Questo \u00e8 pi\u00f9 probabile,",
+      "ma \u00e8 difficile saperlo"
     ],
-    "time": "80:27"
+    "index": 573
   },
   {
-    "index": 619,
+    "time": "80:27",
     "sub": [
-      "because none of our",
-      "test subjects ever survived."
+      "perch\u00e9 nessuna cavia \u00e8 sopravvissuta."
     ],
-    "time": "80:29"
+    "index": 574
   },
   {
-    "index": 620,
+    "time": "80:29",
     "sub": [
-      "Of course, they weren't getting the primer!",
-      "Wait, wait."
+      "- Non gli era stato inserito il primer!",
+      "- Aspetta."
     ],
-    "time": "80:31"
+    "index": 575
   },
   {
-    "index": 621,
+    "time": "80:30",
     "sub": [
-      "Wait, what did you just say?",
-      "They weren't getting"
+      "- Cos'hai detto?",
+      "- Non gli era stato"
     ],
-    "time": "80:33"
+    "index": 576
   },
   {
-    "index": 622,
+    "time": "80:32",
     "sub": [
-      "the myostatin primer...",
-      "No, no, no. Test subjects?"
+      "- inoculato il primer della miostatina...",
+      "- No. Cavie?"
     ],
-    "time": "80:34"
+    "index": 577
   },
   {
-    "index": 623,
+    "time": "80:36",
     "sub": [
-      "What test subjects?"
+      "Quali cavie?"
     ],
-    "time": "80:38"
+    "index": 578
   },
   {
-    "index": 624,
+    "time": "80:38",
     "sub": [
-      "Come with me."
+      "Venite con me."
     ],
-    "time": "80:40"
+    "index": 579
   },
   {
-    "index": 625,
+    "time": "80:56",
     "sub": [
-      "SPARR: What's the activity level?",
-      "Snipers are covering Alpha sector."
+      "- Com'\u00e8 il livello di attivit\u00e0?",
+      "- I tiratori scelti coprono il settore Alfa."
     ],
-    "time": "80:58"
+    "index": 580
   },
   {
-    "index": 626,
+    "time": "81:1",
     "sub": [
-      "STERNS ON RADIO:",
-      "We started on rats and mice,"
+      "Abbiamo iniziato con topolini e ratti,"
     ],
-    "time": "81:03"
+    "index": 581
   },
   {
-    "index": 627,
+    "time": "81:2",
     "sub": [
-      "but it just completely fried them,",
-      "so we had to go bigger."
+      "ma friggevano letteralmente,",
+      "cos\u00ec abbiamo usato cavie pi\u00f9 grandi."
     ],
-    "time": "81:05"
+    "index": 582
   },
   {
-    "index": 628,
+    "time": "81:5",
     "sub": [
-      "And we still don't know which is more toxic,",
-      "the gamma or your blood."
+      "Non sappiamo se siano pi\u00f9 tossici",
+      "i raggi gamma o il tuo sangue."
     ],
-    "time": "81:08"
+    "index": 583
   },
   {
-    "index": 629,
+    "time": "81:8",
     "sub": [
-      "What do you mean, my blood?",
-      "Bruce, this is all you."
+      "- Che significa, il mio sangue?",
+      "- Bruce, questo \u00e8 tutto tuo."
     ],
-    "time": "81:11"
+    "index": 584
   },
   {
-    "index": 630,
+    "time": "81:13",
     "sub": [
-      "You didn't send me much to work with,",
-      "so I had to concentrate it and make more."
+      "Non me ne hai mandato molto,",
+      "cos\u00ec ho dovuto riprodurne altro."
     ],
-    "time": "81:15"
+    "index": 585
   },
   {
-    "index": 631,
+    "time": "81:17",
     "sub": [
-      "With a little more trial and error,",
-      "there's no end to what we can do!"
+      "Con una sperimentazione pi\u00f9 vasta,",
+      "non c'\u00e8 limite a ci\u00f2 che potremo fare."
     ],
-    "time": "81:19"
+    "index": 586
   },
   {
-    "index": 632,
+    "time": "81:20",
     "sub": [
-      "This is potentially Olympian!"
+      "Questo pu\u00f2 essere un potenziale Olimpo!"
     ],
-    "time": "81:23"
+    "index": 587
   },
   {
-    "index": 633,
+    "time": "81:24",
     "sub": [
-      "This gamma technology",
-      "has limitless applications."
+      "Questa tecnologia gamma",
+      "ha applicazioni illimitate."
     ],
-    "time": "81:27"
+    "index": 588
   },
   {
-    "index": 634,
+    "time": "81:28",
     "sub": [
-      "We'll unlock hundreds of cures."
+      "Scopriremo centinaia di cure."
     ],
-    "time": "81:30"
+    "index": 589
   },
   {
-    "index": 635,
+    "time": "81:30",
     "sub": [
-      "We will make humans",
-      "impervious to disease!"
+      "Renderemo gli esseri umani",
+      "immuni alle malattie!"
     ],
-    "time": "81:32"
+    "index": 590
   },
   {
-    "index": 636,
+    "time": "81:47",
     "sub": [
-      "No, no, we've got to destroy it."
+      "No, dobbiamo distruggerli."
     ],
-    "time": "81:50"
+    "index": 591
   },
   {
-    "index": 637,
+    "time": "81:49",
     "sub": [
-      "Wait, what?",
-      "All of it."
+      "- Distruggere cosa?",
+      "- Tutto."
     ],
-    "time": "81:52"
+    "index": 592
   },
   {
-    "index": 638,
+    "time": "81:51",
     "sub": [
-      "Tonight. We're gonna incinerate it."
+      "Stanotte inceneriremo tutto."
     ],
-    "time": "81:54"
+    "index": 593
   },
   {
-    "index": 639,
+    "time": "81:53",
     "sub": [
-      "Is this the whole supply?",
-      "What..."
+      "- Questi sono tutti i campioni?",
+      "- Che cosa?"
     ],
-    "time": "81:55"
+    "index": 594
   },
   {
-    "index": 640,
+    "time": "81:55",
     "sub": [
-      "We could get the Nobel for this!"
+      "Potremmo avere il Nobel!"
     ],
-    "time": "81:58"
+    "index": 595
   },
   {
-    "index": 641,
+    "time": "81:57",
     "sub": [
-      "You don't understand",
-      "the power of this thing."
+      "Non capisci il potere di questa cosa."
     ],
-    "time": "81:59"
+    "index": 596
   },
   {
-    "index": 642,
+    "time": "81:59",
     "sub": [
-      "It is too dangerous. It cannot be controlled."
+      "Lui \u00e8 troppo pericoloso.",
+      "Non pu\u00f2 essere controllato."
     ],
-    "time": "82:01"
+    "index": 597
   },
   {
-    "index": 643,
+    "time": "82:2",
     "sub": [
-      "At your discretion, shooter."
+      "A tua discrezione, tiratore."
     ],
-    "time": "82:05"
+    "index": 598
   },
   {
-    "index": 644,
+    "time": "82:4",
     "sub": [
-      "STERNS ON RADIO: Three of us!",
-      "This is Promethean fire!"
+      "- ...tutti e tre! Questo \u00e8 il fuoco di Prometeo!",
+      "- \u00c8 troppo..."
     ],
-    "time": "82:06"
+    "index": 599
   },
   {
-    "index": 645,
+    "time": "82:7",
     "sub": [
-      "BRUCE ON RADIO: It's just..."
+      "Non ancora."
     ],
-    "time": "82:08"
+    "index": 600
   },
   {
-    "index": 646,
+    "time": "82:11",
     "sub": [
-      "SOLDIER ON RADIO: No shot."
+      "Blonsky sta entrando."
     ],
-    "time": "82:09"
+    "index": 601
   },
   {
-    "index": 647,
+    "time": "82:15",
     "sub": [
-      "Blonsky's going in."
+      "Blonsky, si fermi. C'\u00e8 mia figlia l\u00e0 dentro!"
     ],
-    "time": "82:14"
+    "index": 602
   },
   {
-    "index": 648,
+    "time": "82:21",
     "sub": [
-      "GENERAL: Blonsky, stand down.",
-      "My daughter's in there!"
+      "Ora abbiamo l'antidoto."
     ],
-    "time": "82:18"
+    "index": 603
   },
   {
-    "index": 649,
+    "time": "82:22",
     "sub": [
-      "We have the antidote now."
+      "Loro non vogliono l'antidoto!",
+      "Vogliono farne un'arma!"
     ],
-    "time": "82:23"
+    "index": 604
   },
   {
-    "index": 650,
+    "time": "82:32",
     "sub": [
-      "They don't want the antidote!",
-      "They want to make it a weapon!"
+      "Se glielo lasciamo, non lo riavremo mai."
     ],
-    "time": "82:24"
+    "index": 605
   },
   {
-    "index": 652,
+    "time": "82:34",
     "sub": [
-      "And if we let it go, we will never get it back."
+      "Non hai idea di quanto sia potente."
     ],
-    "time": "82:34"
+    "index": 606
   },
   {
-    "index": 653,
+    "time": "82:36",
     "sub": [
-      "You don't know how powerful this thing is."
+      "Io detesto il governo come tutti,"
     ],
-    "time": "82:36"
+    "index": 607
   },
   {
-    "index": 654,
+    "time": "82:38",
     "sub": [
-      "I hate the government",
-      "just as much as anyone,"
+      "ma tu sei un po' paranoico, non credi?"
     ],
-    "time": "82:38"
+    "index": 608
   },
   {
-    "index": 655,
-    "sub": [
-      "but you're being a little paranoid,",
-      "don't you think?"
-    ],
-    "time": "82:40"
-  },
-  {
-    "index": 657,
+    "time": "82:48",
     "sub": [
       "Bruce! Bruce!"
     ],
-    "time": "82:50"
+    "index": 609
   },
   {
-    "index": 658,
+    "time": "82:51",
     "sub": [
-      "Get out."
+      "Scappa."
     ],
-    "time": "82:53"
+    "index": 610
   },
   {
-    "index": 660,
+    "time": "82:55",
     "sub": [
-      "Where is it? Come on, where is it?"
+      "Dov'\u00e8? Andiamo, dov'\u00e8?"
     ],
-    "time": "82:58"
+    "index": 611
   },
   {
-    "index": 663,
+    "time": "83:2",
     "sub": [
-      "Show him to me."
+      "Voglio vederlo."
     ],
-    "time": "83:05"
+    "index": 612
   },
   {
-    "index": 664,
+    "time": "83:6",
     "sub": [
       "Blonsky!"
     ],
-    "time": "83:08"
+    "index": 613
   },
   {
-    "index": 666,
+    "time": "83:15",
     "sub": [
-      "SOLDIER: Miss!"
+      "Signorina!"
     ],
-    "time": "83:18"
+    "index": 614
   },
   {
-    "index": 667,
+    "time": "83:18",
     "sub": [
-      "Take this."
+      "Prenda questa."
     ],
-    "time": "83:20"
+    "index": 615
   },
   {
-    "index": 668,
+    "time": "83:23",
     "sub": [
-      "If you took it from me, I'm gonna",
-      "put you in a hole for the rest of your life."
+      "Se me l'hai portato via, ti chiudo in un buco",
+      "per il resto della tua vita."
     ],
-    "time": "83:25"
+    "index": 616
   },
   {
-    "index": 669,
+    "time": "83:33",
     "sub": [
       "Betty."
     ],
-    "time": "83:35"
+    "index": 617
   },
   {
-    "index": 670,
+    "time": "83:36",
     "sub": [
-      "I will never forgive what you've done to him."
+      "Non ti perdoner\u00f2 mai",
+      "per quello che gli hai fatto."
     ],
-    "time": "83:39"
+    "index": 618
   },
   {
-    "index": 671,
+    "time": "83:39",
     "sub": [
-      "He's a fugitive."
+      "\u00c8 un ricercato."
     ],
-    "time": "83:42"
+    "index": 619
   },
   {
-    "index": 672,
+    "time": "83:41",
     "sub": [
-      "You made him a fugitive"
+      "Tu ne hai fatto un ricercato"
     ],
-    "time": "83:43"
+    "index": 620
   },
   {
-    "index": 673,
+    "time": "83:43",
     "sub": [
-      "to cover your failures",
-      "and to protect your career."
+      "per nascondere i tuoi fallimenti",
+      "e difendere la tua carriera."
     ],
-    "time": "83:45"
+    "index": 621
   },
   {
-    "index": 674,
+    "time": "83:47",
     "sub": [
-      "Don't ever speak to me",
-      "as your daughter again."
+      "Non parlarmi mai pi\u00f9 come a una figlia."
     ],
-    "time": "83:49"
+    "index": 622
   },
   {
-    "index": 675,
+    "time": "83:52",
     "sub": [
-      "It's only because you're my daughter",
-      "that you're not in handcuffs, too."
+      "\u00c8 soltanto perch\u00e9 sei mia figlia",
+      "che non hai le manette anche tu."
     ],
-    "time": "83:55"
+    "index": 623
   },
   {
-    "index": 676,
+    "time": "84:0",
     "sub": [
-      "SPARR: Are you telling me",
-      "you can make more like him?"
+      "Vuole dire che pu\u00f2 crearne altri come lui?"
     ],
-    "time": "84:03"
+    "index": 624
   },
   {
-    "index": 677,
+    "time": "84:2",
     "sub": [
-      "No! Not yet. I sorted out a few pieces,",
-      "but it's not like I can put together"
+      "No! Non ancora. Ho qualche elemento,",
+      "ma non posso mettere insieme"
     ],
-    "time": "84:04"
+    "index": 625
   },
   {
-    "index": 678,
+    "time": "84:7",
     "sub": [
-      "the same Humpty Dumpty,",
-      "if that's what you're asking."
+      "lo stesso pupazzo al pistacchio,",
+      "se mi sta chiedendo questo."
     ],
-    "time": "84:09"
+    "index": 626
   },
   {
-    "index": 679,
+    "time": "84:10",
     "sub": [
-      "He was a freak accident!",
-      "The goal is to do it better!"
+      "Lui \u00e8 stato un incidente casuale!",
+      "L'obiettivo \u00e8 farlo meglio!"
     ],
-    "time": "84:13"
+    "index": 627
   },
   {
-    "index": 680,
+    "time": "84:14",
     "sub": [
-      "So Banner's the only..."
+      "Quindi Banner \u00e8 l'unico..."
     ],
-    "time": "84:16"
+    "index": 628
   },
   {
-    "index": 681,
+    "time": "84:20",
     "sub": [
-      "She's an annoying bitch.",
-      "Why are you always hitting people?"
+      "- \u00c8 solo una rompipalle.",
+      "- Perch\u00e9 hai la mano cos\u00ec pesante?"
     ],
-    "time": "84:22"
+    "index": 629
   },
   {
-    "index": 682,
+    "time": "84:27",
     "sub": [
-      "Now what possibly could I have done",
-      "to deserve such aggression?"
+      "Se \u00e8 lecito, posso sapere che cosa ho fatto",
+      "per meritare questa aggressione?"
     ],
-    "time": "84:29"
+    "index": 630
   },
   {
-    "index": 683,
+    "time": "84:32",
     "sub": [
-      "It's not what you've done.",
-      "It's what you're gonna do."
+      "Non \u00e8 per quello che hai fatto,",
+      "ma per quello che farai."
     ],
-    "time": "84:34"
+    "index": 631
   },
   {
-    "index": 684,
+    "time": "84:36",
     "sub": [
-      "I want what you got out of Banner.",
-      "I want that."
+      "Voglio quello che hai tirato fuori da Banner.",
+      "Voglio quello."
     ],
-    "time": "84:38"
+    "index": 632
   },
   {
-    "index": 685,
+    "time": "84:42",
     "sub": [
-      "You look like you've got a little",
-      "something in you already, don't you?"
+      "Sembra che tu ne abbia gi\u00e0",
+      "un po' dentro, \u00e8 cos\u00ec?"
     ],
-    "time": "84:44"
+    "index": 633
   },
   {
-    "index": 686,
+    "time": "84:47",
     "sub": [
-      "I want more.",
-      "You've seen what he becomes, right?"
+      "Ne voglio di pi\u00f9.",
+      "Hai visto come diventa, vero?"
     ],
-    "time": "84:49"
+    "index": 634
   },
   {
-    "index": 687,
+    "time": "84:51",
     "sub": [
-      "I have."
+      "L'ho visto."
     ],
-    "time": "84:54"
+    "index": 635
   },
   {
-    "index": 688,
+    "time": "84:53",
     "sub": [
-      "And it's beautiful."
+      "Ed \u00e8 bellissimo."
     ],
-    "time": "84:56"
+    "index": 636
   },
   {
-    "index": 689,
+    "time": "84:56",
     "sub": [
-      "Godlike."
+      "Come un dio."
     ],
-    "time": "84:58"
+    "index": 637
   },
   {
-    "index": 690,
+    "time": "84:57",
     "sub": [
-      "Well, I want that."
+      "Be', io voglio quello."
     ],
-    "time": "85:00"
+    "index": 638
   },
   {
-    "index": 691,
+    "time": "85:1",
     "sub": [
-      "I need that. Make me that."
+      "Ne ho bisogno. Fammi cos\u00ec."
     ],
-    "time": "85:03"
+    "index": 639
   },
   {
-    "index": 692,
+    "time": "85:4",
     "sub": [
-      "I don't know what you've got",
-      "inside you already."
+      "Non so che cosa hai gi\u00e0 dentro di te."
     ],
-    "time": "85:06"
+    "index": 640
   },
   {
-    "index": 693,
+    "time": "85:7",
     "sub": [
-      "The mix could be"
+      "La mistura potrebbe creare"
     ],
-    "time": "85:10"
+    "index": 641
   },
   {
-    "index": 694,
+    "time": "85:9",
     "sub": [
-      "an abomination."
+      "un abominio."
     ],
-    "time": "85:12"
+    "index": 642
   },
   {
-    "index": 695,
+    "time": "85:15",
     "sub": [
-      "I didn't say I was unwilling."
+      "Non ho detto di non volerlo fare."
     ],
-    "time": "85:17"
+    "index": 643
   },
   {
-    "index": 696,
+    "time": "85:18",
     "sub": [
-      "I just need informed consent."
+      "Mi serve solo il consenso informato"
     ],
-    "time": "85:20"
+    "index": 644
   },
   {
-    "index": 697,
+    "time": "85:24",
     "sub": [
-      "And you've given it."
+      "e tu me lo hai appena dato."
     ],
-    "time": "85:27"
+    "index": 645
   },
   {
-    "index": 698,
+    "time": "86:7",
     "sub": [
-      "This is what I was trying to explain."
+      "\u00c8 questo che tentavo di spiegarti."
     ],
-    "time": "86:09"
+    "index": 646
   },
   {
-    "index": 699,
+    "time": "86:12",
     "sub": [
-      "I don't know what you've been",
-      "ladling into yourself."
+      "Non so cosa tu abbia ingurgitato,"
     ],
-    "time": "86:14"
+    "index": 647
   },
   {
-    "index": 700,
+    "time": "86:17",
     "sub": [
-      "But clearly it worked."
+      "ma ha funzionato alla grande."
     ],
-    "time": "86:19"
+    "index": 648
   },
   {
-    "index": 701,
+    "time": "86:19",
     "sub": [
-      "Let's assume you don't understand",
-      "a word I'm saying,"
+      "\u00c8 probabile che tu non stia capendo",
+      "una parola di quello che dico,"
     ],
-    "time": "86:21"
+    "index": 649
   },
   {
-    "index": 702,
+    "time": "86:22",
     "sub": [
-      "but if you'll just get back on the table,"
+      "ma se ti rimetti sul lettino"
     ],
-    "time": "86:25"
+    "index": 650
   },
   {
-    "index": 703,
+    "time": "86:27",
     "sub": [
-      "I can fix this."
+      "potrei trovare un rimedio."
     ],
-    "time": "86:30"
+    "index": 651
   },
   {
-    "index": 706,
+    "time": "86:45",
     "sub": [
-      "SOLDIER 1: Shoot it!",
-      "SOLDIER 2: Hey!"
+      "- Sparagli!",
+      "- Ehi!"
     ],
-    "time": "86:47"
+    "index": 652
   },
   {
-    "index": 707,
+    "time": "86:47",
     "sub": [
       "No!"
     ],
-    "time": "86:50"
+    "index": 653
   },
   {
-    "index": 709,
+    "time": "86:58",
     "sub": [
-      "SOLDIER 5: Delta 4 to Leader."
+      "Delta 4 a Leader."
     ],
-    "time": "87:00"
+    "index": 654
   },
   {
-    "index": 710,
+    "time": "87:0",
     "sub": [
-      "They took out two of our guys,",
-      "two of our guys!"
+      "Hanno colpito due dei miei uomini."
     ],
-    "time": "87:02"
+    "index": 655
   },
   {
-    "index": 711,
+    "time": "87:2",
     "sub": [
-      "Blonsky and the Major are still inside!"
+      "Blonsky e il Maggiore sono ancora dentro!"
     ],
-    "time": "87:04"
+    "index": 656
   },
   {
-    "index": 713,
+    "time": "87:7",
     "sub": [
-      "Come on! Move, move, move, move!"
+      "Andiamo! Vai!"
     ],
-    "time": "87:10"
+    "index": 657
   },
   {
-    "index": 714,
+    "time": "87:18",
     "sub": [
-      "It's over there!"
+      "\u00c8 laggi\u00f9!"
     ],
-    "time": "87:20"
+    "index": 658
   },
   {
-    "index": 715,
+    "time": "87:21",
     "sub": [
-      "SOLDIER 2: Drop them!"
+      "Lanciale!"
     ],
-    "time": "87:23"
+    "index": 659
   },
   {
-    "index": 716,
+    "time": "87:22",
     "sub": [
-      "SOLDIER 3: What is that thing?",
-      "SOLDIER 4: Shoot it!"
+      "- Cos'\u00e8 quella cosa?",
+      "- Spara!"
     ],
-    "time": "87:25"
+    "index": 660
   },
   {
-    "index": 718,
+    "time": "87:34",
     "sub": [
-      "Okay. All right! You... You, drive!",
-      "Let's go! Move, move!"
+      "Oh, cavolo! Okay. Tu guida!",
+      "Andiamo! Muoviti!"
     ],
-    "time": "87:36"
+    "index": 661
   },
   {
-    "index": 719,
+    "time": "87:38",
     "sub": [
-      "SOLDIER 5: Delta 4 to Leader!",
-      "SOLDIER 6: Go, go, go, go, go!"
+      "- Delta 4 a Leader!",
+      "- Via, via!"
     ],
-    "time": "87:40"
+    "index": 662
   },
   {
-    "index": 720,
+    "time": "87:39",
     "sub": [
-      "SOLDIER 5: Something big",
-      "just went off down here!"
+      "\u00c8 successa una cosa pazzesca!"
     ],
-    "time": "87:42"
+    "index": 663
   },
   {
-    "index": 721,
+    "time": "87:42",
     "sub": [
-      "General, you should hear this!"
+      "Generale, venga a sentire!"
     ],
-    "time": "87:44"
+    "index": 664
   },
   {
-    "index": 722,
+    "time": "87:44",
     "sub": [
-      "The Hulk is in the street!",
-      "I repeat, the Hulk is in the street!"
+      "Hulk \u00e8 in strada! Ripeto, Hulk \u00e8 in strada!"
     ],
-    "time": "87:46"
+    "index": 665
   },
   {
-    "index": 723,
+    "time": "87:50",
     "sub": [
-      "That's impossible.",
-      "You get a hold of yourself, young man."
+      "\u00c8 impossibile.",
+      "Cerchi di controllarsi, soldato."
     ],
-    "time": "87:52"
+    "index": 666
   },
   {
-    "index": 724,
+    "time": "87:52",
     "sub": [
-      "You get it together. What is your position?"
+      "Stia calmo. Qual \u00e8 la sua posizione?"
     ],
-    "time": "87:54"
+    "index": 667
   },
   {
-    "index": 725,
+    "time": "87:54",
     "sub": [
-      "121st Street, heading north on Broadway!"
+      "121\u00b0 Strada, diretto a nord su Broadway!"
     ],
-    "time": "87:56"
+    "index": 668
   },
   {
-    "index": 726,
+    "time": "87:57",
     "sub": [
-      "Turn us around."
+      "Torna indietro."
     ],
-    "time": "87:59"
+    "index": 669
   },
   {
-    "index": 727,
+    "time": "88:6",
     "sub": [
-      "We're going back. Why are we going back?"
+      "Stiamo tornando indietro.",
+      "Perch\u00e9 torniamo indietro?"
     ],
-    "time": "88:08"
+    "index": 670
   },
   {
-    "index": 728,
+    "time": "88:9",
     "sub": [
-      "Damn it! Give me eyes down there!"
+      "Dannazione! Mi faccia vedere che succede!"
     ],
-    "time": "88:11"
+    "index": 671
   },
   {
-    "index": 729,
+    "time": "88:11",
     "sub": [
-      "Yes, sir!"
+      "S\u00ec, signore!"
     ],
-    "time": "88:13"
+    "index": 672
   },
   {
-    "index": 730,
+    "time": "88:14",
     "sub": [
-      "What the hell was that?"
+      "Cos'\u00e8 quello?"
     ],
-    "time": "88:17"
+    "index": 673
   },
   {
-    "index": 731,
+    "time": "88:17",
     "sub": [
-      "Go, go, go!"
+      "Vai, vai!"
     ],
-    "time": "88:19"
+    "index": 674
   },
   {
-    "index": 733,
+    "time": "88:42",
     "sub": [
       "No!"
     ],
-    "time": "88:44"
+    "index": 675
   },
   {
-    "index": 736,
+    "time": "88:59",
     "sub": [
-      "One of yours?"
+      "\u00c8 uno dei suoi?"
     ],
-    "time": "89:01"
+    "index": 676
   },
   {
-    "index": 737,
+    "time": "89:1",
     "sub": [
-      "Oh, my God. What have you done?"
+      "Oh, mio Dio. Che cosa hai fatto?"
     ],
-    "time": "89:03"
+    "index": 677
   },
   {
-    "index": 738,
+    "time": "89:6",
     "sub": [
-      "OFFICER: Fire at him, fire at him!"
+      "Sparagli! Sparagli!"
     ],
-    "time": "89:08"
+    "index": 678
   },
   {
-    "index": 739,
+    "time": "89:12",
     "sub": [
-      "Do you think a rifle's gonna hurt that?"
+      "Credi che un fucile lo ferir\u00e0?"
     ],
-    "time": "89:15"
+    "index": 679
   },
   {
-    "index": 740,
+    "time": "89:15",
     "sub": [
-      "Come on!"
+      "Andiamo!"
     ],
-    "time": "89:17"
+    "index": 680
   },
   {
-    "index": 741,
+    "time": "89:20",
     "sub": [
-      "Sweet."
+      "Bene."
     ],
-    "time": "89:22"
+    "index": 681
   },
   {
-    "index": 743,
+    "time": "89:24",
     "sub": [
-      "Booyah!"
+      "Benissimo!"
     ],
-    "time": "89:26"
+    "index": 682
   },
   {
-    "index": 746,
+    "time": "89:43",
     "sub": [
-      "Get out of there, soldier!"
+      "Si tolga da l\u00ec, soldato!"
     ],
-    "time": "89:45"
+    "index": 683
   },
   {
-    "index": 747,
+    "time": "89:48",
     "sub": [
       "Stacy!"
     ],
-    "time": "89:50"
+    "index": 684
   },
   {
-    "index": 748,
+    "time": "90:20",
     "sub": [
-      "Give me a real fight!"
+      "Voglio un avversario vero!"
     ],
-    "time": "90:22"
+    "index": 685
   },
   {
-    "index": 749,
+    "time": "90:30",
     "sub": [
-      "Sir?"
+      "Signore?"
     ],
-    "time": "90:32"
+    "index": 686
   },
   {
-    "index": 750,
+    "time": "90:34",
     "sub": [
-      "Sir?"
+      "Signore?"
     ],
-    "time": "90:36"
+    "index": 687
   },
   {
-    "index": 751,
+    "time": "90:36",
     "sub": [
-      "Tell them to bring everything they've got",
-      "and head for Harlem."
+      "A Harlem con tutte le armi a disposizione."
     ],
-    "time": "90:39"
+    "index": 688
   },
   {
-    "index": 752,
+    "time": "90:43",
     "sub": [
-      "It has to be me.",
-      "You have to take me back there."
+      "Lui vuole me. Dovete riportarmi l\u00e0."
     ],
-    "time": "90:45"
+    "index": 689
   },
   {
-    "index": 753,
+    "time": "90:47",
     "sub": [
-      "What are you saying?"
+      "Che cosa dici?"
     ],
-    "time": "90:49"
+    "index": 690
   },
   {
-    "index": 754,
+    "time": "90:48",
     "sub": [
-      "You think you can control it?"
+      "Credi di poterlo controllare?"
     ],
-    "time": "90:51"
+    "index": 691
   },
   {
-    "index": 755,
+    "time": "90:50",
     "sub": [
-      "No, no, not control it,",
-      "but, I don't know, maybe aim it."
+      "No, controllarlo no,",
+      "ma spingerlo contro di lui, forse."
     ],
-    "time": "90:52"
+    "index": 692
   },
   {
-    "index": 756,
+    "time": "90:53",
     "sub": [
-      "And what if you can't?"
+      "E se non ci riesci?"
     ],
-    "time": "90:55"
+    "index": 693
   },
   {
-    "index": 757,
+    "time": "90:56",
     "sub": [
-      "We made this thing."
+      "Abbiamo creato noi questo."
     ],
-    "time": "90:58"
+    "index": 694
   },
   {
-    "index": 758,
+    "time": "90:58",
     "sub": [
-      "All of us."
+      "Tutti noi."
     ],
-    "time": "91:00"
+    "index": 695
   },
   {
-    "index": 759,
+    "time": "91:0",
     "sub": [
-      "Please."
+      "La prego."
     ],
-    "time": "91:03"
+    "index": 696
   },
   {
-    "index": 760,
+    "time": "91:7",
     "sub": [
-      "Land us near it.",
-      "No, no. No, keep us high."
+      "- Atterra l\u00ec vicino.",
+      "- No. Mantienici in quota."
     ],
-    "time": "91:09"
+    "index": 697
   },
   {
-    "index": 761,
+    "time": "91:11",
     "sub": [
-      "Open the back door."
+      "Apri il portello posteriore."
     ],
-    "time": "91:13"
+    "index": 698
   },
   {
-    "index": 762,
+    "time": "91:18",
     "sub": [
-      "Bruce! Bruce, stop!",
-      "Stop! What are you doing?"
+      "Bruce, fermati! Fermo! Ma che vuoi fare?"
     ],
-    "time": "91:20"
+    "index": 699
   },
   {
-    "index": 763,
+    "time": "91:23",
     "sub": [
-      "Think about this!",
-      "You don't even know if you'll change!"
+      "Pensaci bene!",
+      "Non sai nemmeno se ti trasformerai!"
     ],
-    "time": "91:25"
+    "index": 700
   },
   {
-    "index": 764,
+    "time": "91:29",
     "sub": [
-      "You don't have to do this!",
-      "Please, this is insane!"
+      "Non sei obbligato a farlo!",
+      "Ti prego, questa \u00e8 una follia."
     ],
-    "time": "91:31"
+    "index": 701
   },
   {
-    "index": 765,
+    "time": "91:32",
     "sub": [
-      "Betty, I've got to try."
+      "Betty, devo provarci."
     ],
-    "time": "91:34"
+    "index": 702
   },
   {
-    "index": 766,
+    "time": "91:36",
     "sub": [
-      "I'm sorry."
+      "Mi dispiace."
     ],
-    "time": "91:38"
+    "index": 703
   },
   {
-    "index": 767,
+    "time": "92:0",
     "sub": [
-      "Oh, shit!"
+      "Oh, cavolo."
     ],
-    "time": "92:02"
+    "index": 704
   },
   {
-    "index": 768,
+    "time": "92:5",
     "sub": [
-      "Get her in here!",
-      "Come on, miss."
+      "- Portala qui!",
+      "- Venga, signorina."
     ],
-    "time": "92:08"
+    "index": 705
   },
   {
-    "index": 770,
+    "time": "92:26",
     "sub": [
-      "There. Betty!"
+      "L\u00e0. Betty!"
     ],
-    "time": "92:28"
+    "index": 706
   },
   {
-    "index": 773,
+    "time": "92:47",
     "sub": [
       "Hulk!"
     ],
-    "time": "92:49"
+    "index": 707
   },
   {
-    "index": 774,
+    "time": "92:53",
     "sub": [
-      "Yeah!"
+      "S\u00ec!"
     ],
-    "time": "92:55"
+    "index": 708
   },
   {
-    "index": 777,
+    "time": "93:39",
     "sub": [
-      "Come on!"
+      "Forza!"
     ],
-    "time": "93:41"
+    "index": 709
   },
   {
-    "index": 778,
+    "time": "94:13",
     "sub": [
-      "(INDISTINCT CHATTERING",
-      "ON POLICE RADIO)"
+      "\u00c8 tutto quello che sai fare?"
     ],
-    "time": "93:44"
+    "index": 710
   },
   {
-    "index": 780,
+    "time": "94:28",
     "sub": [
-      "Is that all you've got?"
+      "Usi quell'affare, soldato! Gli dia una mano!"
     ],
-    "time": "94:15"
+    "index": 711
   },
   {
-    "index": 781,
+    "time": "94:31",
     "sub": [
-      "Use that thing, soldier! Give him some help!"
+      "A chi?"
     ],
-    "time": "94:31"
+    "index": 712
   },
   {
-    "index": 782,
+    "time": "94:32",
     "sub": [
-      "Which one?"
+      "Aiuti quello verde, porca miseria!",
+      "Quale, se no?"
     ],
-    "time": "94:33"
+    "index": 713
   },
   {
-    "index": 783,
+    "time": "94:35",
     "sub": [
-      "Help the green one, damn it!",
-      "Which one do you think?"
+      "Spezzi in due l'altro!"
     ],
-    "time": "94:35"
+    "index": 714
   },
   {
-    "index": 784,
-    "sub": [
-      "Cut the other one in half!"
-    ],
-    "time": "94:37"
-  },
-  {
-    "index": 785,
+    "time": "94:39",
     "sub": [
       "Ross!"
     ],
-    "time": "94:42"
+    "index": 715
   },
   {
-    "index": 786,
+    "time": "95:5",
     "sub": [
-      "Keep it on him!"
+      "Gli stia addosso!"
     ],
-    "time": "95:08"
+    "index": 716
   },
   {
-    "index": 788,
+    "time": "95:35",
     "sub": [
-      "PILOT: Look, I got to put it down!",
-      "GENERAL: Hang on!"
+      "- Perdo quota! Devo atterrare!",
+      "- Tieniti forte!"
     ],
-    "time": "95:38"
+    "index": 717
   },
   {
-    "index": 791,
+    "time": "96:46",
     "sub": [
-      "Dad?"
+      "Pap\u00e0."
     ],
-    "time": "96:48"
+    "index": 718
   },
   {
-    "index": 793,
+    "time": "96:49",
     "sub": [
-      "Are you hurt? Let me help you."
+      "Sei ferito? Ti aiuto, aspetta."
     ],
-    "time": "96:52"
+    "index": 719
   },
   {
-    "index": 794,
+    "time": "97:0",
     "sub": [
-      "I'm all right. Just find a way out."
+      "Sto bene. Cerchiamo di uscire."
     ],
-    "time": "97:02"
+    "index": 720
   },
   {
-    "index": 797,
+    "time": "97:49",
     "sub": [
-      "You don't deserve this power!",
-      "Now watch her die!"
+      "Tu non meriti questo potere!",
+      "Ora guardala morire!"
     ],
-    "time": "97:52"
+    "index": 721
   },
   {
-    "index": 799,
+    "time": "98:47",
     "sub": [
-      "Look out!"
+      "Attento!"
     ],
-    "time": "98:49"
+    "index": 722
   },
   {
-    "index": 800,
+    "time": "99:19",
     "sub": [
-      "General?"
+      "Generale?"
     ],
-    "time": "99:21"
+    "index": 723
   },
   {
-    "index": 801,
+    "time": "99:27",
     "sub": [
-      "Any last words?"
+      "Le tue ultime parole?"
     ],
-    "time": "99:29"
+    "index": 724
   },
   {
-    "index": 802,
+    "time": "99:32",
     "sub": [
-      "Hulk smash!"
+      "Hulk spacca!"
     ],
-    "time": "99:34"
+    "index": 725
   },
   {
-    "index": 804,
+    "time": "100:23",
     "sub": [
-      "BETTY: Stop!"
+      "Basta!"
     ],
-    "time": "100:25"
+    "index": 726
   },
   {
-    "index": 806,
+    "time": "101:45",
     "sub": [
-      "It's okay."
+      "\u00c8 tutto okay."
     ],
-    "time": "101:48"
+    "index": 727
   },
   {
-    "index": 807,
+    "time": "101:57",
     "sub": [
       "Betty."
     ],
-    "time": "101:59"
+    "index": 728
   },
   {
-    "index": 812,
+    "time": "104:26",
     "sub": [
-      "GENERAL: Reload."
+      "Ricarica."
     ],
-    "time": "104:29"
+    "index": 729
   },
   {
-    "index": 813,
+    "time": "104:35",
     "sub": [
-      "Reload."
+      "Ricarica."
     ],
-    "time": "104:38"
+    "index": 730
   },
   {
-    "index": 814,
+    "time": "104:53",
     "sub": [
-      "TONY: The smell of stale beer and defeat."
+      "L'odore della birra svanita e della sconfitta."
     ],
-    "time": "104:55"
+    "index": 731
   },
   {
-    "index": 815,
+    "time": "104:56",
     "sub": [
-      "You know, I hate to say,",
-      "\"I told you so,\" General,"
+      "Odio dover dire: \"Gliel'avevo detto\","
     ],
-    "time": "104:58"
+    "index": 732
   },
   {
-    "index": 816,
+    "time": "104:58",
     "sub": [
-      "but that Super Soldier programme",
-      "was put on ice for a reason."
+      "ma il progetto Super Soldato",
+      "venne messo in naftalina per una ragione."
     ],
-    "time": "105:00"
+    "index": 733
   },
   {
-    "index": 817,
+    "time": "105:2",
     "sub": [
-      "I've always felt hardware was more reliable."
+      "Ho sempre pensato",
+      "che le armi pesanti fossero pi\u00f9 affidabili."
     ],
-    "time": "105:04"
+    "index": 734
   },
   {
-    "index": 818,
+    "time": "105:5",
     "sub": [
-      "Stark.",
-      "General."
+      "- Stark.",
+      "- Generale."
     ],
-    "time": "105:08"
+    "index": 735
   },
   {
-    "index": 819,
+    "time": "105:10",
     "sub": [
-      "You always wear such nice suits."
+      "Lei \u00e8 sempre vestito molto bene."
     ],
-    "time": "105:12"
+    "index": 736
   },
   {
-    "index": 820,
+    "time": "105:13",
     "sub": [
-      "Touche."
+      "Touch\u00e9."
     ],
-    "time": "105:16"
+    "index": 737
   },
   {
-    "index": 821,
+    "time": "105:16",
     "sub": [
-      "I hear you have an unusual problem.",
-      "You should talk."
+      "- Ho sentito che ha un insolito problema.",
+      "- Senti chi parla."
     ],
-    "time": "105:18"
+    "index": 738
   },
   {
-    "index": 822,
+    "time": "105:19",
     "sub": [
-      "You should listen."
+      "Dovrebbe ascoltare."
     ],
-    "time": "105:22"
+    "index": 739
   },
   {
-    "index": 823,
+    "time": "105:24",
     "sub": [
-      "What if I told you",
-      "we were putting a team together?"
+      "Se le dicessi che noi stiamo",
+      "mettendo insieme una squadra?"
     ],
-    "time": "105:26"
+    "index": 740
   },
   {
-    "index": 824,
+    "time": "105:27",
     "sub": [
-      "Who's \"we\"?"
+      "Noi chi?"
     ],
-    "time": "105:29"
+    "index": 741
   }
 ]
