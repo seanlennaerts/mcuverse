@@ -7,7 +7,7 @@ function Searchbar(props) {
         type="search"
         value={props.value}
         onChange={props.onSearchChange}
-        placeholder="Search verse"
+        placeholder="Cerca un verso"
         autoFocus
       />
     </div>
