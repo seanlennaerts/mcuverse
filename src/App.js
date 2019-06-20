@@ -73,7 +73,7 @@ class Main extends React.Component {
     var matches = []
     movies.forEach(movie => {
       movie.subs.forEach((sub, index) => {
-        let strIndex = sub.sub.join(' ').toLowerCase().indexOf(this.state.search.toLowerCase().trim());
+        let strIndex = sub.sub.join(' ').toLowerCase().indexOf(this.state.search.toLowerCase());
         if (strIndex >= 0) {
           matches.push(this.buildQuote(movie, sub, index))
         }
