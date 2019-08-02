@@ -31,7 +31,7 @@ class Home extends Component {
           <p>{this.state.quote.line} <i>({this.state.quote.title} {this.state.quote.time})</i></p>
         </div>
         <div className="credits">
-          made by /u/shonnyboymushi
+          <a href="https://github.com/seanlennaerts/">made by Sean Lennaerts</a>
           </div>
       </div>
     );

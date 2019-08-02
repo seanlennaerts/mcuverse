@@ -8,8 +8,14 @@
     }
     .credits {
       text-align: center;
-      color: rgb(54, 60, 63);
+      color: rgb(161, 161, 161);
       font-size: 0.8rem;
+      position: fixed;
+      bottom: 2rem;
+      a {
+        color: inherit;
+        text-decoration: none;
+      }
     }
 
     @media only screen and (min-width: 37.5em) {
