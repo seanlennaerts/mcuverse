@@ -1,17 +1,19 @@
 import React from 'react';
 import '../styles/Searchbar.scss';
 function Searchbar(props) {
-  return(
+
+  const { value, onSearchChange, placeholder } = props;
+  return (
     <div className="searchContainer">
       <input
         type="search"
-        value={props.value}
-        onChange={props.onSearchChange}
-        placeholder="Search verse"
+        value={value}
+        onChange={onSearchChange}
+        placeholder={placeholder}
         autoFocus
       />
     </div>
-    );
+  );
 }
 
 export { Searchbar };
