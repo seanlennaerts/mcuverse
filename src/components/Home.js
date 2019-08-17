@@ -12,16 +12,24 @@ class Home extends Component {
   constructor(props) {
     super(props);
     const { movies } = props;
+    this.setQuote(movies);
+  }
 
+  setQuote(movies) {
     let randQuote = this.getRandomQuote(movies);
     while (randQuote.line.split(' ').length <= 4 || randQuote.line.substring(0,1) !== randQuote.line.substring(0,1).toUpperCase()) {
-        randQuote = this.getRandomQuote(movies);
+      randQuote = this.getRandomQuote(movies);
     }
     this.state = { quote: { title: randQuote.title, line: randQuote.line, time: randQuote.time } };
   }
 
   getRandomInt(max) {
     return Math.floor(Math.random() * Math.floor(max));
+  }
+
+  componentWillReceiveProps(nextProps, nextContext) {
+    const { movies } = nextProps;
+    this.setQuote(movies);
   }
 
   render() {

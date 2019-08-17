@@ -23,6 +23,42 @@
     &:focus {
       border: solid 1px cornflowerblue;
     }
+
+    &:hover + .languageLinks a {
+      opacity: 0.2;
+
+      &.active {
+        opacity: 1;
+      }
+    }
+  }
+
+  .languageLinks {
+    position: absolute;
+    right: 1rem;
+    top: 50%;
+    transform: translateY(-50%);
+
+    a {
+      opacity: 0.2;
+      img {
+        max-height: 1.5rem;
+      }
+      transition: 0.2s ease-in-out opacity;
+      &:not(:last-child) {
+        margin-right: 0.25rem;
+      }
+      &.active {
+        opacity: 0.7;
+      }
+      &:hover {
+        opacity: 1;
+      }
+      &:last-child {
+        margin-right: 1rem;
+      }
+
+    }
   }
 
   @media only screen and (min-width: 37.5em) {
