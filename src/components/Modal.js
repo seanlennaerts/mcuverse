@@ -1,7 +1,7 @@
-import React from 'react';
+import React, { Component } from 'react';
 import '../styles/Modal.scss';
 
-export default function Modal(props) {
+function Modal(props) {
   const {
     show,
     onClose,
@@ -16,7 +16,9 @@ export default function Modal(props) {
   );
 }
 
-class ModalWrapper extends React.PureComponent {
+export { Modal };
+
+class ModalWrapper extends Component {
   constructor(props) {
     super(props);
 

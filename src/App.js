@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from "react-router-dom";
 
 import { Home, Quote, Searchbar } from './components';
-import { PrequelMemes } from './routes';
+import { PrequelMemes, Franchise } from './routes';
 
 import './App.scss';
 import movies from './movies/index';
@@ -11,9 +11,9 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <Route exact path="/" component={Main} />
-        {/* <Route path="/mcu" component={Mcu} /> */}
-        <Route path="/prequelmemes" component={PrequelMemes} />
+        <Route exact path="/" component={Franchise} /> 
+        <Route path="/mcuverse" component={Main} />
+        <Route path="/starwars" component={PrequelMemes} />
       </Router>
     );
   }
@@ -52,20 +52,9 @@ class Main extends Component {
     };
   }
 
-  // componentDidMount() {
-  //   window.addEventListener('scroll', throttle(this.handleScroll, 10));
-  // }
-
-  // handleScroll() {
-  //   let gradient = document.getElementById('gradientHeader')
-  //   // console.log(window.pageYOffset);
-  //   if (window.pageYOffset === 0) {
-  //     gradient.style.height = '20rem';
-  //   } else {
-  //     console.log(20 - window.pageYOffset / 100);
-  //     gradient.style.height = `${20 - window.pageYOffset / 10}rem`
-  //   }
-  // }
+  componentDidMount() {
+    document.title = 'MCU Bible Verse - Search Movie Quotes';
+  }
 
 
   handleAlert(show) {

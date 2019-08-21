@@ -1,0 +1,22 @@
+.Meme {
+  padding-top: 42.5%;
+  position: relative;
+  background-repeat: no-repeat;
+  background-position: center bottom;
+  background-size: contain;
+  cursor: pointer;
+}
+
+.centered {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  transform: translate(-50%, 0);
+  font-size: 4vw;
+  text-shadow: 1px 1px 1px black;
+  color: yellow;
+  line-height: 0.5;
+  white-space: nowrap;
+  font-family: sans-serif;
+}
+

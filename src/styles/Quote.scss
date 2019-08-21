@@ -52,9 +52,9 @@
       flex-direction: column;
       box-sizing: border-box;
 
-      @media only screen and (min-width: 37.5em) {
+      // @media only screen and (min-width: 37.5em) {
         padding: 0 2rem;
-      }
+      // }
   
       .preContext, .postContext {
         margin: 0;

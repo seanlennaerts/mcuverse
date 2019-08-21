@@ -1,0 +1,9279 @@
+[
+  {
+    "id": 0,
+    "src": "/assets/starwars/episode3/0.png",
+    "sub": [
+      "Lock onto him, R2."
+    ],
+    "time": 187
+  },
+  {
+    "id": 1,
+    "src": "/assets/starwars/episode3/1.png",
+    "sub": [
+      "Master, General Grievous's",
+      "ship is directly ahead..."
+    ],
+    "time": 190
+  },
+  {
+    "id": 2,
+    "src": "/assets/starwars/episode3/2.png",
+    "sub": [
+      "the one crawling with vulture droids."
+    ],
+    "time": 193
+  },
+  {
+    "id": 3,
+    "src": "/assets/starwars/episode3/3.png",
+    "sub": [
+      "I see it. Oh, this is going to be easy."
+    ],
+    "time": 195
+  },
+  {
+    "id": 4,
+    "src": "/assets/starwars/episode3/4.png",
+    "sub": [
+      "- Oddball, do you copy?",
+      "- Copy, Red Leader."
+    ],
+    "time": 206
+  },
+  {
+    "id": 5,
+    "src": "/assets/starwars/episode3/5.png",
+    "sub": [
+      "Mark my position.",
+      "Form your squad up behind me."
+    ],
+    "time": 208
+  },
+  {
+    "id": 6,
+    "src": "/assets/starwars/episode3/6.png",
+    "sub": [
+      "We're on your tail, General Kenobi."
+    ],
+    "time": 211
+  },
+  {
+    "id": 7,
+    "src": "/assets/starwars/episode3/7.png",
+    "sub": [
+      "Set S-foils in attack position."
+    ],
+    "time": 213
+  },
+  {
+    "id": 8,
+    "src": "/assets/starwars/episode3/8.png",
+    "sub": [
+      "This is where the fun begins."
+    ],
+    "time": 228
+  },
+  {
+    "id": 9,
+    "src": "/assets/starwars/episode3/9.png",
+    "sub": [
+      "Let them pass between us."
+    ],
+    "time": 231
+  },
+  {
+    "id": 10,
+    "src": "/assets/starwars/episode3/10.png",
+    "sub": [
+      "They're all over me."
+    ],
+    "time": 249
+  },
+  {
+    "id": 11,
+    "src": "/assets/starwars/episode3/11.png",
+    "sub": [
+      "- Get them off my...",
+      "- I'm gonna go help them out."
+    ],
+    "time": 252
+  },
+  {
+    "id": 12,
+    "src": "/assets/starwars/episode3/12.png",
+    "sub": [
+      "No. They are doing their job",
+      "so we can do ours."
+    ],
+    "time": 255
+  },
+  {
+    "id": 13,
+    "src": "/assets/starwars/episode3/13.png",
+    "sub": [
+      "Missiles. Pull up."
+    ],
+    "time": 272
+  },
+  {
+    "id": 14,
+    "src": "/assets/starwars/episode3/14.png",
+    "sub": [
+      "- They overshot us.",
+      "- They're coming around."
+    ],
+    "time": 276
+  },
+  {
+    "id": 15,
+    "src": "/assets/starwars/episode3/15.png",
+    "sub": [
+      "All right, R4. No, no. Nothing too fancy."
+    ],
+    "time": 286
+  },
+  {
+    "id": 16,
+    "src": "/assets/starwars/episode3/16.png",
+    "sub": [
+      "Surge all power units, R2.",
+      "Stand by reverse thrusters."
+    ],
+    "time": 292
+  },
+  {
+    "id": 17,
+    "src": "/assets/starwars/episode3/17.png",
+    "sub": [
+      "We got 'em, R2."
+    ],
+    "time": 304
+  },
+  {
+    "id": 18,
+    "src": "/assets/starwars/episode3/18.png",
+    "sub": [
+      "Flying is for droids."
+    ],
+    "time": 315
+  },
+  {
+    "id": 19,
+    "src": "/assets/starwars/episode3/19.png",
+    "sub": [
+      "- I'm hit. Anakin?",
+      "- I see them."
+    ],
+    "time": 324
+  },
+  {
+    "id": 20,
+    "src": "/assets/starwars/episode3/20.png",
+    "sub": [
+      "Buzz droids."
+    ],
+    "time": 326
+  },
+  {
+    "id": 21,
+    "src": "/assets/starwars/episode3/21.png",
+    "sub": [
+      "R4, be careful. You have a..."
+    ],
+    "time": 336
+  },
+  {
+    "id": 22,
+    "src": "/assets/starwars/episode3/22.png",
+    "sub": [
+      "Oh, dear."
+    ],
+    "time": 341
+  },
+  {
+    "id": 23,
+    "src": "/assets/starwars/episode3/23.png",
+    "sub": [
+      "They're shutting down all the controls."
+    ],
+    "time": 345
+  },
+  {
+    "id": 24,
+    "src": "/assets/starwars/episode3/24.png",
+    "sub": [
+      "Move to the right so I can",
+      "get a clear shot at them."
+    ],
+    "time": 347
+  },
+  {
+    "id": 25,
+    "src": "/assets/starwars/episode3/25.png",
+    "sub": [
+      "The mission. Get to the command ship."
+    ],
+    "time": 349
+  },
+  {
+    "id": 26,
+    "src": "/assets/starwars/episode3/26.png",
+    "sub": [
+      "Get the chancellor.",
+      "I'm running out of tricks here."
+    ],
+    "time": 352
+  },
+  {
+    "id": 27,
+    "src": "/assets/starwars/episode3/27.png",
+    "sub": [
+      "In the name of..."
+    ],
+    "time": 359
+  },
+  {
+    "id": 28,
+    "src": "/assets/starwars/episode3/28.png",
+    "sub": [
+      "- Hold your fire! You're not helping.",
+      "- I agree. Bad idea."
+    ],
+    "time": 364
+  },
+  {
+    "id": 29,
+    "src": "/assets/starwars/episode3/29.png",
+    "sub": [
+      "I can't see a thing. My cockpit's fogging."
+    ],
+    "time": 374
+  },
+  {
+    "id": 30,
+    "src": "/assets/starwars/episode3/30.png",
+    "sub": [
+      "They're all over me. Anakin!"
+    ],
+    "time": 380
+  },
+  {
+    "id": 31,
+    "src": "/assets/starwars/episode3/31.png",
+    "sub": [
+      "- Move to the right.",
+      "- Hold on. You'll get us both killed."
+    ],
+    "time": 386
+  },
+  {
+    "id": 32,
+    "src": "/assets/starwars/episode3/32.png",
+    "sub": [
+      "Get out of here.",
+      "There's nothing more you can do."
+    ],
+    "time": 391
+  },
+  {
+    "id": 33,
+    "src": "/assets/starwars/episode3/33.png",
+    "sub": [
+      "I'm not leaving without you, Master."
+    ],
+    "time": 393
+  },
+  {
+    "id": 34,
+    "src": "/assets/starwars/episode3/34.png",
+    "sub": [
+      "Get him, R2."
+    ],
+    "time": 405
+  },
+  {
+    "id": 35,
+    "src": "/assets/starwars/episode3/35.png",
+    "sub": [
+      "Watch out."
+    ],
+    "time": 409
+  },
+  {
+    "id": 36,
+    "src": "/assets/starwars/episode3/36.png",
+    "sub": [
+      "R2, hit the buzz droid's center eye."
+    ],
+    "time": 415
+  },
+  {
+    "id": 37,
+    "src": "/assets/starwars/episode3/37.png",
+    "sub": [
+      "- Yeah, you got him!",
+      "- Great, R2."
+    ],
+    "time": 425
+  },
+  {
+    "id": 38,
+    "src": "/assets/starwars/episode3/38.png",
+    "sub": [
+      "The general's command ship is dead ahead."
+    ],
+    "time": 429
+  },
+  {
+    "id": 39,
+    "src": "/assets/starwars/episode3/39.png",
+    "sub": [
+      "Have you noticed the shields are still up?"
+    ],
+    "time": 433
+  },
+  {
+    "id": 40,
+    "src": "/assets/starwars/episode3/40.png",
+    "sub": [
+      "Sorry, Master."
+    ],
+    "time": 435
+  },
+  {
+    "id": 41,
+    "src": "/assets/starwars/episode3/41.png",
+    "sub": [
+      "I have a bad feeling about this."
+    ],
+    "time": 445
+  },
+  {
+    "id": 42,
+    "src": "/assets/starwars/episode3/42.png",
+    "sub": [
+      "There they are. Get them."
+    ],
+    "time": 462
+  },
+  {
+    "id": 43,
+    "src": "/assets/starwars/episode3/43.png",
+    "sub": [
+      "R2, locate the chancellor."
+    ],
+    "time": 475
+  },
+  {
+    "id": 44,
+    "src": "/assets/starwars/episode3/44.png",
+    "sub": [
+      "The chancellor's signal",
+      "is coming from right there..."
+    ],
+    "time": 486
+  },
+  {
+    "id": 45,
+    "src": "/assets/starwars/episode3/45.png",
+    "sub": [
+      "the observation platform",
+      "at the top of that spire."
+    ],
+    "time": 489
+  },
+  {
+    "id": 46,
+    "src": "/assets/starwars/episode3/46.png",
+    "sub": [
+      "I sense Count Dooku."
+    ],
+    "time": 492
+  },
+  {
+    "id": 47,
+    "src": "/assets/starwars/episode3/47.png",
+    "sub": [
+      "- I sense a trap.",
+      "- Next move?"
+    ],
+    "time": 494
+  },
+  {
+    "id": 48,
+    "src": "/assets/starwars/episode3/48.png",
+    "sub": [
+      "Spring the trap."
+    ],
+    "time": 497
+  },
+  {
+    "id": 49,
+    "src": "/assets/starwars/episode3/49.png",
+    "sub": [
+      "R2, go back.",
+      "I need you to stay with the ship."
+    ],
+    "time": 502
+  },
+  {
+    "id": 50,
+    "src": "/assets/starwars/episode3/50.png",
+    "sub": [
+      "Here. Take this and wait for orders."
+    ],
+    "time": 504
+  },
+  {
+    "id": 51,
+    "src": "/assets/starwars/episode3/51.png",
+    "sub": [
+      "What's the situation, Captain?"
+    ],
+    "time": 521
+  },
+  {
+    "id": 52,
+    "src": "/assets/starwars/episode3/52.png",
+    "sub": [
+      "Two Jedi have landed in the main",
+      "hangar bay. We're tracking them."
+    ],
+    "time": 525
+  },
+  {
+    "id": 53,
+    "src": "/assets/starwars/episode3/53.png",
+    "sub": [
+      "Just as Count Dooku predicted."
+    ],
+    "time": 529
+  },
+  {
+    "id": 54,
+    "src": "/assets/starwars/episode3/54.png",
+    "sub": [
+      "Destroyers."
+    ],
+    "time": 536
+  },
+  {
+    "id": 55,
+    "src": "/assets/starwars/episode3/55.png",
+    "sub": [
+      "Drop your weapons. I said drop 'em."
+    ],
+    "time": 546
+  },
+  {
+    "id": 56,
+    "src": "/assets/starwars/episode3/56.png",
+    "sub": [
+      "- Roger.",
+      "- Roger, roger."
+    ],
+    "time": 549
+  },
+  {
+    "id": 57,
+    "src": "/assets/starwars/episode3/57.png",
+    "sub": [
+      "Those are Jedi fighters all right."
+    ],
+    "time": 559
+  },
+  {
+    "id": 58,
+    "src": "/assets/starwars/episode3/58.png",
+    "sub": [
+      "- Did you press the stop button?",
+      "- No. Did you?"
+    ],
+    "time": 567
+  },
+  {
+    "id": 59,
+    "src": "/assets/starwars/episode3/59.png",
+    "sub": [
+      "There's more than one way out of here."
+    ],
+    "time": 569
+  },
+  {
+    "id": 60,
+    "src": "/assets/starwars/episode3/60.png",
+    "sub": [
+      "We don't want to get out.",
+      "We want to get moving."
+    ],
+    "time": 572
+  },
+  {
+    "id": 61,
+    "src": "/assets/starwars/episode3/61.png",
+    "sub": [
+      "R2, activate elevator 31174."
+    ],
+    "time": 575
+  },
+  {
+    "id": 62,
+    "src": "/assets/starwars/episode3/62.png",
+    "sub": [
+      "- Come in, R2.",
+      "- What that?"
+    ],
+    "time": 579
+  },
+  {
+    "id": 63,
+    "src": "/assets/starwars/episode3/63.png",
+    "sub": [
+      "R2, do you copy?"
+    ],
+    "time": 581
+  },
+  {
+    "id": 64,
+    "src": "/assets/starwars/episode3/64.png",
+    "sub": [
+      "R2, activate the elevator number 31174."
+    ],
+    "time": 584
+  },
+  {
+    "id": 65,
+    "src": "/assets/starwars/episode3/65.png",
+    "sub": [
+      "Get back to work. That nothin'."
+    ],
+    "time": 588
+  },
+  {
+    "id": 66,
+    "src": "/assets/starwars/episode3/66.png",
+    "sub": [
+      "Activate the elevator 31174."
+    ],
+    "time": 591
+  },
+  {
+    "id": 67,
+    "src": "/assets/starwars/episode3/67.png",
+    "sub": [
+      "R2..."
+    ],
+    "time": 593
+  },
+  {
+    "id": 68,
+    "src": "/assets/starwars/episode3/68.png",
+    "sub": [
+      "Always on the move."
+    ],
+    "time": 601
+  },
+  {
+    "id": 69,
+    "src": "/assets/starwars/episode3/69.png",
+    "sub": [
+      "R2, switch on the comlink.",
+      "R2, can you hear me?"
+    ],
+    "time": 604
+  },
+  {
+    "id": 70,
+    "src": "/assets/starwars/episode3/70.png",
+    "sub": [
+      "R2?"
+    ],
+    "time": 607
+  },
+  {
+    "id": 71,
+    "src": "/assets/starwars/episode3/71.png",
+    "sub": [
+      "R2! R2!"
+    ],
+    "time": 611
+  },
+  {
+    "id": 72,
+    "src": "/assets/starwars/episode3/72.png",
+    "sub": [
+      "Stop. Stop. R2, we need to be going up."
+    ],
+    "time": 618
+  },
+  {
+    "id": 73,
+    "src": "/assets/starwars/episode3/73.png",
+    "sub": [
+      "Hands up, Jedi."
+    ],
+    "time": 623
+  },
+  {
+    "id": 74,
+    "src": "/assets/starwars/episode3/74.png",
+    "sub": [
+      "R2, do you copy?"
+    ],
+    "time": 625
+  },
+  {
+    "id": 75,
+    "src": "/assets/starwars/episode3/75.png",
+    "sub": [
+      "R2, do you hear me?",
+      "R2, we need to be going up, not down."
+    ],
+    "time": 628
+  },
+  {
+    "id": 76,
+    "src": "/assets/starwars/episode3/76.png",
+    "sub": [
+      "Hey, you!"
+    ],
+    "time": 635
+  },
+  {
+    "id": 77,
+    "src": "/assets/starwars/episode3/77.png",
+    "sub": [
+      "That's better."
+    ],
+    "time": 642
+  },
+  {
+    "id": 78,
+    "src": "/assets/starwars/episode3/78.png",
+    "sub": [
+      "You stupid little astro droid."
+    ],
+    "time": 645
+  },
+  {
+    "id": 79,
+    "src": "/assets/starwars/episode3/79.png",
+    "sub": [
+      "Oh, it's you."
+    ],
+    "time": 659
+  },
+  {
+    "id": 80,
+    "src": "/assets/starwars/episode3/80.png",
+    "sub": [
+      "My eyes! My eyes!"
+    ],
+    "time": 663
+  },
+  {
+    "id": 81,
+    "src": "/assets/starwars/episode3/81.png",
+    "sub": [
+      "- What was that all about?",
+      "- R2 has been..."
+    ],
+    "time": 665
+  },
+  {
+    "id": 82,
+    "src": "/assets/starwars/episode3/82.png",
+    "sub": [
+      "- No loose wire jokes.",
+      "- Did I say anything?"
+    ],
+    "time": 668
+  },
+  {
+    "id": 83,
+    "src": "/assets/starwars/episode3/83.png",
+    "sub": [
+      "- He's trying.",
+      "- I didn't say anything."
+    ],
+    "time": 670
+  },
+  {
+    "id": 84,
+    "src": "/assets/starwars/episode3/84.png",
+    "sub": [
+      "- Chancellor.",
+      "- Are you all right?"
+    ],
+    "time": 710
+  },
+  {
+    "id": 85,
+    "src": "/assets/starwars/episode3/85.png",
+    "sub": [
+      "Count Dooku."
+    ],
+    "time": 711
+  },
+  {
+    "id": 86,
+    "src": "/assets/starwars/episode3/86.png",
+    "sub": [
+      "- This time we will do it together.",
+      "- I was about to say that."
+    ],
+    "time": 719
+  },
+  {
+    "id": 87,
+    "src": "/assets/starwars/episode3/87.png",
+    "sub": [
+      "Get help. You're no match for him.",
+      "He's a Sith lord."
+    ],
+    "time": 731
+  },
+  {
+    "id": 88,
+    "src": "/assets/starwars/episode3/88.png",
+    "sub": [
+      "Chancellor Palpatine,",
+      "Sith lords are our speciality."
+    ],
+    "time": 735
+  },
+  {
+    "id": 89,
+    "src": "/assets/starwars/episode3/89.png",
+    "sub": [
+      "Your swords, please."
+    ],
+    "time": 739
+  },
+  {
+    "id": 90,
+    "src": "/assets/starwars/episode3/90.png",
+    "sub": [
+      "We don't want to make a mess of things",
+      "in front of the chancellor."
+    ],
+    "time": 742
+  },
+  {
+    "id": 91,
+    "src": "/assets/starwars/episode3/91.png",
+    "sub": [
+      "You won't get away this time, Dooku."
+    ],
+    "time": 745
+  },
+  {
+    "id": 92,
+    "src": "/assets/starwars/episode3/92.png",
+    "sub": [
+      "I've been looking forward to this."
+    ],
+    "time": 758
+  },
+  {
+    "id": 93,
+    "src": "/assets/starwars/episode3/93.png",
+    "sub": [
+      "My powers have doubled since",
+      "the last time we met, Count."
+    ],
+    "time": 760
+  },
+  {
+    "id": 94,
+    "src": "/assets/starwars/episode3/94.png",
+    "sub": [
+      "Good. Twice the pride, double the fall."
+    ],
+    "time": 764
+  },
+  {
+    "id": 95,
+    "src": "/assets/starwars/episode3/95.png",
+    "sub": [
+      "Get..."
+    ],
+    "time": 786
+  },
+  {
+    "id": 96,
+    "src": "/assets/starwars/episode3/96.png",
+    "sub": [
+      "I sense great fear in you, Skywalker."
+    ],
+    "time": 814
+  },
+  {
+    "id": 97,
+    "src": "/assets/starwars/episode3/97.png",
+    "sub": [
+      "You have hate. You have anger."
+    ],
+    "time": 818
+  },
+  {
+    "id": 98,
+    "src": "/assets/starwars/episode3/98.png",
+    "sub": [
+      "But you don't use them."
+    ],
+    "time": 822
+  },
+  {
+    "id": 99,
+    "src": "/assets/starwars/episode3/99.png",
+    "sub": [
+      "Good, Anakin. Good."
+    ],
+    "time": 844
+  },
+  {
+    "id": 100,
+    "src": "/assets/starwars/episode3/100.png",
+    "sub": [
+      "Kill him."
+    ],
+    "time": 848
+  },
+  {
+    "id": 101,
+    "src": "/assets/starwars/episode3/101.png",
+    "sub": [
+      "Kill him now."
+    ],
+    "time": 851
+  },
+  {
+    "id": 102,
+    "src": "/assets/starwars/episode3/102.png",
+    "sub": [
+      "I shouldn't."
+    ],
+    "time": 858
+  },
+  {
+    "id": 103,
+    "src": "/assets/starwars/episode3/103.png",
+    "sub": [
+      "Do it."
+    ],
+    "time": 862
+  },
+  {
+    "id": 104,
+    "src": "/assets/starwars/episode3/104.png",
+    "sub": [
+      "You did well, Anakin."
+    ],
+    "time": 876
+  },
+  {
+    "id": 105,
+    "src": "/assets/starwars/episode3/105.png",
+    "sub": [
+      "He was too dangerous to be kept alive."
+    ],
+    "time": 880
+  },
+  {
+    "id": 106,
+    "src": "/assets/starwars/episode3/106.png",
+    "sub": [
+      "Yes, but he was an unarmed prisoner."
+    ],
+    "time": 883
+  },
+  {
+    "id": 107,
+    "src": "/assets/starwars/episode3/107.png",
+    "sub": [
+      "I shouldn't have done that.",
+      "It's not the Jedi way."
+    ],
+    "time": 886
+  },
+  {
+    "id": 108,
+    "src": "/assets/starwars/episode3/108.png",
+    "sub": [
+      "It is only natural. He cut off your arm,",
+      "and you wanted revenge."
+    ],
+    "time": 891
+  },
+  {
+    "id": 109,
+    "src": "/assets/starwars/episode3/109.png",
+    "sub": [
+      "It wasn't the first time, Anakin."
+    ],
+    "time": 894
+  },
+  {
+    "id": 110,
+    "src": "/assets/starwars/episode3/110.png",
+    "sub": [
+      "Remember what you told me about",
+      "your mother and the Sand People?"
+    ],
+    "time": 898
+  },
+  {
+    "id": 111,
+    "src": "/assets/starwars/episode3/111.png",
+    "sub": [
+      "Now we must leave before",
+      "more security droids arrive."
+    ],
+    "time": 904
+  },
+  {
+    "id": 112,
+    "src": "/assets/starwars/episode3/112.png",
+    "sub": [
+      "Anakin, there's no time."
+    ],
+    "time": 912
+  },
+  {
+    "id": 113,
+    "src": "/assets/starwars/episode3/113.png",
+    "sub": [
+      "We must get off this ship",
+      "before it's too late."
+    ],
+    "time": 915
+  },
+  {
+    "id": 114,
+    "src": "/assets/starwars/episode3/114.png",
+    "sub": [
+      "- He seems to be all right.",
+      "- Leave him, or we'll never make it."
+    ],
+    "time": 919
+  },
+  {
+    "id": 115,
+    "src": "/assets/starwars/episode3/115.png",
+    "sub": [
+      "His fate will be the same as ours."
+    ],
+    "time": 922
+  },
+  {
+    "id": 116,
+    "src": "/assets/starwars/episode3/116.png",
+    "sub": [
+      "Prepare for attack!"
+    ],
+    "time": 929
+  },
+  {
+    "id": 117,
+    "src": "/assets/starwars/episode3/117.png",
+    "sub": [
+      "All batteries, fire! Fire!"
+    ],
+    "time": 934
+  },
+  {
+    "id": 118,
+    "src": "/assets/starwars/episode3/118.png",
+    "sub": [
+      "Elevator's not working."
+    ],
+    "time": 946
+  },
+  {
+    "id": 119,
+    "src": "/assets/starwars/episode3/119.png",
+    "sub": [
+      "R2, activate elevator 3224."
+    ],
+    "time": 952
+  },
+  {
+    "id": 120,
+    "src": "/assets/starwars/episode3/120.png",
+    "sub": [
+      "- Reverse stabilizers.",
+      "- Reversing stabilizers."
+    ],
+    "time": 973
+  },
+  {
+    "id": 121,
+    "src": "/assets/starwars/episode3/121.png",
+    "sub": [
+      "Magnetize! Magnetize!"
+    ],
+    "time": 995
+  },
+  {
+    "id": 122,
+    "src": "/assets/starwars/episode3/122.png",
+    "sub": [
+      "Fire the emergency booster engines."
+    ],
+    "time": 1004
+  },
+  {
+    "id": 123,
+    "src": "/assets/starwars/episode3/123.png",
+    "sub": [
+      "We're leveling out, sir."
+    ],
+    "time": 1012
+  },
+  {
+    "id": 124,
+    "src": "/assets/starwars/episode3/124.png",
+    "sub": [
+      "Easy. We're in a bit of a situation here."
+    ],
+    "time": 1030
+  },
+  {
+    "id": 125,
+    "src": "/assets/starwars/episode3/125.png",
+    "sub": [
+      "- Did I miss something?",
+      "- Hold on."
+    ],
+    "time": 1032
+  },
+  {
+    "id": 126,
+    "src": "/assets/starwars/episode3/126.png",
+    "sub": [
+      "- What is that?",
+      "- Oops."
+    ],
+    "time": 1035
+  },
+  {
+    "id": 127,
+    "src": "/assets/starwars/episode3/127.png",
+    "sub": [
+      "R2. R2, shut down the elevator."
+    ],
+    "time": 1037
+  },
+  {
+    "id": 128,
+    "src": "/assets/starwars/episode3/128.png",
+    "sub": [
+      "Too late. Jump!"
+    ],
+    "time": 1039
+  },
+  {
+    "id": 129,
+    "src": "/assets/starwars/episode3/129.png",
+    "sub": [
+      "Let's see if we can find something",
+      "in the hangar bay that's still flyable."
+    ],
+    "time": 1056
+  },
+  {
+    "id": 130,
+    "src": "/assets/starwars/episode3/130.png",
+    "sub": [
+      "R2, get down here."
+    ],
+    "time": 1059
+  },
+  {
+    "id": 131,
+    "src": "/assets/starwars/episode3/131.png",
+    "sub": [
+      "R2, do you copy?"
+    ],
+    "time": 1061
+  },
+  {
+    "id": 132,
+    "src": "/assets/starwars/episode3/132.png",
+    "sub": [
+      "General, we found the Jedi.",
+      "They're in hallway 328."
+    ],
+    "time": 1069
+  },
+  {
+    "id": 133,
+    "src": "/assets/starwars/episode3/133.png",
+    "sub": [
+      "Activate ray shields."
+    ],
+    "time": 1072
+  },
+  {
+    "id": 134,
+    "src": "/assets/starwars/episode3/134.png",
+    "sub": [
+      "Ray shields."
+    ],
+    "time": 1077
+  },
+  {
+    "id": 135,
+    "src": "/assets/starwars/episode3/135.png",
+    "sub": [
+      "Wait a minute. How did this happen?",
+      "We're smarter than this."
+    ],
+    "time": 1079
+  },
+  {
+    "id": 136,
+    "src": "/assets/starwars/episode3/136.png",
+    "sub": [
+      "Apparently not."
+    ],
+    "time": 1081
+  },
+  {
+    "id": 137,
+    "src": "/assets/starwars/episode3/137.png",
+    "sub": [
+      "- I say patience.",
+      "- Patience?"
+    ],
+    "time": 1085
+  },
+  {
+    "id": 138,
+    "src": "/assets/starwars/episode3/138.png",
+    "sub": [
+      "Yes. R2 will be along in a few moments..."
+    ],
+    "time": 1089
+  },
+  {
+    "id": 139,
+    "src": "/assets/starwars/episode3/139.png",
+    "sub": [
+      "and then he'll release the ray shields."
+    ],
+    "time": 1092
+  },
+  {
+    "id": 140,
+    "src": "/assets/starwars/episode3/140.png",
+    "sub": [
+      "See? No problem."
+    ],
+    "time": 1102
+  },
+  {
+    "id": 141,
+    "src": "/assets/starwars/episode3/141.png",
+    "sub": [
+      "Don't move."
+    ],
+    "time": 1106
+  },
+  {
+    "id": 142,
+    "src": "/assets/starwars/episode3/142.png",
+    "sub": [
+      "Do you have a plan B?"
+    ],
+    "time": 1111
+  },
+  {
+    "id": 143,
+    "src": "/assets/starwars/episode3/143.png",
+    "sub": [
+      "Ah, yes."
+    ],
+    "time": 1120
+  },
+  {
+    "id": 144,
+    "src": "/assets/starwars/episode3/144.png",
+    "sub": [
+      "The negotiator."
+    ],
+    "time": 1122
+  },
+  {
+    "id": 145,
+    "src": "/assets/starwars/episode3/145.png",
+    "sub": [
+      "General Kenobi. We've been waiting for you."
+    ],
+    "time": 1125
+  },
+  {
+    "id": 146,
+    "src": "/assets/starwars/episode3/146.png",
+    "sub": [
+      "Excuse me."
+    ],
+    "time": 1128
+  },
+  {
+    "id": 147,
+    "src": "/assets/starwars/episode3/147.png",
+    "sub": [
+      "- That wasn't much of a rescue.",
+      "- You're welcome."
+    ],
+    "time": 1131
+  },
+  {
+    "id": 148,
+    "src": "/assets/starwars/episode3/148.png",
+    "sub": [
+      "And..."
+    ],
+    "time": 1134
+  },
+  {
+    "id": 149,
+    "src": "/assets/starwars/episode3/149.png",
+    "sub": [
+      "Anakin Skywalker."
+    ],
+    "time": 1137
+  },
+  {
+    "id": 150,
+    "src": "/assets/starwars/episode3/150.png",
+    "sub": [
+      "I was expecting someone with",
+      "your reputation to be a little... older."
+    ],
+    "time": 1141
+  },
+  {
+    "id": 151,
+    "src": "/assets/starwars/episode3/151.png",
+    "sub": [
+      "General Grievous.",
+      "You're shorter than I expected."
+    ],
+    "time": 1149
+  },
+  {
+    "id": 152,
+    "src": "/assets/starwars/episode3/152.png",
+    "sub": [
+      "Jedi scum."
+    ],
+    "time": 1153
+  },
+  {
+    "id": 153,
+    "src": "/assets/starwars/episode3/153.png",
+    "sub": [
+      "We have a job to do, Anakin.",
+      "Try not to upset him."
+    ],
+    "time": 1156
+  },
+  {
+    "id": 154,
+    "src": "/assets/starwars/episode3/154.png",
+    "sub": [
+      "Your lightsabers will make",
+      "a fine addition to my collection."
+    ],
+    "time": 1165
+  },
+  {
+    "id": 155,
+    "src": "/assets/starwars/episode3/155.png",
+    "sub": [
+      "Not this time.",
+      "And this time, you won't escape."
+    ],
+    "time": 1169
+  },
+  {
+    "id": 156,
+    "src": "/assets/starwars/episode3/156.png",
+    "sub": [
+      "R2."
+    ],
+    "time": 1171
+  },
+  {
+    "id": 157,
+    "src": "/assets/starwars/episode3/157.png",
+    "sub": [
+      "Crush them!"
+    ],
+    "time": 1178
+  },
+  {
+    "id": 158,
+    "src": "/assets/starwars/episode3/158.png",
+    "sub": [
+      "Make them suffer!"
+    ],
+    "time": 1181
+  },
+  {
+    "id": 159,
+    "src": "/assets/starwars/episode3/159.png",
+    "sub": [
+      "Come. Now!"
+    ],
+    "time": 1187
+  },
+  {
+    "id": 160,
+    "src": "/assets/starwars/episode3/160.png",
+    "sub": [
+      "Stay at your stations!"
+    ],
+    "time": 1189
+  },
+  {
+    "id": 161,
+    "src": "/assets/starwars/episode3/161.png",
+    "sub": [
+      "Get him! Get him!"
+    ],
+    "time": 1198
+  },
+  {
+    "id": 162,
+    "src": "/assets/starwars/episode3/162.png",
+    "sub": [
+      "Run!"
+    ],
+    "time": 1219
+  },
+  {
+    "id": 163,
+    "src": "/assets/starwars/episode3/163.png",
+    "sub": [
+      "Don't bother with them."
+    ],
+    "time": 1224
+  },
+  {
+    "id": 164,
+    "src": "/assets/starwars/episode3/164.png",
+    "sub": [
+      "- Keep the ship in orbit.",
+      "- Yes, sir."
+    ],
+    "time": 1226
+  },
+  {
+    "id": 165,
+    "src": "/assets/starwars/episode3/165.png",
+    "sub": [
+      "You lose, General Kenobi."
+    ],
+    "time": 1239
+  },
+  {
+    "id": 166,
+    "src": "/assets/starwars/episode3/166.png",
+    "sub": [
+      "Get out of here! Run!"
+    ],
+    "time": 1265
+  },
+  {
+    "id": 167,
+    "src": "/assets/starwars/episode3/167.png",
+    "sub": [
+      "Time to abandon ship."
+    ],
+    "time": 1281
+  },
+  {
+    "id": 168,
+    "src": "/assets/starwars/episode3/168.png",
+    "sub": [
+      "All the escape pods have been launched."
+    ],
+    "time": 1290
+  },
+  {
+    "id": 169,
+    "src": "/assets/starwars/episode3/169.png",
+    "sub": [
+      "Grievous. Can you fly a cruiser like this?"
+    ],
+    "time": 1293
+  },
+  {
+    "id": 170,
+    "src": "/assets/starwars/episode3/170.png",
+    "sub": [
+      "- You mean, can I land what's left of it?",
+      "- Well?"
+    ],
+    "time": 1296
+  },
+  {
+    "id": 171,
+    "src": "/assets/starwars/episode3/171.png",
+    "sub": [
+      "Under the circumstances, I'd say the",
+      "ability to pilot this thing is irrelevant."
+    ],
+    "time": 1300
+  },
+  {
+    "id": 172,
+    "src": "/assets/starwars/episode3/172.png",
+    "sub": [
+      "Strap yourselves in."
+    ],
+    "time": 1302
+  },
+  {
+    "id": 173,
+    "src": "/assets/starwars/episode3/173.png",
+    "sub": [
+      "Open all hatches.",
+      "Extend all flaps and drag fins."
+    ],
+    "time": 1306
+  },
+  {
+    "id": 174,
+    "src": "/assets/starwars/episode3/174.png",
+    "sub": [
+      "We lost something."
+    ],
+    "time": 1325
+  },
+  {
+    "id": 175,
+    "src": "/assets/starwars/episode3/175.png",
+    "sub": [
+      "Not to worry.",
+      "We are still flying half a ship."
+    ],
+    "time": 1328
+  },
+  {
+    "id": 176,
+    "src": "/assets/starwars/episode3/176.png",
+    "sub": [
+      "Now we're really picking up speed."
+    ],
+    "time": 1335
+  },
+  {
+    "id": 177,
+    "src": "/assets/starwars/episode3/177.png",
+    "sub": [
+      "Eight plus 60."
+    ],
+    "time": 1346
+  },
+  {
+    "id": 178,
+    "src": "/assets/starwars/episode3/178.png",
+    "sub": [
+      "- We're in the atmosphere.",
+      "- Grab that. Keep us level."
+    ],
+    "time": 1349
+  },
+  {
+    "id": 179,
+    "src": "/assets/starwars/episode3/179.png",
+    "sub": [
+      "Steady."
+    ],
+    "time": 1365
+  },
+  {
+    "id": 180,
+    "src": "/assets/starwars/episode3/180.png",
+    "sub": [
+      "Easy, R2."
+    ],
+    "time": 1369
+  },
+  {
+    "id": 181,
+    "src": "/assets/starwars/episode3/181.png",
+    "sub": [
+      "5000."
+    ],
+    "time": 1374
+  },
+  {
+    "id": 182,
+    "src": "/assets/starwars/episode3/182.png",
+    "sub": [
+      "Fire ships on the left and the right."
+    ],
+    "time": 1376
+  },
+  {
+    "id": 183,
+    "src": "/assets/starwars/episode3/183.png",
+    "sub": [
+      "- We'll take you in.",
+      "- Copy that."
+    ],
+    "time": 1378
+  },
+  {
+    "id": 184,
+    "src": "/assets/starwars/episode3/184.png",
+    "sub": [
+      "- Landing strip, straight ahead.",
+      "- We're coming in too hot."
+    ],
+    "time": 1384
+  },
+  {
+    "id": 185,
+    "src": "/assets/starwars/episode3/185.png",
+    "sub": [
+      "Another happy landing."
+    ],
+    "time": 1418
+  },
+  {
+    "id": 186,
+    "src": "/assets/starwars/episode3/186.png",
+    "sub": [
+      "Coming, Master?"
+    ],
+    "time": 1450
+  },
+  {
+    "id": 187,
+    "src": "/assets/starwars/episode3/187.png",
+    "sub": [
+      "No. I'm not brave enough for politics.",
+      "I have to report to the council."
+    ],
+    "time": 1453
+  },
+  {
+    "id": 188,
+    "src": "/assets/starwars/episode3/188.png",
+    "sub": [
+      "Besides, someone needs",
+      "to be the poster boy."
+    ],
+    "time": 1456
+  },
+  {
+    "id": 189,
+    "src": "/assets/starwars/episode3/189.png",
+    "sub": [
+      "Hold on. This whole",
+      "operation was your idea."
+    ],
+    "time": 1460
+  },
+  {
+    "id": 190,
+    "src": "/assets/starwars/episode3/190.png",
+    "sub": [
+      "Let us not forget, Anakin, that",
+      "you rescued me from the buzz droids."
+    ],
+    "time": 1463
+  },
+  {
+    "id": 191,
+    "src": "/assets/starwars/episode3/191.png",
+    "sub": [
+      "And you killed Count Dooku,",
+      "and you rescued the chancellor..."
+    ],
+    "time": 1466
+  },
+  {
+    "id": 192,
+    "src": "/assets/starwars/episode3/192.png",
+    "sub": [
+      "carrying me unconscious on your back."
+    ],
+    "time": 1468
+  },
+  {
+    "id": 193,
+    "src": "/assets/starwars/episode3/193.png",
+    "sub": [
+      "All because of your training."
+    ],
+    "time": 1471
+  },
+  {
+    "id": 194,
+    "src": "/assets/starwars/episode3/194.png",
+    "sub": [
+      "Anakin, let's be fair.",
+      "Today you were the hero..."
+    ],
+    "time": 1474
+  },
+  {
+    "id": 195,
+    "src": "/assets/starwars/episode3/195.png",
+    "sub": [
+      "and you deserve your glorious day",
+      "with the politicians."
+    ],
+    "time": 1477
+  },
+  {
+    "id": 196,
+    "src": "/assets/starwars/episode3/196.png",
+    "sub": [
+      "All right. But you owe me one, and not",
+      "for saving your skin for the 10th time."
+    ],
+    "time": 1481
+  },
+  {
+    "id": 197,
+    "src": "/assets/starwars/episode3/197.png",
+    "sub": [
+      "Ninth time."
+    ],
+    "time": 1483
+  },
+  {
+    "id": 198,
+    "src": "/assets/starwars/episode3/198.png",
+    "sub": [
+      "That business on Cato Neimoidia doesn't",
+      "count. I'll see you at the briefing."
+    ],
+    "time": 1487
+  },
+  {
+    "id": 199,
+    "src": "/assets/starwars/episode3/199.png",
+    "sub": [
+      "Chancellor Palpatine, are you all right?"
+    ],
+    "time": 1496
+  },
+  {
+    "id": 200,
+    "src": "/assets/starwars/episode3/200.png",
+    "sub": [
+      "Yes. Thanks to your two Jedi knights."
+    ],
+    "time": 1498
+  },
+  {
+    "id": 201,
+    "src": "/assets/starwars/episode3/201.png",
+    "sub": [
+      "They killed Count Dooku, but",
+      "General Grievous has escaped once again."
+    ],
+    "time": 1502
+  },
+  {
+    "id": 202,
+    "src": "/assets/starwars/episode3/202.png",
+    "sub": [
+      "General Grievous will run and hide,",
+      "as he always does. He's a coward."
+    ],
+    "time": 1507
+  },
+  {
+    "id": 203,
+    "src": "/assets/starwars/episode3/203.png",
+    "sub": [
+      "But with Count Dooku dead,",
+      "he is the leader of the droid army."
+    ],
+    "time": 1511
+  },
+  {
+    "id": 204,
+    "src": "/assets/starwars/episode3/204.png",
+    "sub": [
+      "And I assure you..."
+    ],
+    "time": 1514
+  },
+  {
+    "id": 205,
+    "src": "/assets/starwars/episode3/205.png",
+    "sub": [
+      "the senate will vote to continue the war",
+      "as long as Grievous is alive."
+    ],
+    "time": 1517
+  },
+  {
+    "id": 206,
+    "src": "/assets/starwars/episode3/206.png",
+    "sub": [
+      "Then the Jedi Council will make",
+      "finding Grievous our highest priority."
+    ],
+    "time": 1521
+  },
+  {
+    "id": 207,
+    "src": "/assets/starwars/episode3/207.png",
+    "sub": [
+      "- Watch it.",
+      "- Excuse me."
+    ],
+    "time": 1525
+  },
+  {
+    "id": 208,
+    "src": "/assets/starwars/episode3/208.png",
+    "sub": [
+      "- Come along, R2.",
+      "- The Republic cannot praise you enough."
+    ],
+    "time": 1527
+  },
+  {
+    "id": 209,
+    "src": "/assets/starwars/episode3/209.png",
+    "sub": [
+      "Thank you, Senator Organa."
+    ],
+    "time": 1531
+  },
+  {
+    "id": 210,
+    "src": "/assets/starwars/episode3/210.png",
+    "sub": [
+      "It couldn't possibly be as bad as all that."
+    ],
+    "time": 1534
+  },
+  {
+    "id": 211,
+    "src": "/assets/starwars/episode3/211.png",
+    "sub": [
+      "Now there I agree with you."
+    ],
+    "time": 1537
+  },
+  {
+    "id": 212,
+    "src": "/assets/starwars/episode3/212.png",
+    "sub": [
+      "In fact, I could do with a tune-up myself."
+    ],
+    "time": 1539
+  },
+  {
+    "id": 213,
+    "src": "/assets/starwars/episode3/213.png",
+    "sub": [
+      "But the fighting will continue until",
+      "General Grievous is spare parts."
+    ],
+    "time": 1543
+  },
+  {
+    "id": 214,
+    "src": "/assets/starwars/episode3/214.png",
+    "sub": [
+      "I will do everything I can in the senate."
+    ],
+    "time": 1547
+  },
+  {
+    "id": 215,
+    "src": "/assets/starwars/episode3/215.png",
+    "sub": [
+      "- Excuse me.",
+      "- Certainly."
+    ],
+    "time": 1551
+  },
+  {
+    "id": 216,
+    "src": "/assets/starwars/episode3/216.png",
+    "sub": [
+      "Oh, Anakin."
+    ],
+    "time": 1562
+  },
+  {
+    "id": 217,
+    "src": "/assets/starwars/episode3/217.png",
+    "sub": [
+      "I've missed you, Padmé."
+    ],
+    "time": 1567
+  },
+  {
+    "id": 218,
+    "src": "/assets/starwars/episode3/218.png",
+    "sub": [
+      "There were whispers that you'd been killed."
+    ],
+    "time": 1571
+  },
+  {
+    "id": 219,
+    "src": "/assets/starwars/episode3/219.png",
+    "sub": [
+      "I'm all right."
+    ],
+    "time": 1574
+  },
+  {
+    "id": 220,
+    "src": "/assets/starwars/episode3/220.png",
+    "sub": [
+      "It feels like we've been",
+      "apart for a lifetime."
+    ],
+    "time": 1577
+  },
+  {
+    "id": 221,
+    "src": "/assets/starwars/episode3/221.png",
+    "sub": [
+      "And it might have been,",
+      "if the chancellor hadn't been kidnapped."
+    ],
+    "time": 1580
+  },
+  {
+    "id": 222,
+    "src": "/assets/starwars/episode3/222.png",
+    "sub": [
+      "I don't think they would have ever brought",
+      "us back from the outer rim sieges."
+    ],
+    "time": 1583
+  },
+  {
+    "id": 223,
+    "src": "/assets/starwars/episode3/223.png",
+    "sub": [
+      "- Wait. Not here.",
+      "- Yes, here."
+    ],
+    "time": 1586
+  },
+  {
+    "id": 224,
+    "src": "/assets/starwars/episode3/224.png",
+    "sub": [
+      "I'm tired of all this deception.",
+      "I don't care if they know we're married."
+    ],
+    "time": 1589
+  },
+  {
+    "id": 225,
+    "src": "/assets/starwars/episode3/225.png",
+    "sub": [
+      "Anakin, don't say things like that."
+    ],
+    "time": 1592
+  },
+  {
+    "id": 226,
+    "src": "/assets/starwars/episode3/226.png",
+    "sub": [
+      "Are you all right? You're trembling."
+    ],
+    "time": 1604
+  },
+  {
+    "id": 227,
+    "src": "/assets/starwars/episode3/227.png",
+    "sub": [
+      "What's going on?"
+    ],
+    "time": 1607
+  },
+  {
+    "id": 228,
+    "src": "/assets/starwars/episode3/228.png",
+    "sub": [
+      "Something wonderful has happened."
+    ],
+    "time": 1611
+  },
+  {
+    "id": 229,
+    "src": "/assets/starwars/episode3/229.png",
+    "sub": [
+      "Ani, I'm pregnant."
+    ],
+    "time": 1616
+  },
+  {
+    "id": 230,
+    "src": "/assets/starwars/episode3/230.png",
+    "sub": [
+      "That's..."
+    ],
+    "time": 1623
+  },
+  {
+    "id": 231,
+    "src": "/assets/starwars/episode3/231.png",
+    "sub": [
+      "That's wonderful."
+    ],
+    "time": 1630
+  },
+  {
+    "id": 232,
+    "src": "/assets/starwars/episode3/232.png",
+    "sub": [
+      "What are we gonna do?"
+    ],
+    "time": 1635
+  },
+  {
+    "id": 233,
+    "src": "/assets/starwars/episode3/233.png",
+    "sub": [
+      "We're not gonna worry about",
+      "anything right now. All right?"
+    ],
+    "time": 1639
+  },
+  {
+    "id": 234,
+    "src": "/assets/starwars/episode3/234.png",
+    "sub": [
+      "This is a happy moment."
+    ],
+    "time": 1643
+  },
+  {
+    "id": 235,
+    "src": "/assets/starwars/episode3/235.png",
+    "sub": [
+      "The happiest moment of my life."
+    ],
+    "time": 1647
+  },
+  {
+    "id": 236,
+    "src": "/assets/starwars/episode3/236.png",
+    "sub": [
+      "Yes, Lord Sidious?"
+    ],
+    "time": 1715
+  },
+  {
+    "id": 237,
+    "src": "/assets/starwars/episode3/237.png",
+    "sub": [
+      "General Grievous..."
+    ],
+    "time": 1718
+  },
+  {
+    "id": 238,
+    "src": "/assets/starwars/episode3/238.png",
+    "sub": [
+      "I suggest you move",
+      "the separatist leaders to Mustafar."
+    ],
+    "time": 1721
+  },
+  {
+    "id": 239,
+    "src": "/assets/starwars/episode3/239.png",
+    "sub": [
+      "It will be done, my lord."
+    ],
+    "time": 1725
+  },
+  {
+    "id": 240,
+    "src": "/assets/starwars/episode3/240.png",
+    "sub": [
+      "The end of the war is near, General."
+    ],
+    "time": 1730
+  },
+  {
+    "id": 241,
+    "src": "/assets/starwars/episode3/241.png",
+    "sub": [
+      "But the loss of Count Dooku..."
+    ],
+    "time": 1734
+  },
+  {
+    "id": 242,
+    "src": "/assets/starwars/episode3/242.png",
+    "sub": [
+      "His death was a necessary loss."
+    ],
+    "time": 1738
+  },
+  {
+    "id": 243,
+    "src": "/assets/starwars/episode3/243.png",
+    "sub": [
+      "Soon I will have a new apprentice..."
+    ],
+    "time": 1743
+  },
+  {
+    "id": 244,
+    "src": "/assets/starwars/episode3/244.png",
+    "sub": [
+      "one far younger and more powerful."
+    ],
+    "time": 1747
+  },
+  {
+    "id": 245,
+    "src": "/assets/starwars/episode3/245.png",
+    "sub": [
+      "Ani, I want to have our baby",
+      "back home on Naboo."
+    ],
+    "time": 1778
+  },
+  {
+    "id": 246,
+    "src": "/assets/starwars/episode3/246.png",
+    "sub": [
+      "We can go to the lake country",
+      "where no one will know..."
+    ],
+    "time": 1782
+  },
+  {
+    "id": 247,
+    "src": "/assets/starwars/episode3/247.png",
+    "sub": [
+      "where we can be safe."
+    ],
+    "time": 1785
+  },
+  {
+    "id": 248,
+    "src": "/assets/starwars/episode3/248.png",
+    "sub": [
+      "I can go early and fix up the baby's room."
+    ],
+    "time": 1788
+  },
+  {
+    "id": 249,
+    "src": "/assets/starwars/episode3/249.png",
+    "sub": [
+      "I know the perfect spot.",
+      "Right by the gardens."
+    ],
+    "time": 1795
+  },
+  {
+    "id": 250,
+    "src": "/assets/starwars/episode3/250.png",
+    "sub": [
+      "You are so... beautiful."
+    ],
+    "time": 1803
+  },
+  {
+    "id": 251,
+    "src": "/assets/starwars/episode3/251.png",
+    "sub": [
+      "It's only because I'm so in love."
+    ],
+    "time": 1808
+  },
+  {
+    "id": 252,
+    "src": "/assets/starwars/episode3/252.png",
+    "sub": [
+      "No, it's because I'm so in love with you."
+    ],
+    "time": 1812
+  },
+  {
+    "id": 253,
+    "src": "/assets/starwars/episode3/253.png",
+    "sub": [
+      "So love has blinded you?"
+    ],
+    "time": 1817
+  },
+  {
+    "id": 254,
+    "src": "/assets/starwars/episode3/254.png",
+    "sub": [
+      "That's not exactly what I meant."
+    ],
+    "time": 1821
+  },
+  {
+    "id": 255,
+    "src": "/assets/starwars/episode3/255.png",
+    "sub": [
+      "But it's probably true."
+    ],
+    "time": 1825
+  },
+  {
+    "id": 256,
+    "src": "/assets/starwars/episode3/256.png",
+    "sub": [
+      "Anakin, help me!"
+    ],
+    "time": 1836
+  },
+  {
+    "id": 257,
+    "src": "/assets/starwars/episode3/257.png",
+    "sub": [
+      "What's bothering you?"
+    ],
+    "time": 1901
+  },
+  {
+    "id": 258,
+    "src": "/assets/starwars/episode3/258.png",
+    "sub": [
+      "Nothing."
+    ],
+    "time": 1906
+  },
+  {
+    "id": 259,
+    "src": "/assets/starwars/episode3/259.png",
+    "sub": [
+      "I remember when I gave this to you."
+    ],
+    "time": 1910
+  },
+  {
+    "id": 260,
+    "src": "/assets/starwars/episode3/260.png",
+    "sub": [
+      "How long is it gonna take for us",
+      "to be honest with each other?"
+    ],
+    "time": 1913
+  },
+  {
+    "id": 261,
+    "src": "/assets/starwars/episode3/261.png",
+    "sub": [
+      "- It was a dream.",
+      "- Bad?"
+    ],
+    "time": 1919
+  },
+  {
+    "id": 262,
+    "src": "/assets/starwars/episode3/262.png",
+    "sub": [
+      "Like the ones I used to have about",
+      "my mother, just before she died."
+    ],
+    "time": 1924
+  },
+  {
+    "id": 263,
+    "src": "/assets/starwars/episode3/263.png",
+    "sub": [
+      "And?"
+    ],
+    "time": 1927
+  },
+  {
+    "id": 264,
+    "src": "/assets/starwars/episode3/264.png",
+    "sub": [
+      "And it was about you."
+    ],
+    "time": 1932
+  },
+  {
+    "id": 265,
+    "src": "/assets/starwars/episode3/265.png",
+    "sub": [
+      "Tell me."
+    ],
+    "time": 1936
+  },
+  {
+    "id": 266,
+    "src": "/assets/starwars/episode3/266.png",
+    "sub": [
+      "It was only a dream."
+    ],
+    "time": 1940
+  },
+  {
+    "id": 267,
+    "src": "/assets/starwars/episode3/267.png",
+    "sub": [
+      "You die in childbirth."
+    ],
+    "time": 1955
+  },
+  {
+    "id": 268,
+    "src": "/assets/starwars/episode3/268.png",
+    "sub": [
+      "And the baby?"
+    ],
+    "time": 1958
+  },
+  {
+    "id": 269,
+    "src": "/assets/starwars/episode3/269.png",
+    "sub": [
+      "I don't know."
+    ],
+    "time": 1961
+  },
+  {
+    "id": 270,
+    "src": "/assets/starwars/episode3/270.png",
+    "sub": [
+      "- It was only a dream.",
+      "- I won't let this one become real."
+    ],
+    "time": 1965
+  },
+  {
+    "id": 271,
+    "src": "/assets/starwars/episode3/271.png",
+    "sub": [
+      "This baby will change our lives."
+    ],
+    "time": 1970
+  },
+  {
+    "id": 272,
+    "src": "/assets/starwars/episode3/272.png",
+    "sub": [
+      "I doubt the queen will continue",
+      "to allow me to serve in the senate."
+    ],
+    "time": 1973
+  },
+  {
+    "id": 273,
+    "src": "/assets/starwars/episode3/273.png",
+    "sub": [
+      "If the council discovers",
+      "you're the father, you'll be expelled..."
+    ],
+    "time": 1976
+  },
+  {
+    "id": 274,
+    "src": "/assets/starwars/episode3/274.png",
+    "sub": [
+      "I know. I know."
+    ],
+    "time": 1979
+  },
+  {
+    "id": 275,
+    "src": "/assets/starwars/episode3/275.png",
+    "sub": [
+      "Do you think Obi-Wan might",
+      "be able to help us?"
+    ],
+    "time": 1982
+  },
+  {
+    "id": 276,
+    "src": "/assets/starwars/episode3/276.png",
+    "sub": [
+      "We don't need his help."
+    ],
+    "time": 1987
+  },
+  {
+    "id": 277,
+    "src": "/assets/starwars/episode3/277.png",
+    "sub": [
+      "Our baby is a blessing."
+    ],
+    "time": 1991
+  },
+  {
+    "id": 278,
+    "src": "/assets/starwars/episode3/278.png",
+    "sub": [
+      "Premonitions?"
+    ],
+    "time": 2009
+  },
+  {
+    "id": 279,
+    "src": "/assets/starwars/episode3/279.png",
+    "sub": [
+      "Premonitions."
+    ],
+    "time": 2011
+  },
+  {
+    "id": 280,
+    "src": "/assets/starwars/episode3/280.png",
+    "sub": [
+      "These visions you have..."
+    ],
+    "time": 2014
+  },
+  {
+    "id": 281,
+    "src": "/assets/starwars/episode3/281.png",
+    "sub": [
+      "They're of pain, suffering."
+    ],
+    "time": 2018
+  },
+  {
+    "id": 282,
+    "src": "/assets/starwars/episode3/282.png",
+    "sub": [
+      "Death."
+    ],
+    "time": 2022
+  },
+  {
+    "id": 283,
+    "src": "/assets/starwars/episode3/283.png",
+    "sub": [
+      "Yourself you speak of, or someone you know?"
+    ],
+    "time": 2026
+  },
+  {
+    "id": 284,
+    "src": "/assets/starwars/episode3/284.png",
+    "sub": [
+      "Someone."
+    ],
+    "time": 2030
+  },
+  {
+    "id": 285,
+    "src": "/assets/starwars/episode3/285.png",
+    "sub": [
+      "Close to you?"
+    ],
+    "time": 2032
+  },
+  {
+    "id": 286,
+    "src": "/assets/starwars/episode3/286.png",
+    "sub": [
+      "Yes."
+    ],
+    "time": 2035
+  },
+  {
+    "id": 287,
+    "src": "/assets/starwars/episode3/287.png",
+    "sub": [
+      "Careful you must be when",
+      "sensing the future, Anakin."
+    ],
+    "time": 2039
+  },
+  {
+    "id": 288,
+    "src": "/assets/starwars/episode3/288.png",
+    "sub": [
+      "The fear of loss is a",
+      "path to the dark side."
+    ],
+    "time": 2043
+  },
+  {
+    "id": 289,
+    "src": "/assets/starwars/episode3/289.png",
+    "sub": [
+      "I won't let these visions",
+      "come true, Master Yoda."
+    ],
+    "time": 2048
+  },
+  {
+    "id": 290,
+    "src": "/assets/starwars/episode3/290.png",
+    "sub": [
+      "Death is a natural part of life."
+    ],
+    "time": 2052
+  },
+  {
+    "id": 291,
+    "src": "/assets/starwars/episode3/291.png",
+    "sub": [
+      "Rejoice for those around you",
+      "who transform into the Force."
+    ],
+    "time": 2056
+  },
+  {
+    "id": 292,
+    "src": "/assets/starwars/episode3/292.png",
+    "sub": [
+      "Mourn them, do not. Miss them, do not."
+    ],
+    "time": 2060
+  },
+  {
+    "id": 293,
+    "src": "/assets/starwars/episode3/293.png",
+    "sub": [
+      "Attachment leads to jealousy."
+    ],
+    "time": 2063
+  },
+  {
+    "id": 294,
+    "src": "/assets/starwars/episode3/294.png",
+    "sub": [
+      "The shadow of greed that is."
+    ],
+    "time": 2067
+  },
+  {
+    "id": 295,
+    "src": "/assets/starwars/episode3/295.png",
+    "sub": [
+      "What must I do, Master Yoda?"
+    ],
+    "time": 2070
+  },
+  {
+    "id": 296,
+    "src": "/assets/starwars/episode3/296.png",
+    "sub": [
+      "Train yourself to let go..."
+    ],
+    "time": 2073
+  },
+  {
+    "id": 297,
+    "src": "/assets/starwars/episode3/297.png",
+    "sub": [
+      "of everything you fear to lose."
+    ],
+    "time": 2077
+  },
+  {
+    "id": 298,
+    "src": "/assets/starwars/episode3/298.png",
+    "sub": [
+      "You've missed the report",
+      "on the outer rim sieges."
+    ],
+    "time": 2090
+  },
+  {
+    "id": 299,
+    "src": "/assets/starwars/episode3/299.png",
+    "sub": [
+      "I'm sorry. I was held up."
+    ],
+    "time": 2094
+  },
+  {
+    "id": 300,
+    "src": "/assets/starwars/episode3/300.png",
+    "sub": [
+      "- I have no excuse.",
+      "- In short, they are going very well."
+    ],
+    "time": 2098
+  },
+  {
+    "id": 301,
+    "src": "/assets/starwars/episode3/301.png",
+    "sub": [
+      "Saleucami has fallen, and Master Vos",
+      "has moved his troops to Boz Pity."
+    ],
+    "time": 2102
+  },
+  {
+    "id": 302,
+    "src": "/assets/starwars/episode3/302.png",
+    "sub": [
+      "What's wrong, then?"
+    ],
+    "time": 2106
+  },
+  {
+    "id": 303,
+    "src": "/assets/starwars/episode3/303.png",
+    "sub": [
+      "The senate is expected to vote more",
+      "executive powers to the chancellor today."
+    ],
+    "time": 2110
+  },
+  {
+    "id": 304,
+    "src": "/assets/starwars/episode3/304.png",
+    "sub": [
+      "That can only mean less deliberating",
+      "and more action. Is that bad?"
+    ],
+    "time": 2115
+  },
+  {
+    "id": 305,
+    "src": "/assets/starwars/episode3/305.png",
+    "sub": [
+      "It'll make it easier for",
+      "us to end this war."
+    ],
+    "time": 2119
+  },
+  {
+    "id": 306,
+    "src": "/assets/starwars/episode3/306.png",
+    "sub": [
+      "Be careful of your friend Palpatine."
+    ],
+    "time": 2123
+  },
+  {
+    "id": 307,
+    "src": "/assets/starwars/episode3/307.png",
+    "sub": [
+      "Be careful of what?"
+    ],
+    "time": 2127
+  },
+  {
+    "id": 308,
+    "src": "/assets/starwars/episode3/308.png",
+    "sub": [
+      "- He has requested your presence.",
+      "- What for?"
+    ],
+    "time": 2129
+  },
+  {
+    "id": 309,
+    "src": "/assets/starwars/episode3/309.png",
+    "sub": [
+      "He would not say."
+    ],
+    "time": 2132
+  },
+  {
+    "id": 310,
+    "src": "/assets/starwars/episode3/310.png",
+    "sub": [
+      "He didn't inform the council?",
+      "That's unusual, isn't it?"
+    ],
+    "time": 2135
+  },
+  {
+    "id": 311,
+    "src": "/assets/starwars/episode3/311.png",
+    "sub": [
+      "All of this is unusual."
+    ],
+    "time": 2138
+  },
+  {
+    "id": 312,
+    "src": "/assets/starwars/episode3/312.png",
+    "sub": [
+      "And it's making me feel uneasy."
+    ],
+    "time": 2140
+  },
+  {
+    "id": 313,
+    "src": "/assets/starwars/episode3/313.png",
+    "sub": [
+      "I hope you trust me, Anakin."
+    ],
+    "time": 2157
+  },
+  {
+    "id": 314,
+    "src": "/assets/starwars/episode3/314.png",
+    "sub": [
+      "Of course."
+    ],
+    "time": 2160
+  },
+  {
+    "id": 315,
+    "src": "/assets/starwars/episode3/315.png",
+    "sub": [
+      "I need your help, son."
+    ],
+    "time": 2163
+  },
+  {
+    "id": 316,
+    "src": "/assets/starwars/episode3/316.png",
+    "sub": [
+      "What do you mean?"
+    ],
+    "time": 2166
+  },
+  {
+    "id": 317,
+    "src": "/assets/starwars/episode3/317.png",
+    "sub": [
+      "I'm depending on you."
+    ],
+    "time": 2168
+  },
+  {
+    "id": 318,
+    "src": "/assets/starwars/episode3/318.png",
+    "sub": [
+      "For what? I don't understand."
+    ],
+    "time": 2171
+  },
+  {
+    "id": 319,
+    "src": "/assets/starwars/episode3/319.png",
+    "sub": [
+      "To be the eyes, ears",
+      "and voice of the Republic."
+    ],
+    "time": 2175
+  },
+  {
+    "id": 320,
+    "src": "/assets/starwars/episode3/320.png",
+    "sub": [
+      "I'm appointing you to be my personal",
+      "representative on the Jedi Council."
+    ],
+    "time": 2182
+  },
+  {
+    "id": 321,
+    "src": "/assets/starwars/episode3/321.png",
+    "sub": [
+      "Me?"
+    ],
+    "time": 2185
+  },
+  {
+    "id": 322,
+    "src": "/assets/starwars/episode3/322.png",
+    "sub": [
+      "A master?"
+    ],
+    "time": 2187
+  },
+  {
+    "id": 323,
+    "src": "/assets/starwars/episode3/323.png",
+    "sub": [
+      "I'm overwhelmed, sir."
+    ],
+    "time": 2190
+  },
+  {
+    "id": 324,
+    "src": "/assets/starwars/episode3/324.png",
+    "sub": [
+      "But the council elects its own members.",
+      "They'll never accept this."
+    ],
+    "time": 2194
+  },
+  {
+    "id": 325,
+    "src": "/assets/starwars/episode3/325.png",
+    "sub": [
+      "I think they will. They need you."
+    ],
+    "time": 2198
+  },
+  {
+    "id": 326,
+    "src": "/assets/starwars/episode3/326.png",
+    "sub": [
+      "More than you know."
+    ],
+    "time": 2202
+  },
+  {
+    "id": 327,
+    "src": "/assets/starwars/episode3/327.png",
+    "sub": [
+      "Allow this appointment lightly",
+      "the council does not."
+    ],
+    "time": 2215
+  },
+  {
+    "id": 328,
+    "src": "/assets/starwars/episode3/328.png",
+    "sub": [
+      "Disturbing is this move",
+      "by Chancellor Palpatine."
+    ],
+    "time": 2219
+  },
+  {
+    "id": 329,
+    "src": "/assets/starwars/episode3/329.png",
+    "sub": [
+      "I understand."
+    ],
+    "time": 2223
+  },
+  {
+    "id": 330,
+    "src": "/assets/starwars/episode3/330.png",
+    "sub": [
+      "You are on this council..."
+    ],
+    "time": 2225
+  },
+  {
+    "id": 331,
+    "src": "/assets/starwars/episode3/331.png",
+    "sub": [
+      "but we do not grant you the rank of master."
+    ],
+    "time": 2228
+  },
+  {
+    "id": 332,
+    "src": "/assets/starwars/episode3/332.png",
+    "sub": [
+      "What?"
+    ],
+    "time": 2230
+  },
+  {
+    "id": 333,
+    "src": "/assets/starwars/episode3/333.png",
+    "sub": [
+      "How can you do this? This is outrageous."
+    ],
+    "time": 2238
+  },
+  {
+    "id": 334,
+    "src": "/assets/starwars/episode3/334.png",
+    "sub": [
+      "It's unfair."
+    ],
+    "time": 2240
+  },
+  {
+    "id": 335,
+    "src": "/assets/starwars/episode3/335.png",
+    "sub": [
+      "How can you be on the council",
+      "and not be a master?"
+    ],
+    "time": 2245
+  },
+  {
+    "id": 336,
+    "src": "/assets/starwars/episode3/336.png",
+    "sub": [
+      "Take a seat, young Skywalker."
+    ],
+    "time": 2248
+  },
+  {
+    "id": 337,
+    "src": "/assets/starwars/episode3/337.png",
+    "sub": [
+      "Forgive me, Master."
+    ],
+    "time": 2254
+  },
+  {
+    "id": 338,
+    "src": "/assets/starwars/episode3/338.png",
+    "sub": [
+      "We have surveyed",
+      "all systems in the Republic..."
+    ],
+    "time": 2260
+  },
+  {
+    "id": 339,
+    "src": "/assets/starwars/episode3/339.png",
+    "sub": [
+      "but have found no sign of General Grievous."
+    ],
+    "time": 2263
+  },
+  {
+    "id": 340,
+    "src": "/assets/starwars/episode3/340.png",
+    "sub": [
+      "Hiding in the outer rim Grievous is."
+    ],
+    "time": 2267
+  },
+  {
+    "id": 341,
+    "src": "/assets/starwars/episode3/341.png",
+    "sub": [
+      "The outlying systems you must sweep."
+    ],
+    "time": 2270
+  },
+  {
+    "id": 342,
+    "src": "/assets/starwars/episode3/342.png",
+    "sub": [
+      "We do not have many ships to spare."
+    ],
+    "time": 2273
+  },
+  {
+    "id": 343,
+    "src": "/assets/starwars/episode3/343.png",
+    "sub": [
+      "What about the droid",
+      "attack on the Wookiees?"
+    ],
+    "time": 2275
+  },
+  {
+    "id": 344,
+    "src": "/assets/starwars/episode3/344.png",
+    "sub": [
+      "It is critical we send",
+      "an attack group there immediately."
+    ],
+    "time": 2278
+  },
+  {
+    "id": 345,
+    "src": "/assets/starwars/episode3/345.png",
+    "sub": [
+      "He's right. It's a system",
+      "we cannot afford to lose."
+    ],
+    "time": 2282
+  },
+  {
+    "id": 346,
+    "src": "/assets/starwars/episode3/346.png",
+    "sub": [
+      "Go I will."
+    ],
+    "time": 2286
+  },
+  {
+    "id": 347,
+    "src": "/assets/starwars/episode3/347.png",
+    "sub": [
+      "Good relations with the Wookiees I have."
+    ],
+    "time": 2288
+  },
+  {
+    "id": 348,
+    "src": "/assets/starwars/episode3/348.png",
+    "sub": [
+      "It's settled then."
+    ],
+    "time": 2291
+  },
+  {
+    "id": 349,
+    "src": "/assets/starwars/episode3/349.png",
+    "sub": [
+      "Yoda will take a battalion of clones",
+      "to reinforce the Wookiees on Kashyyyk."
+    ],
+    "time": 2294
+  },
+  {
+    "id": 350,
+    "src": "/assets/starwars/episode3/350.png",
+    "sub": [
+      "May the Force be with us all."
+    ],
+    "time": 2298
+  },
+  {
+    "id": 351,
+    "src": "/assets/starwars/episode3/351.png",
+    "sub": [
+      "What kind of nonsense is this?"
+    ],
+    "time": 2302
+  },
+  {
+    "id": 352,
+    "src": "/assets/starwars/episode3/352.png",
+    "sub": [
+      "Put me on the council",
+      "and not make me a master?"
+    ],
+    "time": 2305
+  },
+  {
+    "id": 353,
+    "src": "/assets/starwars/episode3/353.png",
+    "sub": [
+      "It's never been done in the history",
+      "of the Jedi. It's insulting."
+    ],
+    "time": 2308
+  },
+  {
+    "id": 354,
+    "src": "/assets/starwars/episode3/354.png",
+    "sub": [
+      "Calm down, Anakin.",
+      "You have been given a great honor."
+    ],
+    "time": 2310
+  },
+  {
+    "id": 355,
+    "src": "/assets/starwars/episode3/355.png",
+    "sub": [
+      "To be on the council at your age...",
+      "it's never happened before."
+    ],
+    "time": 2313
+  },
+  {
+    "id": 356,
+    "src": "/assets/starwars/episode3/356.png",
+    "sub": [
+      "The fact of the matter is",
+      "you are too close to the chancellor."
+    ],
+    "time": 2318
+  },
+  {
+    "id": 357,
+    "src": "/assets/starwars/episode3/357.png",
+    "sub": [
+      "The council doesn't like it",
+      "when he interferes in Jedi affairs."
+    ],
+    "time": 2322
+  },
+  {
+    "id": 358,
+    "src": "/assets/starwars/episode3/358.png",
+    "sub": [
+      "I swear to you,",
+      "I didn't ask to be put on the council."
+    ],
+    "time": 2325
+  },
+  {
+    "id": 359,
+    "src": "/assets/starwars/episode3/359.png",
+    "sub": [
+      "But it's what you wanted."
+    ],
+    "time": 2328
+  },
+  {
+    "id": 360,
+    "src": "/assets/starwars/episode3/360.png",
+    "sub": [
+      "Your friendship with Chancellor",
+      "Palpatine seems to have paid off."
+    ],
+    "time": 2331
+  },
+  {
+    "id": 361,
+    "src": "/assets/starwars/episode3/361.png",
+    "sub": [
+      "That has nothing to do with this."
+    ],
+    "time": 2334
+  },
+  {
+    "id": 362,
+    "src": "/assets/starwars/episode3/362.png",
+    "sub": [
+      "The only reason the council",
+      "has approved your appointment..."
+    ],
+    "time": 2336
+  },
+  {
+    "id": 363,
+    "src": "/assets/starwars/episode3/363.png",
+    "sub": [
+      "is because the chancellor trusts you."
+    ],
+    "time": 2339
+  },
+  {
+    "id": 364,
+    "src": "/assets/starwars/episode3/364.png",
+    "sub": [
+      "And?"
+    ],
+    "time": 2342
+  },
+  {
+    "id": 365,
+    "src": "/assets/starwars/episode3/365.png",
+    "sub": [
+      "Anakin, I am on your side. I didn't",
+      "want to put you in this situation."
+    ],
+    "time": 2344
+  },
+  {
+    "id": 366,
+    "src": "/assets/starwars/episode3/366.png",
+    "sub": [
+      "What situation?"
+    ],
+    "time": 2347
+  },
+  {
+    "id": 367,
+    "src": "/assets/starwars/episode3/367.png",
+    "sub": [
+      "The council wants you to report on",
+      "all the chancellor's dealings."
+    ],
+    "time": 2354
+  },
+  {
+    "id": 368,
+    "src": "/assets/starwars/episode3/368.png",
+    "sub": [
+      "They want to know what he's up to."
+    ],
+    "time": 2357
+  },
+  {
+    "id": 369,
+    "src": "/assets/starwars/episode3/369.png",
+    "sub": [
+      "They want me to spy on the chancellor?"
+    ],
+    "time": 2364
+  },
+  {
+    "id": 370,
+    "src": "/assets/starwars/episode3/370.png",
+    "sub": [
+      "- But that's treason.",
+      "- We are at war, Anakin."
+    ],
+    "time": 2367
+  },
+  {
+    "id": 371,
+    "src": "/assets/starwars/episode3/371.png",
+    "sub": [
+      "Why didn't the council give me",
+      "this assignment when we were in session?"
+    ],
+    "time": 2372
+  },
+  {
+    "id": 372,
+    "src": "/assets/starwars/episode3/372.png",
+    "sub": [
+      "This assignment is not to be on record."
+    ],
+    "time": 2375
+  },
+  {
+    "id": 373,
+    "src": "/assets/starwars/episode3/373.png",
+    "sub": [
+      "The chancellor is not a bad man, Obi-Wan."
+    ],
+    "time": 2378
+  },
+  {
+    "id": 374,
+    "src": "/assets/starwars/episode3/374.png",
+    "sub": [
+      "He befriended me. He's watched out",
+      "for me ever since I arrived here."
+    ],
+    "time": 2381
+  },
+  {
+    "id": 375,
+    "src": "/assets/starwars/episode3/375.png",
+    "sub": [
+      "That is why you must help us."
+    ],
+    "time": 2385
+  },
+  {
+    "id": 376,
+    "src": "/assets/starwars/episode3/376.png",
+    "sub": [
+      "Anakin, our allegiance",
+      "is to the senate, not to its leader..."
+    ],
+    "time": 2387
+  },
+  {
+    "id": 377,
+    "src": "/assets/starwars/episode3/377.png",
+    "sub": [
+      "who has managed to stay in office",
+      "long after his term has expired."
+    ],
+    "time": 2391
+  },
+  {
+    "id": 378,
+    "src": "/assets/starwars/episode3/378.png",
+    "sub": [
+      "The senate demanded that he stay longer."
+    ],
+    "time": 2394
+  },
+  {
+    "id": 379,
+    "src": "/assets/starwars/episode3/379.png",
+    "sub": [
+      "Yes, but use your feelings, Anakin.",
+      "Something is out of place."
+    ],
+    "time": 2396
+  },
+  {
+    "id": 380,
+    "src": "/assets/starwars/episode3/380.png",
+    "sub": [
+      "You're asking me to do something",
+      "against the Jedi code."
+    ],
+    "time": 2401
+  },
+  {
+    "id": 381,
+    "src": "/assets/starwars/episode3/381.png",
+    "sub": [
+      "Against the Republic.",
+      "Against a mentor and a friend."
+    ],
+    "time": 2405
+  },
+  {
+    "id": 382,
+    "src": "/assets/starwars/episode3/382.png",
+    "sub": [
+      "That's what's out of place here.",
+      "Why are you asking this of me?"
+    ],
+    "time": 2409
+  },
+  {
+    "id": 383,
+    "src": "/assets/starwars/episode3/383.png",
+    "sub": [
+      "The council is asking you."
+    ],
+    "time": 2414
+  },
+  {
+    "id": 384,
+    "src": "/assets/starwars/episode3/384.png",
+    "sub": [
+      "Anakin did not take to his",
+      "new assignment with much enthusiasm."
+    ],
+    "time": 2424
+  },
+  {
+    "id": 385,
+    "src": "/assets/starwars/episode3/385.png",
+    "sub": [
+      "It's very dangerous, putting them together."
+    ],
+    "time": 2428
+  },
+  {
+    "id": 386,
+    "src": "/assets/starwars/episode3/386.png",
+    "sub": [
+      "I don't think the boy can handle it."
+    ],
+    "time": 2431
+  },
+  {
+    "id": 387,
+    "src": "/assets/starwars/episode3/387.png",
+    "sub": [
+      "I don't trust him."
+    ],
+    "time": 2434
+  },
+  {
+    "id": 388,
+    "src": "/assets/starwars/episode3/388.png",
+    "sub": [
+      "With all due respect, Master,",
+      "is he not the chosen one?"
+    ],
+    "time": 2436
+  },
+  {
+    "id": 389,
+    "src": "/assets/starwars/episode3/389.png",
+    "sub": [
+      "Is he not to destroy the Sith",
+      "and bring balance to the Force?"
+    ],
+    "time": 2441
+  },
+  {
+    "id": 390,
+    "src": "/assets/starwars/episode3/390.png",
+    "sub": [
+      "So the prophecy says."
+    ],
+    "time": 2445
+  },
+  {
+    "id": 391,
+    "src": "/assets/starwars/episode3/391.png",
+    "sub": [
+      "A prophecy that misread could have been."
+    ],
+    "time": 2448
+  },
+  {
+    "id": 392,
+    "src": "/assets/starwars/episode3/392.png",
+    "sub": [
+      "He will not let me down."
+    ],
+    "time": 2454
+  },
+  {
+    "id": 393,
+    "src": "/assets/starwars/episode3/393.png",
+    "sub": [
+      "He never has."
+    ],
+    "time": 2456
+  },
+  {
+    "id": 394,
+    "src": "/assets/starwars/episode3/394.png",
+    "sub": [
+      "I hope right you are."
+    ],
+    "time": 2458
+  },
+  {
+    "id": 395,
+    "src": "/assets/starwars/episode3/395.png",
+    "sub": [
+      "Sometimes I wonder what's",
+      "happening to the Jedi order."
+    ],
+    "time": 2486
+  },
+  {
+    "id": 396,
+    "src": "/assets/starwars/episode3/396.png",
+    "sub": [
+      "I think this war is destroying",
+      "the principles of the Republic."
+    ],
+    "time": 2490
+  },
+  {
+    "id": 397,
+    "src": "/assets/starwars/episode3/397.png",
+    "sub": [
+      "Have you ever considered",
+      "that we may be on the wrong side?"
+    ],
+    "time": 2495
+  },
+  {
+    "id": 398,
+    "src": "/assets/starwars/episode3/398.png",
+    "sub": [
+      "What do you mean?"
+    ],
+    "time": 2498
+  },
+  {
+    "id": 399,
+    "src": "/assets/starwars/episode3/399.png",
+    "sub": [
+      "What if the democracy we thought",
+      "we were serving no longer exists..."
+    ],
+    "time": 2502
+  },
+  {
+    "id": 400,
+    "src": "/assets/starwars/episode3/400.png",
+    "sub": [
+      "and the Republic has become the very",
+      "evil we've been fighting to destroy?"
+    ],
+    "time": 2506
+  },
+  {
+    "id": 401,
+    "src": "/assets/starwars/episode3/401.png",
+    "sub": [
+      "I don't believe that.",
+      "And you're sounding like a separatist."
+    ],
+    "time": 2510
+  },
+  {
+    "id": 402,
+    "src": "/assets/starwars/episode3/402.png",
+    "sub": [
+      "This war represents a failure to listen."
+    ],
+    "time": 2515
+  },
+  {
+    "id": 403,
+    "src": "/assets/starwars/episode3/403.png",
+    "sub": [
+      "Now you're closer",
+      "to the chancellor than anyone."
+    ],
+    "time": 2518
+  },
+  {
+    "id": 404,
+    "src": "/assets/starwars/episode3/404.png",
+    "sub": [
+      "Please, ask him to stop the fighting",
+      "and let diplomacy resume."
+    ],
+    "time": 2520
+  },
+  {
+    "id": 405,
+    "src": "/assets/starwars/episode3/405.png",
+    "sub": [
+      "Don't ask me to do that."
+    ],
+    "time": 2523
+  },
+  {
+    "id": 406,
+    "src": "/assets/starwars/episode3/406.png",
+    "sub": [
+      "Make a motion in the senate,",
+      "where that kind of a request belongs."
+    ],
+    "time": 2528
+  },
+  {
+    "id": 407,
+    "src": "/assets/starwars/episode3/407.png",
+    "sub": [
+      "- What is it?",
+      "- Nothing."
+    ],
+    "time": 2532
+  },
+  {
+    "id": 408,
+    "src": "/assets/starwars/episode3/408.png",
+    "sub": [
+      "Don't do this. Don't shut me out.",
+      "Let me help you."
+    ],
+    "time": 2536
+  },
+  {
+    "id": 409,
+    "src": "/assets/starwars/episode3/409.png",
+    "sub": [
+      "Hold me."
+    ],
+    "time": 2542
+  },
+  {
+    "id": 410,
+    "src": "/assets/starwars/episode3/410.png",
+    "sub": [
+      "Like you did by the lake on Naboo."
+    ],
+    "time": 2544
+  },
+  {
+    "id": 411,
+    "src": "/assets/starwars/episode3/411.png",
+    "sub": [
+      "So long ago, when there was",
+      "nothing but our love."
+    ],
+    "time": 2547
+  },
+  {
+    "id": 412,
+    "src": "/assets/starwars/episode3/412.png",
+    "sub": [
+      "No politics, no plotting, no war."
+    ],
+    "time": 2551
+  },
+  {
+    "id": 413,
+    "src": "/assets/starwars/episode3/413.png",
+    "sub": [
+      "- You wanted to see me, Chancellor.",
+      "- Yes, Anakin."
+    ],
+    "time": 2594
+  },
+  {
+    "id": 414,
+    "src": "/assets/starwars/episode3/414.png",
+    "sub": [
+      "Come closer. I have good news."
+    ],
+    "time": 2596
+  },
+  {
+    "id": 415,
+    "src": "/assets/starwars/episode3/415.png",
+    "sub": [
+      "Our clone intelligence units..."
+    ],
+    "time": 2600
+  },
+  {
+    "id": 416,
+    "src": "/assets/starwars/episode3/416.png",
+    "sub": [
+      "have discovered",
+      "the location of General Grievous."
+    ],
+    "time": 2602
+  },
+  {
+    "id": 417,
+    "src": "/assets/starwars/episode3/417.png",
+    "sub": [
+      "He's hiding in the Utapau system."
+    ],
+    "time": 2605
+  },
+  {
+    "id": 418,
+    "src": "/assets/starwars/episode3/418.png",
+    "sub": [
+      "At last."
+    ],
+    "time": 2607
+  },
+  {
+    "id": 419,
+    "src": "/assets/starwars/episode3/419.png",
+    "sub": [
+      "We'll be able to capture",
+      "that monster and end this war."
+    ],
+    "time": 2611
+  },
+  {
+    "id": 420,
+    "src": "/assets/starwars/episode3/420.png",
+    "sub": [
+      "I would worry about",
+      "the collective wisdom of the council..."
+    ],
+    "time": 2614
+  },
+  {
+    "id": 421,
+    "src": "/assets/starwars/episode3/421.png",
+    "sub": [
+      "if it didn't select you",
+      "for this assignment."
+    ],
+    "time": 2617
+  },
+  {
+    "id": 422,
+    "src": "/assets/starwars/episode3/422.png",
+    "sub": [
+      "You're the best choice, by far."
+    ],
+    "time": 2620
+  },
+  {
+    "id": 423,
+    "src": "/assets/starwars/episode3/423.png",
+    "sub": [
+      "Sit down."
+    ],
+    "time": 2626
+  },
+  {
+    "id": 424,
+    "src": "/assets/starwars/episode3/424.png",
+    "sub": [
+      "Leave us."
+    ],
+    "time": 2627
+  },
+  {
+    "id": 425,
+    "src": "/assets/starwars/episode3/425.png",
+    "sub": [
+      "You know I'm not able",
+      "to rely on the Jedi Council."
+    ],
+    "time": 2645
+  },
+  {
+    "id": 426,
+    "src": "/assets/starwars/episode3/426.png",
+    "sub": [
+      "If they haven't included you",
+      "in their plot, they soon will."
+    ],
+    "time": 2650
+  },
+  {
+    "id": 427,
+    "src": "/assets/starwars/episode3/427.png",
+    "sub": [
+      "I'm not sure I understand."
+    ],
+    "time": 2654
+  },
+  {
+    "id": 428,
+    "src": "/assets/starwars/episode3/428.png",
+    "sub": [
+      "You must sense what I have come to suspect."
+    ],
+    "time": 2657
+  },
+  {
+    "id": 429,
+    "src": "/assets/starwars/episode3/429.png",
+    "sub": [
+      "The Jedi Council want",
+      "control of the Republic."
+    ],
+    "time": 2661
+  },
+  {
+    "id": 430,
+    "src": "/assets/starwars/episode3/430.png",
+    "sub": [
+      "They're planning to betray me."
+    ],
+    "time": 2665
+  },
+  {
+    "id": 431,
+    "src": "/assets/starwars/episode3/431.png",
+    "sub": [
+      "- I don't think that...",
+      "- Anakin."
+    ],
+    "time": 2668
+  },
+  {
+    "id": 432,
+    "src": "/assets/starwars/episode3/432.png",
+    "sub": [
+      "Search your feelings."
+    ],
+    "time": 2671
+  },
+  {
+    "id": 433,
+    "src": "/assets/starwars/episode3/433.png",
+    "sub": [
+      "You know, don't you?"
+    ],
+    "time": 2675
+  },
+  {
+    "id": 434,
+    "src": "/assets/starwars/episode3/434.png",
+    "sub": [
+      "I know they don't trust you."
+    ],
+    "time": 2682
+  },
+  {
+    "id": 435,
+    "src": "/assets/starwars/episode3/435.png",
+    "sub": [
+      "Or the senate. Or the Republic."
+    ],
+    "time": 2685
+  },
+  {
+    "id": 436,
+    "src": "/assets/starwars/episode3/436.png",
+    "sub": [
+      "Or democracy, for that matter."
+    ],
+    "time": 2688
+  },
+  {
+    "id": 437,
+    "src": "/assets/starwars/episode3/437.png",
+    "sub": [
+      "I have to admit,",
+      "my trust in them has been shaken."
+    ],
+    "time": 2692
+  },
+  {
+    "id": 438,
+    "src": "/assets/starwars/episode3/438.png",
+    "sub": [
+      "Why?"
+    ],
+    "time": 2695
+  },
+  {
+    "id": 439,
+    "src": "/assets/starwars/episode3/439.png",
+    "sub": [
+      "They asked you to do something that",
+      "made you feel dishonest, didn't they?"
+    ],
+    "time": 2700
+  },
+  {
+    "id": 440,
+    "src": "/assets/starwars/episode3/440.png",
+    "sub": [
+      "They asked you to spy on me, didn't they?"
+    ],
+    "time": 2706
+  },
+  {
+    "id": 441,
+    "src": "/assets/starwars/episode3/441.png",
+    "sub": [
+      "I don't..."
+    ],
+    "time": 2713
+  },
+  {
+    "id": 442,
+    "src": "/assets/starwars/episode3/442.png",
+    "sub": [
+      "I don't know what to say."
+    ],
+    "time": 2716
+  },
+  {
+    "id": 443,
+    "src": "/assets/starwars/episode3/443.png",
+    "sub": [
+      "Remember back to your early teachings."
+    ],
+    "time": 2719
+  },
+  {
+    "id": 444,
+    "src": "/assets/starwars/episode3/444.png",
+    "sub": [
+      "All who gain power are afraid to lose it."
+    ],
+    "time": 2723
+  },
+  {
+    "id": 445,
+    "src": "/assets/starwars/episode3/445.png",
+    "sub": [
+      "- Even the Jedi.",
+      "- The Jedi use their power for good."
+    ],
+    "time": 2728
+  },
+  {
+    "id": 446,
+    "src": "/assets/starwars/episode3/446.png",
+    "sub": [
+      "Good is a point of view, Anakin."
+    ],
+    "time": 2731
+  },
+  {
+    "id": 447,
+    "src": "/assets/starwars/episode3/447.png",
+    "sub": [
+      "The Sith and the Jedi",
+      "are similar in almost every way..."
+    ],
+    "time": 2735
+  },
+  {
+    "id": 448,
+    "src": "/assets/starwars/episode3/448.png",
+    "sub": [
+      "including their quest for greater power."
+    ],
+    "time": 2741
+  },
+  {
+    "id": 449,
+    "src": "/assets/starwars/episode3/449.png",
+    "sub": [
+      "The Sith rely on their passion",
+      "for their strength."
+    ],
+    "time": 2745
+  },
+  {
+    "id": 450,
+    "src": "/assets/starwars/episode3/450.png",
+    "sub": [
+      "They think inwards...",
+      "only about themselves."
+    ],
+    "time": 2748
+  },
+  {
+    "id": 451,
+    "src": "/assets/starwars/episode3/451.png",
+    "sub": [
+      "And the Jedi don't?"
+    ],
+    "time": 2752
+  },
+  {
+    "id": 452,
+    "src": "/assets/starwars/episode3/452.png",
+    "sub": [
+      "The Jedi are selfless.",
+      "They only care about others."
+    ],
+    "time": 2756
+  },
+  {
+    "id": 453,
+    "src": "/assets/starwars/episode3/453.png",
+    "sub": [
+      "Did you ever hear the tragedy",
+      "of Darth Plagueis the Wise?"
+    ],
+    "time": 2770
+  },
+  {
+    "id": 454,
+    "src": "/assets/starwars/episode3/454.png",
+    "sub": [
+      "I thought not. It's not a story",
+      "the Jedi would tell you."
+    ],
+    "time": 2780
+  },
+  {
+    "id": 455,
+    "src": "/assets/starwars/episode3/455.png",
+    "sub": [
+      "It's a Sith legend."
+    ],
+    "time": 2785
+  },
+  {
+    "id": 456,
+    "src": "/assets/starwars/episode3/456.png",
+    "sub": [
+      "Darth Plagueis was a",
+      "dark lord of the Sith..."
+    ],
+    "time": 2789
+  },
+  {
+    "id": 457,
+    "src": "/assets/starwars/episode3/457.png",
+    "sub": [
+      "so powerful and so wise..."
+    ],
+    "time": 2792
+  },
+  {
+    "id": 458,
+    "src": "/assets/starwars/episode3/458.png",
+    "sub": [
+      "he could use the Force to",
+      "influence the midi-chlorians..."
+    ],
+    "time": 2796
+  },
+  {
+    "id": 459,
+    "src": "/assets/starwars/episode3/459.png",
+    "sub": [
+      "to create... life."
+    ],
+    "time": 2800
+  },
+  {
+    "id": 460,
+    "src": "/assets/starwars/episode3/460.png",
+    "sub": [
+      "He had such a knowledge of the dark side..."
+    ],
+    "time": 2805
+  },
+  {
+    "id": 461,
+    "src": "/assets/starwars/episode3/461.png",
+    "sub": [
+      "he could even keep the",
+      "ones he cared about..."
+    ],
+    "time": 2809
+  },
+  {
+    "id": 462,
+    "src": "/assets/starwars/episode3/462.png",
+    "sub": [
+      "from dying."
+    ],
+    "time": 2813
+  },
+  {
+    "id": 463,
+    "src": "/assets/starwars/episode3/463.png",
+    "sub": [
+      "He could actually...",
+      "save people from death?"
+    ],
+    "time": 2820
+  },
+  {
+    "id": 464,
+    "src": "/assets/starwars/episode3/464.png",
+    "sub": [
+      "The dark side of the Force is",
+      "a pathway to many abilities..."
+    ],
+    "time": 2825
+  },
+  {
+    "id": 465,
+    "src": "/assets/starwars/episode3/465.png",
+    "sub": [
+      "some consider to be unnatural."
+    ],
+    "time": 2830
+  },
+  {
+    "id": 466,
+    "src": "/assets/starwars/episode3/466.png",
+    "sub": [
+      "What happened to him?"
+    ],
+    "time": 2834
+  },
+  {
+    "id": 467,
+    "src": "/assets/starwars/episode3/467.png",
+    "sub": [
+      "He became so powerful..."
+    ],
+    "time": 2837
+  },
+  {
+    "id": 468,
+    "src": "/assets/starwars/episode3/468.png",
+    "sub": [
+      "the only thing he was afraid of was..."
+    ],
+    "time": 2840
+  },
+  {
+    "id": 469,
+    "src": "/assets/starwars/episode3/469.png",
+    "sub": [
+      "losing his power."
+    ],
+    "time": 2844
+  },
+  {
+    "id": 470,
+    "src": "/assets/starwars/episode3/470.png",
+    "sub": [
+      "Which eventually, of course, he did."
+    ],
+    "time": 2846
+  },
+  {
+    "id": 471,
+    "src": "/assets/starwars/episode3/471.png",
+    "sub": [
+      "Unfortunately, he taught",
+      "his apprentice everything he knew."
+    ],
+    "time": 2850
+  },
+  {
+    "id": 472,
+    "src": "/assets/starwars/episode3/472.png",
+    "sub": [
+      "Then his apprentice",
+      "killed him in his sleep."
+    ],
+    "time": 2855
+  },
+  {
+    "id": 473,
+    "src": "/assets/starwars/episode3/473.png",
+    "sub": [
+      "It's ironic."
+    ],
+    "time": 2861
+  },
+  {
+    "id": 474,
+    "src": "/assets/starwars/episode3/474.png",
+    "sub": [
+      "He could save others from death..."
+    ],
+    "time": 2863
+  },
+  {
+    "id": 475,
+    "src": "/assets/starwars/episode3/475.png",
+    "sub": [
+      "but not himself."
+    ],
+    "time": 2866
+  },
+  {
+    "id": 476,
+    "src": "/assets/starwars/episode3/476.png",
+    "sub": [
+      "Is it possible to learn this power?"
+    ],
+    "time": 2872
+  },
+  {
+    "id": 477,
+    "src": "/assets/starwars/episode3/477.png",
+    "sub": [
+      "Not from a Jedi."
+    ],
+    "time": 2879
+  },
+  {
+    "id": 478,
+    "src": "/assets/starwars/episode3/478.png",
+    "sub": [
+      "All Red units, over here!"
+    ],
+    "time": 2897
+  },
+  {
+    "id": 479,
+    "src": "/assets/starwars/episode3/479.png",
+    "sub": [
+      "Palpatine thinks General Grievous",
+      "is on Utapau?"
+    ],
+    "time": 2911
+  },
+  {
+    "id": 480,
+    "src": "/assets/starwars/episode3/480.png",
+    "sub": [
+      "A partial message was intercepted..."
+    ],
+    "time": 2914
+  },
+  {
+    "id": 481,
+    "src": "/assets/starwars/episode3/481.png",
+    "sub": [
+      "in a diplomatic packet",
+      "from the chairman of Utapau."
+    ],
+    "time": 2916
+  },
+  {
+    "id": 482,
+    "src": "/assets/starwars/episode3/482.png",
+    "sub": [
+      "Act on this we must."
+    ],
+    "time": 2922
+  },
+  {
+    "id": 483,
+    "src": "/assets/starwars/episode3/483.png",
+    "sub": [
+      "The capture of General Grievous",
+      "will end this war."
+    ],
+    "time": 2925
+  },
+  {
+    "id": 484,
+    "src": "/assets/starwars/episode3/484.png",
+    "sub": [
+      "Quickly and decisively we should proceed."
+    ],
+    "time": 2930
+  },
+  {
+    "id": 485,
+    "src": "/assets/starwars/episode3/485.png",
+    "sub": [
+      "The chancellor has requested...",
+      "that I lead the campaign."
+    ],
+    "time": 2934
+  },
+  {
+    "id": 486,
+    "src": "/assets/starwars/episode3/486.png",
+    "sub": [
+      "The council will make up",
+      "its own mind who is to go..."
+    ],
+    "time": 2938
+  },
+  {
+    "id": 487,
+    "src": "/assets/starwars/episode3/487.png",
+    "sub": [
+      "not the chancellor."
+    ],
+    "time": 2941
+  },
+  {
+    "id": 488,
+    "src": "/assets/starwars/episode3/488.png",
+    "sub": [
+      "A master is needed, with more experience."
+    ],
+    "time": 2944
+  },
+  {
+    "id": 489,
+    "src": "/assets/starwars/episode3/489.png",
+    "sub": [
+      "I concur. Master Kenobi should go."
+    ],
+    "time": 2949
+  },
+  {
+    "id": 490,
+    "src": "/assets/starwars/episode3/490.png",
+    "sub": [
+      "I agree."
+    ],
+    "time": 2952
+  },
+  {
+    "id": 491,
+    "src": "/assets/starwars/episode3/491.png",
+    "sub": [
+      "Aye."
+    ],
+    "time": 2953
+  },
+  {
+    "id": 492,
+    "src": "/assets/starwars/episode3/492.png",
+    "sub": [
+      "Aye."
+    ],
+    "time": 2955
+  },
+  {
+    "id": 493,
+    "src": "/assets/starwars/episode3/493.png",
+    "sub": [
+      "Very well. Council adjourned."
+    ],
+    "time": 2957
+  },
+  {
+    "id": 494,
+    "src": "/assets/starwars/episode3/494.png",
+    "sub": [
+      "The droids have started up",
+      "their main power generators."
+    ],
+    "time": 2967
+  },
+  {
+    "id": 495,
+    "src": "/assets/starwars/episode3/495.png",
+    "sub": [
+      "- Then now the time is, Commander.",
+      "- Yes, sir."
+    ],
+    "time": 2972
+  },
+  {
+    "id": 496,
+    "src": "/assets/starwars/episode3/496.png",
+    "sub": [
+      "Charge!"
+    ],
+    "time": 2987
+  },
+  {
+    "id": 497,
+    "src": "/assets/starwars/episode3/497.png",
+    "sub": [
+      "Head for cover!"
+    ],
+    "time": 3005
+  },
+  {
+    "id": 498,
+    "src": "/assets/starwars/episode3/498.png",
+    "sub": [
+      "- You're gonna need me on this one.",
+      "- I agree."
+    ],
+    "time": 3022
+  },
+  {
+    "id": 499,
+    "src": "/assets/starwars/episode3/499.png",
+    "sub": [
+      "However, it may turn out",
+      "just to be a wild bantha chase."
+    ],
+    "time": 3025
+  },
+  {
+    "id": 500,
+    "src": "/assets/starwars/episode3/500.png",
+    "sub": [
+      "Master."
+    ],
+    "time": 3027
+  },
+  {
+    "id": 501,
+    "src": "/assets/starwars/episode3/501.png",
+    "sub": [
+      "I've disappointed you. I haven't been",
+      "very appreciative of your training."
+    ],
+    "time": 3032
+  },
+  {
+    "id": 502,
+    "src": "/assets/starwars/episode3/502.png",
+    "sub": [
+      "I've been arrogant, and I apologize."
+    ],
+    "time": 3037
+  },
+  {
+    "id": 503,
+    "src": "/assets/starwars/episode3/503.png",
+    "sub": [
+      "I've just been so frustrated",
+      "with the council."
+    ],
+    "time": 3041
+  },
+  {
+    "id": 504,
+    "src": "/assets/starwars/episode3/504.png",
+    "sub": [
+      "You are strong and wise, Anakin,",
+      "and I am very proud of you."
+    ],
+    "time": 3047
+  },
+  {
+    "id": 505,
+    "src": "/assets/starwars/episode3/505.png",
+    "sub": [
+      "I have trained you since",
+      "you were a small boy."
+    ],
+    "time": 3050
+  },
+  {
+    "id": 506,
+    "src": "/assets/starwars/episode3/506.png",
+    "sub": [
+      "I have taught you everything I know."
+    ],
+    "time": 3053
+  },
+  {
+    "id": 507,
+    "src": "/assets/starwars/episode3/507.png",
+    "sub": [
+      "And you have become a far greater",
+      "Jedi than I could ever hope to be."
+    ],
+    "time": 3056
+  },
+  {
+    "id": 508,
+    "src": "/assets/starwars/episode3/508.png",
+    "sub": [
+      "But be patient, Anakin."
+    ],
+    "time": 3060
+  },
+  {
+    "id": 509,
+    "src": "/assets/starwars/episode3/509.png",
+    "sub": [
+      "It will not be long before",
+      "the council makes you a Jedi master."
+    ],
+    "time": 3063
+  },
+  {
+    "id": 510,
+    "src": "/assets/starwars/episode3/510.png",
+    "sub": [
+      "Obi-Wan. May the Force be with you."
+    ],
+    "time": 3074
+  },
+  {
+    "id": 511,
+    "src": "/assets/starwars/episode3/511.png",
+    "sub": [
+      "Good-bye, old friend.",
+      "May the Force be with you."
+    ],
+    "time": 3077
+  },
+  {
+    "id": 512,
+    "src": "/assets/starwars/episode3/512.png",
+    "sub": [
+      "Fortunately, most of the cities are",
+      "concentrated on this small continent here."
+    ],
+    "time": 3103
+  },
+  {
+    "id": 513,
+    "src": "/assets/starwars/episode3/513.png",
+    "sub": [
+      "On the far side."
+    ],
+    "time": 3107
+  },
+  {
+    "id": 514,
+    "src": "/assets/starwars/episode3/514.png",
+    "sub": [
+      "I'll keep them distracted",
+      "until you get there."
+    ],
+    "time": 3109
+  },
+  {
+    "id": 515,
+    "src": "/assets/starwars/episode3/515.png",
+    "sub": [
+      "- Just don't take too long.",
+      "- Come on. When have I ever let you down?"
+    ],
+    "time": 3111
+  },
+  {
+    "id": 516,
+    "src": "/assets/starwars/episode3/516.png",
+    "sub": [
+      "Very well. The burden is on me not to",
+      "destroy all the droids until you arrive."
+    ],
+    "time": 3117
+  },
+  {
+    "id": 517,
+    "src": "/assets/starwars/episode3/517.png",
+    "sub": [
+      "Save your energy."
+    ],
+    "time": 3146
+  },
+  {
+    "id": 518,
+    "src": "/assets/starwars/episode3/518.png",
+    "sub": [
+      "I can't."
+    ],
+    "time": 3149
+  },
+  {
+    "id": 519,
+    "src": "/assets/starwars/episode3/519.png",
+    "sub": [
+      "Don't give up, Padmé."
+    ],
+    "time": 3151
+  },
+  {
+    "id": 520,
+    "src": "/assets/starwars/episode3/520.png",
+    "sub": [
+      "Obi-Wan's been here, hasn't he?"
+    ],
+    "time": 3166
+  },
+  {
+    "id": 521,
+    "src": "/assets/starwars/episode3/521.png",
+    "sub": [
+      "He came by this morning."
+    ],
+    "time": 3169
+  },
+  {
+    "id": 522,
+    "src": "/assets/starwars/episode3/522.png",
+    "sub": [
+      "What did he want?"
+    ],
+    "time": 3172
+  },
+  {
+    "id": 523,
+    "src": "/assets/starwars/episode3/523.png",
+    "sub": [
+      "He's worried about you."
+    ],
+    "time": 3174
+  },
+  {
+    "id": 524,
+    "src": "/assets/starwars/episode3/524.png",
+    "sub": [
+      "He says you've been under a lot of stress."
+    ],
+    "time": 3178
+  },
+  {
+    "id": 525,
+    "src": "/assets/starwars/episode3/525.png",
+    "sub": [
+      "I feel lost."
+    ],
+    "time": 3183
+  },
+  {
+    "id": 526,
+    "src": "/assets/starwars/episode3/526.png",
+    "sub": [
+      "Lost? What do you mean?"
+    ],
+    "time": 3187
+  },
+  {
+    "id": 527,
+    "src": "/assets/starwars/episode3/527.png",
+    "sub": [
+      "Obi-Wan and the council don't trust me."
+    ],
+    "time": 3191
+  },
+  {
+    "id": 528,
+    "src": "/assets/starwars/episode3/528.png",
+    "sub": [
+      "They trust you with their lives."
+    ],
+    "time": 3195
+  },
+  {
+    "id": 529,
+    "src": "/assets/starwars/episode3/529.png",
+    "sub": [
+      "Something's happening."
+    ],
+    "time": 3199
+  },
+  {
+    "id": 530,
+    "src": "/assets/starwars/episode3/530.png",
+    "sub": [
+      "I'm not the Jedi I should be."
+    ],
+    "time": 3202
+  },
+  {
+    "id": 531,
+    "src": "/assets/starwars/episode3/531.png",
+    "sub": [
+      "I want more."
+    ],
+    "time": 3206
+  },
+  {
+    "id": 532,
+    "src": "/assets/starwars/episode3/532.png",
+    "sub": [
+      "And I know I shouldn't."
+    ],
+    "time": 3209
+  },
+  {
+    "id": 533,
+    "src": "/assets/starwars/episode3/533.png",
+    "sub": [
+      "You expect too much of yourself."
+    ],
+    "time": 3213
+  },
+  {
+    "id": 534,
+    "src": "/assets/starwars/episode3/534.png",
+    "sub": [
+      "- I found a way to save you.",
+      "- Save me?"
+    ],
+    "time": 3220
+  },
+  {
+    "id": 535,
+    "src": "/assets/starwars/episode3/535.png",
+    "sub": [
+      "From my nightmares."
+    ],
+    "time": 3223
+  },
+  {
+    "id": 536,
+    "src": "/assets/starwars/episode3/536.png",
+    "sub": [
+      "Is that what's bothering you?"
+    ],
+    "time": 3225
+  },
+  {
+    "id": 537,
+    "src": "/assets/starwars/episode3/537.png",
+    "sub": [
+      "I won't lose you, Padmé."
+    ],
+    "time": 3228
+  },
+  {
+    "id": 538,
+    "src": "/assets/starwars/episode3/538.png",
+    "sub": [
+      "I'm not gonna die in childbirth, Ani."
+    ],
+    "time": 3230
+  },
+  {
+    "id": 539,
+    "src": "/assets/starwars/episode3/539.png",
+    "sub": [
+      "- I promise you.",
+      "- No, I promise you."
+    ],
+    "time": 3233
+  },
+  {
+    "id": 540,
+    "src": "/assets/starwars/episode3/540.png",
+    "sub": [
+      "Greetings, young Jedi."
+    ],
+    "time": 3279
+  },
+  {
+    "id": 541,
+    "src": "/assets/starwars/episode3/541.png",
+    "sub": [
+      "What brings you to our remote sanctuary?"
+    ],
+    "time": 3282
+  },
+  {
+    "id": 542,
+    "src": "/assets/starwars/episode3/542.png",
+    "sub": [
+      "Unfortunately, the war."
+    ],
+    "time": 3285
+  },
+  {
+    "id": 543,
+    "src": "/assets/starwars/episode3/543.png",
+    "sub": [
+      "There's no war here...",
+      "unless you brought it with you."
+    ],
+    "time": 3289
+  },
+  {
+    "id": 544,
+    "src": "/assets/starwars/episode3/544.png",
+    "sub": [
+      "With your kind permission,",
+      "I should like some fuel..."
+    ],
+    "time": 3292
+  },
+  {
+    "id": 545,
+    "src": "/assets/starwars/episode3/545.png",
+    "sub": [
+      "and to use your city as a base as I search",
+      "nearby systems for General Grievous."
+    ],
+    "time": 3296
+  },
+  {
+    "id": 546,
+    "src": "/assets/starwars/episode3/546.png",
+    "sub": [
+      "He is here. We are being held hostage."
+    ],
+    "time": 3309
+  },
+  {
+    "id": 547,
+    "src": "/assets/starwars/episode3/547.png",
+    "sub": [
+      "- They are watching us.",
+      "- I understand."
+    ],
+    "time": 3312
+  },
+  {
+    "id": 548,
+    "src": "/assets/starwars/episode3/548.png",
+    "sub": [
+      "Tenth level, thousands of battle droids."
+    ],
+    "time": 3316
+  },
+  {
+    "id": 549,
+    "src": "/assets/starwars/episode3/549.png",
+    "sub": [
+      "Tell your people to take shelter."
+    ],
+    "time": 3320
+  },
+  {
+    "id": 550,
+    "src": "/assets/starwars/episode3/550.png",
+    "sub": [
+      "If you have warriors, now is the time."
+    ],
+    "time": 3323
+  },
+  {
+    "id": 551,
+    "src": "/assets/starwars/episode3/551.png",
+    "sub": [
+      "Take the fighter back to the ship.",
+      "Tell Cody I've made contact."
+    ],
+    "time": 3338
+  },
+  {
+    "id": 552,
+    "src": "/assets/starwars/episode3/552.png",
+    "sub": [
+      "- Is he bringing additional warriors?",
+      "- He didn't say."
+    ],
+    "time": 3344
+  },
+  {
+    "id": 553,
+    "src": "/assets/starwars/episode3/553.png",
+    "sub": [
+      "It won't be long before the armies",
+      "of the Republic track us here."
+    ],
+    "time": 3391
+  },
+  {
+    "id": 554,
+    "src": "/assets/starwars/episode3/554.png",
+    "sub": [
+      "I am sending you to the Mustafar system",
+      "in the outer rim."
+    ],
+    "time": 3398
+  },
+  {
+    "id": 555,
+    "src": "/assets/starwars/episode3/555.png",
+    "sub": [
+      "It is a volcanic planet."
+    ],
+    "time": 3410
+  },
+  {
+    "id": 556,
+    "src": "/assets/starwars/episode3/556.png",
+    "sub": [
+      "- You will be safe there.",
+      "- Safe?"
+    ],
+    "time": 3413
+  },
+  {
+    "id": 557,
+    "src": "/assets/starwars/episode3/557.png",
+    "sub": [
+      "Chancellor Palpatine managed",
+      "to escape your grip, General."
+    ],
+    "time": 3417
+  },
+  {
+    "id": 558,
+    "src": "/assets/starwars/episode3/558.png",
+    "sub": [
+      "Without Count Dooku, I have doubts",
+      "about your ability to keep us safe."
+    ],
+    "time": 3421
+  },
+  {
+    "id": 559,
+    "src": "/assets/starwars/episode3/559.png",
+    "sub": [
+      "Be thankful, Viceroy, you have not",
+      "found yourself in my grip."
+    ],
+    "time": 3426
+  },
+  {
+    "id": 560,
+    "src": "/assets/starwars/episode3/560.png",
+    "sub": [
+      "Your ship is waiting."
+    ],
+    "time": 3434
+  },
+  {
+    "id": 561,
+    "src": "/assets/starwars/episode3/561.png",
+    "sub": [
+      "Hello there."
+    ],
+    "time": 3454
+  },
+  {
+    "id": 562,
+    "src": "/assets/starwars/episode3/562.png",
+    "sub": [
+      "General Kenobi."
+    ],
+    "time": 3458
+  },
+  {
+    "id": 563,
+    "src": "/assets/starwars/episode3/563.png",
+    "sub": [
+      "You are a bold one."
+    ],
+    "time": 3463
+  },
+  {
+    "id": 564,
+    "src": "/assets/starwars/episode3/564.png",
+    "sub": [
+      "Kill him."
+    ],
+    "time": 3467
+  },
+  {
+    "id": 565,
+    "src": "/assets/starwars/episode3/565.png",
+    "sub": [
+      "Back away."
+    ],
+    "time": 3484
+  },
+  {
+    "id": 566,
+    "src": "/assets/starwars/episode3/566.png",
+    "sub": [
+      "I will deal with this Jedi slime myself."
+    ],
+    "time": 3487
+  },
+  {
+    "id": 567,
+    "src": "/assets/starwars/episode3/567.png",
+    "sub": [
+      "Your move."
+    ],
+    "time": 3491
+  },
+  {
+    "id": 568,
+    "src": "/assets/starwars/episode3/568.png",
+    "sub": [
+      "You fool."
+    ],
+    "time": 3493
+  },
+  {
+    "id": 569,
+    "src": "/assets/starwars/episode3/569.png",
+    "sub": [
+      "I've been trained in your",
+      "Jedi arts by Count Dooku."
+    ],
+    "time": 3497
+  },
+  {
+    "id": 570,
+    "src": "/assets/starwars/episode3/570.png",
+    "sub": [
+      "Attack, Kenobi."
+    ],
+    "time": 3508
+  },
+  {
+    "id": 571,
+    "src": "/assets/starwars/episode3/571.png",
+    "sub": [
+      "Go, go, go! Move it! Move it!"
+    ],
+    "time": 3568
+  },
+  {
+    "id": 572,
+    "src": "/assets/starwars/episode3/572.png",
+    "sub": [
+      "Everybody out.",
+      "Let's go, let's go, let's go."
+    ],
+    "time": 3570
+  },
+  {
+    "id": 573,
+    "src": "/assets/starwars/episode3/573.png",
+    "sub": [
+      "Cover yourself. Come on."
+    ],
+    "time": 3571
+  },
+  {
+    "id": 574,
+    "src": "/assets/starwars/episode3/574.png",
+    "sub": [
+      "Move it! Move it!"
+    ],
+    "time": 3579
+  },
+  {
+    "id": 575,
+    "src": "/assets/starwars/episode3/575.png",
+    "sub": [
+      "Come on, move! Come on, everybody!"
+    ],
+    "time": 3583
+  },
+  {
+    "id": 576,
+    "src": "/assets/starwars/episode3/576.png",
+    "sub": [
+      "Army or not..."
+    ],
+    "time": 3586
+  },
+  {
+    "id": 577,
+    "src": "/assets/starwars/episode3/577.png",
+    "sub": [
+      "you must realize you are doomed."
+    ],
+    "time": 3590
+  },
+  {
+    "id": 578,
+    "src": "/assets/starwars/episode3/578.png",
+    "sub": [
+      "I don't think so."
+    ],
+    "time": 3594
+  },
+  {
+    "id": 579,
+    "src": "/assets/starwars/episode3/579.png",
+    "sub": [
+      "Cover that corner."
+    ],
+    "time": 3654
+  },
+  {
+    "id": 580,
+    "src": "/assets/starwars/episode3/580.png",
+    "sub": [
+      "Master Windu, may I interrupt?"
+    ],
+    "time": 3662
+  },
+  {
+    "id": 581,
+    "src": "/assets/starwars/episode3/581.png",
+    "sub": [
+      "General Kenobi has made contact",
+      "with General Grievous..."
+    ],
+    "time": 3664
+  },
+  {
+    "id": 582,
+    "src": "/assets/starwars/episode3/582.png",
+    "sub": [
+      "and we have begun our attack."
+    ],
+    "time": 3667
+  },
+  {
+    "id": 583,
+    "src": "/assets/starwars/episode3/583.png",
+    "sub": [
+      "Thank you, Commander."
+    ],
+    "time": 3669
+  },
+  {
+    "id": 584,
+    "src": "/assets/starwars/episode3/584.png",
+    "sub": [
+      "Anakin, deliver this",
+      "report to the chancellor."
+    ],
+    "time": 3673
+  },
+  {
+    "id": 585,
+    "src": "/assets/starwars/episode3/585.png",
+    "sub": [
+      "His reaction will give us",
+      "a clue to his intentions."
+    ],
+    "time": 3676
+  },
+  {
+    "id": 586,
+    "src": "/assets/starwars/episode3/586.png",
+    "sub": [
+      "Yes, Master."
+    ],
+    "time": 3678
+  },
+  {
+    "id": 587,
+    "src": "/assets/starwars/episode3/587.png",
+    "sub": [
+      "I sense a plot to destroy the Jedi."
+    ],
+    "time": 3687
+  },
+  {
+    "id": 588,
+    "src": "/assets/starwars/episode3/588.png",
+    "sub": [
+      "The dark side of the Force",
+      "surrounds the chancellor."
+    ],
+    "time": 3690
+  },
+  {
+    "id": 589,
+    "src": "/assets/starwars/episode3/589.png",
+    "sub": [
+      "If he does not give up",
+      "his emergency powers..."
+    ],
+    "time": 3694
+  },
+  {
+    "id": 590,
+    "src": "/assets/starwars/episode3/590.png",
+    "sub": [
+      "after the destruction of Grievous..."
+    ],
+    "time": 3696
+  },
+  {
+    "id": 591,
+    "src": "/assets/starwars/episode3/591.png",
+    "sub": [
+      "then he should be removed from office."
+    ],
+    "time": 3698
+  },
+  {
+    "id": 592,
+    "src": "/assets/starwars/episode3/592.png",
+    "sub": [
+      "The Jedi Council would have to",
+      "take control of the senate..."
+    ],
+    "time": 3702
+  },
+  {
+    "id": 593,
+    "src": "/assets/starwars/episode3/593.png",
+    "sub": [
+      "in order to secure a peaceful transition."
+    ],
+    "time": 3704
+  },
+  {
+    "id": 594,
+    "src": "/assets/starwars/episode3/594.png",
+    "sub": [
+      "To a dark place this line",
+      "of thought will carry us."
+    ],
+    "time": 3707
+  },
+  {
+    "id": 595,
+    "src": "/assets/starwars/episode3/595.png",
+    "sub": [
+      "Great care we must take."
+    ],
+    "time": 3713
+  },
+  {
+    "id": 596,
+    "src": "/assets/starwars/episode3/596.png",
+    "sub": [
+      "Chancellor."
+    ],
+    "time": 3722
+  },
+  {
+    "id": 597,
+    "src": "/assets/starwars/episode3/597.png",
+    "sub": [
+      "We've just received a report",
+      "from Master Kenobi."
+    ],
+    "time": 3725
+  },
+  {
+    "id": 598,
+    "src": "/assets/starwars/episode3/598.png",
+    "sub": [
+      "He has engaged General Grievous."
+    ],
+    "time": 3727
+  },
+  {
+    "id": 599,
+    "src": "/assets/starwars/episode3/599.png",
+    "sub": [
+      "We can only hope that Master Kenobi",
+      "is up to the challenge."
+    ],
+    "time": 3731
+  },
+  {
+    "id": 600,
+    "src": "/assets/starwars/episode3/600.png",
+    "sub": [
+      "I should be there with him."
+    ],
+    "time": 3735
+  },
+  {
+    "id": 601,
+    "src": "/assets/starwars/episode3/601.png",
+    "sub": [
+      "It's upsetting to me",
+      "to see that the council..."
+    ],
+    "time": 3737
+  },
+  {
+    "id": 602,
+    "src": "/assets/starwars/episode3/602.png",
+    "sub": [
+      "doesn't seem to fully",
+      "appreciate your talents."
+    ],
+    "time": 3740
+  },
+  {
+    "id": 603,
+    "src": "/assets/starwars/episode3/603.png",
+    "sub": [
+      "Don't you wonder why",
+      "they won't make you a Jedi master?"
+    ],
+    "time": 3744
+  },
+  {
+    "id": 604,
+    "src": "/assets/starwars/episode3/604.png",
+    "sub": [
+      "I wish I knew."
+    ],
+    "time": 3749
+  },
+  {
+    "id": 605,
+    "src": "/assets/starwars/episode3/605.png",
+    "sub": [
+      "More and more I get the feeling that..."
+    ],
+    "time": 3752
+  },
+  {
+    "id": 606,
+    "src": "/assets/starwars/episode3/606.png",
+    "sub": [
+      "I'm being excluded from the council."
+    ],
+    "time": 3755
+  },
+  {
+    "id": 607,
+    "src": "/assets/starwars/episode3/607.png",
+    "sub": [
+      "I know there are things about the Force",
+      "that they're not telling me."
+    ],
+    "time": 3765
+  },
+  {
+    "id": 608,
+    "src": "/assets/starwars/episode3/608.png",
+    "sub": [
+      "They don't trust you, Anakin."
+    ],
+    "time": 3770
+  },
+  {
+    "id": 609,
+    "src": "/assets/starwars/episode3/609.png",
+    "sub": [
+      "They see your future."
+    ],
+    "time": 3774
+  },
+  {
+    "id": 610,
+    "src": "/assets/starwars/episode3/610.png",
+    "sub": [
+      "They know your power",
+      "will be too strong to control."
+    ],
+    "time": 3777
+  },
+  {
+    "id": 611,
+    "src": "/assets/starwars/episode3/611.png",
+    "sub": [
+      "You must break through the fog of lies",
+      "the Jedi have created around you."
+    ],
+    "time": 3782
+  },
+  {
+    "id": 612,
+    "src": "/assets/starwars/episode3/612.png",
+    "sub": [
+      "Let me help you to know",
+      "the subtleties of the Force."
+    ],
+    "time": 3789
+  },
+  {
+    "id": 613,
+    "src": "/assets/starwars/episode3/613.png",
+    "sub": [
+      "How do you know the ways of the Force?"
+    ],
+    "time": 3793
+  },
+  {
+    "id": 614,
+    "src": "/assets/starwars/episode3/614.png",
+    "sub": [
+      "My mentor taught me",
+      "everything about the Force."
+    ],
+    "time": 3796
+  },
+  {
+    "id": 615,
+    "src": "/assets/starwars/episode3/615.png",
+    "sub": [
+      "Even the nature of the dark side."
+    ],
+    "time": 3800
+  },
+  {
+    "id": 616,
+    "src": "/assets/starwars/episode3/616.png",
+    "sub": [
+      "You know the dark side?"
+    ],
+    "time": 3805
+  },
+  {
+    "id": 617,
+    "src": "/assets/starwars/episode3/617.png",
+    "sub": [
+      "If one is to understand",
+      "the great mystery..."
+    ],
+    "time": 3810
+  },
+  {
+    "id": 618,
+    "src": "/assets/starwars/episode3/618.png",
+    "sub": [
+      "one must study all its aspects..."
+    ],
+    "time": 3813
+  },
+  {
+    "id": 619,
+    "src": "/assets/starwars/episode3/619.png",
+    "sub": [
+      "not just the dogmatic",
+      "narrow view of the Jedi."
+    ],
+    "time": 3816
+  },
+  {
+    "id": 620,
+    "src": "/assets/starwars/episode3/620.png",
+    "sub": [
+      "If you wish to become",
+      "a complete and wise leader..."
+    ],
+    "time": 3820
+  },
+  {
+    "id": 621,
+    "src": "/assets/starwars/episode3/621.png",
+    "sub": [
+      "you must embrace a larger",
+      "view of the Force."
+    ],
+    "time": 3823
+  },
+  {
+    "id": 622,
+    "src": "/assets/starwars/episode3/622.png",
+    "sub": [
+      "Be careful of the Jedi, Anakin."
+    ],
+    "time": 3827
+  },
+  {
+    "id": 623,
+    "src": "/assets/starwars/episode3/623.png",
+    "sub": [
+      "Only through me can you achieve",
+      "a power greater than any Jedi."
+    ],
+    "time": 3831
+  },
+  {
+    "id": 624,
+    "src": "/assets/starwars/episode3/624.png",
+    "sub": [
+      "Learn to know the dark side of the Force..."
+    ],
+    "time": 3836
+  },
+  {
+    "id": 625,
+    "src": "/assets/starwars/episode3/625.png",
+    "sub": [
+      "and you will be able to save your wife..."
+    ],
+    "time": 3840
+  },
+  {
+    "id": 626,
+    "src": "/assets/starwars/episode3/626.png",
+    "sub": [
+      "from certain death."
+    ],
+    "time": 3843
+  },
+  {
+    "id": 627,
+    "src": "/assets/starwars/episode3/627.png",
+    "sub": [
+      "What did you say?"
+    ],
+    "time": 3846
+  },
+  {
+    "id": 628,
+    "src": "/assets/starwars/episode3/628.png",
+    "sub": [
+      "Use my knowledge. I beg you."
+    ],
+    "time": 3848
+  },
+  {
+    "id": 629,
+    "src": "/assets/starwars/episode3/629.png",
+    "sub": [
+      "You're the Sith lord."
+    ],
+    "time": 3853
+  },
+  {
+    "id": 630,
+    "src": "/assets/starwars/episode3/630.png",
+    "sub": [
+      "I know what's been troubling you.",
+      "Listen to me."
+    ],
+    "time": 3856
+  },
+  {
+    "id": 631,
+    "src": "/assets/starwars/episode3/631.png",
+    "sub": [
+      "Don't continue to be a pawn",
+      "of the Jedi Council."
+    ],
+    "time": 3861
+  },
+  {
+    "id": 632,
+    "src": "/assets/starwars/episode3/632.png",
+    "sub": [
+      "Ever since I've known you,",
+      "you've been searching for a life..."
+    ],
+    "time": 3867
+  },
+  {
+    "id": 633,
+    "src": "/assets/starwars/episode3/633.png",
+    "sub": [
+      "greater than that of an ordinary Jedi."
+    ],
+    "time": 3870
+  },
+  {
+    "id": 634,
+    "src": "/assets/starwars/episode3/634.png",
+    "sub": [
+      "A life of significance..."
+    ],
+    "time": 3872
+  },
+  {
+    "id": 635,
+    "src": "/assets/starwars/episode3/635.png",
+    "sub": [
+      "of conscience."
+    ],
+    "time": 3874
+  },
+  {
+    "id": 636,
+    "src": "/assets/starwars/episode3/636.png",
+    "sub": [
+      "- Are you going to kill me?",
+      "- I would certainly like to."
+    ],
+    "time": 3882
+  },
+  {
+    "id": 637,
+    "src": "/assets/starwars/episode3/637.png",
+    "sub": [
+      "I know you would."
+    ],
+    "time": 3887
+  },
+  {
+    "id": 638,
+    "src": "/assets/starwars/episode3/638.png",
+    "sub": [
+      "I can feel your anger."
+    ],
+    "time": 3890
+  },
+  {
+    "id": 639,
+    "src": "/assets/starwars/episode3/639.png",
+    "sub": [
+      "It gives you focus..."
+    ],
+    "time": 3893
+  },
+  {
+    "id": 640,
+    "src": "/assets/starwars/episode3/640.png",
+    "sub": [
+      "makes you stronger."
+    ],
+    "time": 3896
+  },
+  {
+    "id": 641,
+    "src": "/assets/starwars/episode3/641.png",
+    "sub": [
+      "I'm going to turn you over",
+      "to the Jedi Council."
+    ],
+    "time": 3904
+  },
+  {
+    "id": 642,
+    "src": "/assets/starwars/episode3/642.png",
+    "sub": [
+      "Of course. You should."
+    ],
+    "time": 3907
+  },
+  {
+    "id": 643,
+    "src": "/assets/starwars/episode3/643.png",
+    "sub": [
+      "But you're not sure",
+      "of their intentions, are you?"
+    ],
+    "time": 3909
+  },
+  {
+    "id": 644,
+    "src": "/assets/starwars/episode3/644.png",
+    "sub": [
+      "I will quickly discover",
+      "the truth of all this."
+    ],
+    "time": 3912
+  },
+  {
+    "id": 645,
+    "src": "/assets/starwars/episode3/645.png",
+    "sub": [
+      "You have great wisdom, Anakin."
+    ],
+    "time": 3915
+  },
+  {
+    "id": 646,
+    "src": "/assets/starwars/episode3/646.png",
+    "sub": [
+      "Know the power of the dark side."
+    ],
+    "time": 3919
+  },
+  {
+    "id": 647,
+    "src": "/assets/starwars/episode3/647.png",
+    "sub": [
+      "Power to save Padmé."
+    ],
+    "time": 3922
+  },
+  {
+    "id": 648,
+    "src": "/assets/starwars/episode3/648.png",
+    "sub": [
+      "So uncivilized."
+    ],
+    "time": 4052
+  },
+  {
+    "id": 649,
+    "src": "/assets/starwars/episode3/649.png",
+    "sub": [
+      "Master Windu, I must talk to you."
+    ],
+    "time": 4062
+  },
+  {
+    "id": 650,
+    "src": "/assets/starwars/episode3/650.png",
+    "sub": [
+      "Skywalker, we just received word that",
+      "Obi-Wan has destroyed General Grievous."
+    ],
+    "time": 4065
+  },
+  {
+    "id": 651,
+    "src": "/assets/starwars/episode3/651.png",
+    "sub": [
+      "We're on our way to make sure..."
+    ],
+    "time": 4068
+  },
+  {
+    "id": 652,
+    "src": "/assets/starwars/episode3/652.png",
+    "sub": [
+      "the chancellor returns",
+      "emergency power back to the senate."
+    ],
+    "time": 4070
+  },
+  {
+    "id": 653,
+    "src": "/assets/starwars/episode3/653.png",
+    "sub": [
+      "He won't give up his power.",
+      "I've just learned a terrible truth."
+    ],
+    "time": 4073
+  },
+  {
+    "id": 654,
+    "src": "/assets/starwars/episode3/654.png",
+    "sub": [
+      "I think Chancellor",
+      "Palpatine is a Sith lord."
+    ],
+    "time": 4076
+  },
+  {
+    "id": 655,
+    "src": "/assets/starwars/episode3/655.png",
+    "sub": [
+      "A Sith lord?"
+    ],
+    "time": 4079
+  },
+  {
+    "id": 656,
+    "src": "/assets/starwars/episode3/656.png",
+    "sub": [
+      "Yes. The one we've been looking for."
+    ],
+    "time": 4081
+  },
+  {
+    "id": 657,
+    "src": "/assets/starwars/episode3/657.png",
+    "sub": [
+      "- How do you know this?",
+      "- He knows the ways of the Force."
+    ],
+    "time": 4084
+  },
+  {
+    "id": 658,
+    "src": "/assets/starwars/episode3/658.png",
+    "sub": [
+      "He's been trained to use the dark side."
+    ],
+    "time": 4088
+  },
+  {
+    "id": 659,
+    "src": "/assets/starwars/episode3/659.png",
+    "sub": [
+      "- Are you sure?",
+      "- Absolutely."
+    ],
+    "time": 4090
+  },
+  {
+    "id": 660,
+    "src": "/assets/starwars/episode3/660.png",
+    "sub": [
+      "Then our worst fears have been realized."
+    ],
+    "time": 4095
+  },
+  {
+    "id": 661,
+    "src": "/assets/starwars/episode3/661.png",
+    "sub": [
+      "We must move quickly",
+      "if the Jedi order is to survive."
+    ],
+    "time": 4098
+  },
+  {
+    "id": 662,
+    "src": "/assets/starwars/episode3/662.png",
+    "sub": [
+      "Master, the chancellor is very powerful."
+    ],
+    "time": 4101
+  },
+  {
+    "id": 663,
+    "src": "/assets/starwars/episode3/663.png",
+    "sub": [
+      "You'll need my help",
+      "if you're going to arrest him."
+    ],
+    "time": 4103
+  },
+  {
+    "id": 664,
+    "src": "/assets/starwars/episode3/664.png",
+    "sub": [
+      "For you own good, stay out of this affair."
+    ],
+    "time": 4106
+  },
+  {
+    "id": 665,
+    "src": "/assets/starwars/episode3/665.png",
+    "sub": [
+      "I sense a great deal of confusion",
+      "in you, young Skywalker."
+    ],
+    "time": 4109
+  },
+  {
+    "id": 666,
+    "src": "/assets/starwars/episode3/666.png",
+    "sub": [
+      "There is much fear that",
+      "clouds your judgment."
+    ],
+    "time": 4111
+  },
+  {
+    "id": 667,
+    "src": "/assets/starwars/episode3/667.png",
+    "sub": [
+      "- I must go, Master.",
+      "- No."
+    ],
+    "time": 4114
+  },
+  {
+    "id": 668,
+    "src": "/assets/starwars/episode3/668.png",
+    "sub": [
+      "If what you've told me is true,",
+      "you will have gained my trust."
+    ],
+    "time": 4119
+  },
+  {
+    "id": 669,
+    "src": "/assets/starwars/episode3/669.png",
+    "sub": [
+      "But for now, remain here."
+    ],
+    "time": 4122
+  },
+  {
+    "id": 670,
+    "src": "/assets/starwars/episode3/670.png",
+    "sub": [
+      "Wait in the council",
+      "chambers until we return."
+    ],
+    "time": 4126
+  },
+  {
+    "id": 671,
+    "src": "/assets/starwars/episode3/671.png",
+    "sub": [
+      "Yes, Master."
+    ],
+    "time": 4130
+  },
+  {
+    "id": 672,
+    "src": "/assets/starwars/episode3/672.png",
+    "sub": [
+      "You do know, don't you..."
+    ],
+    "time": 4162
+  },
+  {
+    "id": 673,
+    "src": "/assets/starwars/episode3/673.png",
+    "sub": [
+      "if the Jedi destroy me..."
+    ],
+    "time": 4165
+  },
+  {
+    "id": 674,
+    "src": "/assets/starwars/episode3/674.png",
+    "sub": [
+      "any chance of saving her will be lost."
+    ],
+    "time": 4168
+  },
+  {
+    "id": 675,
+    "src": "/assets/starwars/episode3/675.png",
+    "sub": [
+      "Master Windu. I take it General Grievous",
+      "has been destroyed then."
+    ],
+    "time": 4261
+  },
+  {
+    "id": 676,
+    "src": "/assets/starwars/episode3/676.png",
+    "sub": [
+      "I must say you're here",
+      "sooner than expected."
+    ],
+    "time": 4265
+  },
+  {
+    "id": 677,
+    "src": "/assets/starwars/episode3/677.png",
+    "sub": [
+      "In the name of",
+      "the Galactic Senate of the Republic..."
+    ],
+    "time": 4268
+  },
+  {
+    "id": 678,
+    "src": "/assets/starwars/episode3/678.png",
+    "sub": [
+      "you're under arrest, Chancellor."
+    ],
+    "time": 4271
+  },
+  {
+    "id": 679,
+    "src": "/assets/starwars/episode3/679.png",
+    "sub": [
+      "Are you threatening me, Master Jedi?"
+    ],
+    "time": 4274
+  },
+  {
+    "id": 680,
+    "src": "/assets/starwars/episode3/680.png",
+    "sub": [
+      "The senate will decide your fate."
+    ],
+    "time": 4276
+  },
+  {
+    "id": 681,
+    "src": "/assets/starwars/episode3/681.png",
+    "sub": [
+      "- I am the senate.",
+      "- Not yet."
+    ],
+    "time": 4279
+  },
+  {
+    "id": 682,
+    "src": "/assets/starwars/episode3/682.png",
+    "sub": [
+      "It's treason then."
+    ],
+    "time": 4287
+  },
+  {
+    "id": 683,
+    "src": "/assets/starwars/episode3/683.png",
+    "sub": [
+      "You are under arrest, my lord."
+    ],
+    "time": 4389
+  },
+  {
+    "id": 684,
+    "src": "/assets/starwars/episode3/684.png",
+    "sub": [
+      "Anakin, I told you it would",
+      "come to this. I was right."
+    ],
+    "time": 4394
+  },
+  {
+    "id": 685,
+    "src": "/assets/starwars/episode3/685.png",
+    "sub": [
+      "The Jedi are taking over."
+    ],
+    "time": 4398
+  },
+  {
+    "id": 686,
+    "src": "/assets/starwars/episode3/686.png",
+    "sub": [
+      "The oppression of the",
+      "Sith will never return."
+    ],
+    "time": 4400
+  },
+  {
+    "id": 687,
+    "src": "/assets/starwars/episode3/687.png",
+    "sub": [
+      "You have lost."
+    ],
+    "time": 4403
+  },
+  {
+    "id": 688,
+    "src": "/assets/starwars/episode3/688.png",
+    "sub": [
+      "You will die!"
+    ],
+    "time": 4409
+  },
+  {
+    "id": 689,
+    "src": "/assets/starwars/episode3/689.png",
+    "sub": [
+      "He's a traitor!"
+    ],
+    "time": 4413
+  },
+  {
+    "id": 690,
+    "src": "/assets/starwars/episode3/690.png",
+    "sub": [
+      "He is the traitor!"
+    ],
+    "time": 4415
+  },
+  {
+    "id": 691,
+    "src": "/assets/starwars/episode3/691.png",
+    "sub": [
+      "I have the power to save the one you love."
+    ],
+    "time": 4422
+  },
+  {
+    "id": 692,
+    "src": "/assets/starwars/episode3/692.png",
+    "sub": [
+      "You must choose."
+    ],
+    "time": 4426
+  },
+  {
+    "id": 693,
+    "src": "/assets/starwars/episode3/693.png",
+    "sub": [
+      "Don't listen to him, Anakin!"
+    ],
+    "time": 4429
+  },
+  {
+    "id": 694,
+    "src": "/assets/starwars/episode3/694.png",
+    "sub": [
+      "Don't let him kill me."
+    ],
+    "time": 4433
+  },
+  {
+    "id": 695,
+    "src": "/assets/starwars/episode3/695.png",
+    "sub": [
+      "I can't hold it any longer."
+    ],
+    "time": 4438
+  },
+  {
+    "id": 696,
+    "src": "/assets/starwars/episode3/696.png",
+    "sub": [
+      "I can't. I'm weak."
+    ],
+    "time": 4442
+  },
+  {
+    "id": 697,
+    "src": "/assets/starwars/episode3/697.png",
+    "sub": [
+      "I'm too weak."
+    ],
+    "time": 4445
+  },
+  {
+    "id": 698,
+    "src": "/assets/starwars/episode3/698.png",
+    "sub": [
+      "Anakin!"
+    ],
+    "time": 4446
+  },
+  {
+    "id": 699,
+    "src": "/assets/starwars/episode3/699.png",
+    "sub": [
+      "Help me. Help me!"
+    ],
+    "time": 4448
+  },
+  {
+    "id": 700,
+    "src": "/assets/starwars/episode3/700.png",
+    "sub": [
+      "I can't hold on any longer."
+    ],
+    "time": 4455
+  },
+  {
+    "id": 701,
+    "src": "/assets/starwars/episode3/701.png",
+    "sub": [
+      "I am going to end this once and for all."
+    ],
+    "time": 4458
+  },
+  {
+    "id": 702,
+    "src": "/assets/starwars/episode3/702.png",
+    "sub": [
+      "You can't."
+    ],
+    "time": 4461
+  },
+  {
+    "id": 703,
+    "src": "/assets/starwars/episode3/703.png",
+    "sub": [
+      "He must stand trial."
+    ],
+    "time": 4463
+  },
+  {
+    "id": 704,
+    "src": "/assets/starwars/episode3/704.png",
+    "sub": [
+      "He has control of the",
+      "senate and the courts."
+    ],
+    "time": 4466
+  },
+  {
+    "id": 705,
+    "src": "/assets/starwars/episode3/705.png",
+    "sub": [
+      "He's too dangerous to be left alive."
+    ],
+    "time": 4468
+  },
+  {
+    "id": 706,
+    "src": "/assets/starwars/episode3/706.png",
+    "sub": [
+      "I'm too weak."
+    ],
+    "time": 4471
+  },
+  {
+    "id": 707,
+    "src": "/assets/starwars/episode3/707.png",
+    "sub": [
+      "- Don't kill me. Please.",
+      "- It's not the Jedi way."
+    ],
+    "time": 4474
+  },
+  {
+    "id": 708,
+    "src": "/assets/starwars/episode3/708.png",
+    "sub": [
+      "He must live."
+    ],
+    "time": 4476
+  },
+  {
+    "id": 709,
+    "src": "/assets/starwars/episode3/709.png",
+    "sub": [
+      "- Please don't.",
+      "- I need him."
+    ],
+    "time": 4481
+  },
+  {
+    "id": 710,
+    "src": "/assets/starwars/episode3/710.png",
+    "sub": [
+      "Please don't!"
+    ],
+    "time": 4484
+  },
+  {
+    "id": 711,
+    "src": "/assets/starwars/episode3/711.png",
+    "sub": [
+      "Power!"
+    ],
+    "time": 4493
+  },
+  {
+    "id": 712,
+    "src": "/assets/starwars/episode3/712.png",
+    "sub": [
+      "Unlimited power!"
+    ],
+    "time": 4503
+  },
+  {
+    "id": 713,
+    "src": "/assets/starwars/episode3/713.png",
+    "sub": [
+      "What have I done?"
+    ],
+    "time": 4518
+  },
+  {
+    "id": 714,
+    "src": "/assets/starwars/episode3/714.png",
+    "sub": [
+      "You're fulfilling your destiny, Anakin."
+    ],
+    "time": 4529
+  },
+  {
+    "id": 715,
+    "src": "/assets/starwars/episode3/715.png",
+    "sub": [
+      "Become my apprentice."
+    ],
+    "time": 4533
+  },
+  {
+    "id": 716,
+    "src": "/assets/starwars/episode3/716.png",
+    "sub": [
+      "Learn to use the dark side of the Force."
+    ],
+    "time": 4537
+  },
+  {
+    "id": 717,
+    "src": "/assets/starwars/episode3/717.png",
+    "sub": [
+      "I will do whatever you ask."
+    ],
+    "time": 4544
+  },
+  {
+    "id": 718,
+    "src": "/assets/starwars/episode3/718.png",
+    "sub": [
+      "Good."
+    ],
+    "time": 4549
+  },
+  {
+    "id": 719,
+    "src": "/assets/starwars/episode3/719.png",
+    "sub": [
+      "Just help me save Padmé's life."
+    ],
+    "time": 4553
+  },
+  {
+    "id": 720,
+    "src": "/assets/starwars/episode3/720.png",
+    "sub": [
+      "I can't live without her."
+    ],
+    "time": 4558
+  },
+  {
+    "id": 721,
+    "src": "/assets/starwars/episode3/721.png",
+    "sub": [
+      "To cheat death is a power",
+      "only one has achieved..."
+    ],
+    "time": 4565
+  },
+  {
+    "id": 722,
+    "src": "/assets/starwars/episode3/722.png",
+    "sub": [
+      "but if we work together..."
+    ],
+    "time": 4569
+  },
+  {
+    "id": 723,
+    "src": "/assets/starwars/episode3/723.png",
+    "sub": [
+      "I know we can discover the secret."
+    ],
+    "time": 4573
+  },
+  {
+    "id": 724,
+    "src": "/assets/starwars/episode3/724.png",
+    "sub": [
+      "I pledge myself..."
+    ],
+    "time": 4577
+  },
+  {
+    "id": 725,
+    "src": "/assets/starwars/episode3/725.png",
+    "sub": [
+      "to your teachings."
+    ],
+    "time": 4581
+  },
+  {
+    "id": 726,
+    "src": "/assets/starwars/episode3/726.png",
+    "sub": [
+      "Good."
+    ],
+    "time": 4584
+  },
+  {
+    "id": 727,
+    "src": "/assets/starwars/episode3/727.png",
+    "sub": [
+      "Good."
+    ],
+    "time": 4587
+  },
+  {
+    "id": 728,
+    "src": "/assets/starwars/episode3/728.png",
+    "sub": [
+      "The Force is strong with you."
+    ],
+    "time": 4598
+  },
+  {
+    "id": 729,
+    "src": "/assets/starwars/episode3/729.png",
+    "sub": [
+      "A powerful Sith you will become."
+    ],
+    "time": 4603
+  },
+  {
+    "id": 730,
+    "src": "/assets/starwars/episode3/730.png",
+    "sub": [
+      "Henceforth you shall be known as..."
+    ],
+    "time": 4608
+  },
+  {
+    "id": 731,
+    "src": "/assets/starwars/episode3/731.png",
+    "sub": [
+      "Darth... Vader."
+    ],
+    "time": 4613
+  },
+  {
+    "id": 732,
+    "src": "/assets/starwars/episode3/732.png",
+    "sub": [
+      "Thank you, my master."
+    ],
+    "time": 4621
+  },
+  {
+    "id": 733,
+    "src": "/assets/starwars/episode3/733.png",
+    "sub": [
+      "Rise."
+    ],
+    "time": 4625
+  },
+  {
+    "id": 734,
+    "src": "/assets/starwars/episode3/734.png",
+    "sub": [
+      "Because the council did not trust you,",
+      "my young apprentice..."
+    ],
+    "time": 4643
+  },
+  {
+    "id": 735,
+    "src": "/assets/starwars/episode3/735.png",
+    "sub": [
+      "I believe you are the only Jedi",
+      "with no knowledge of this plot."
+    ],
+    "time": 4649
+  },
+  {
+    "id": 736,
+    "src": "/assets/starwars/episode3/736.png",
+    "sub": [
+      "When the Jedi learn",
+      "what has transpired here..."
+    ],
+    "time": 4654
+  },
+  {
+    "id": 737,
+    "src": "/assets/starwars/episode3/737.png",
+    "sub": [
+      "they will kill us,",
+      "along with all the senators."
+    ],
+    "time": 4657
+  },
+  {
+    "id": 738,
+    "src": "/assets/starwars/episode3/738.png",
+    "sub": [
+      "I agree."
+    ],
+    "time": 4661
+  },
+  {
+    "id": 739,
+    "src": "/assets/starwars/episode3/739.png",
+    "sub": [
+      "The council's next move",
+      "will be against the senate."
+    ],
+    "time": 4664
+  },
+  {
+    "id": 740,
+    "src": "/assets/starwars/episode3/740.png",
+    "sub": [
+      "Every single Jedi..."
+    ],
+    "time": 4667
+  },
+  {
+    "id": 741,
+    "src": "/assets/starwars/episode3/741.png",
+    "sub": [
+      "including your friend Obi-Wan Kenobi..."
+    ],
+    "time": 4670
+  },
+  {
+    "id": 742,
+    "src": "/assets/starwars/episode3/742.png",
+    "sub": [
+      "is now an enemy of the Republic."
+    ],
+    "time": 4674
+  },
+  {
+    "id": 743,
+    "src": "/assets/starwars/episode3/743.png",
+    "sub": [
+      "I understand, Master."
+    ],
+    "time": 4678
+  },
+  {
+    "id": 744,
+    "src": "/assets/starwars/episode3/744.png",
+    "sub": [
+      "We must move quickly."
+    ],
+    "time": 4681
+  },
+  {
+    "id": 745,
+    "src": "/assets/starwars/episode3/745.png",
+    "sub": [
+      "The Jedi are relentless."
+    ],
+    "time": 4683
+  },
+  {
+    "id": 746,
+    "src": "/assets/starwars/episode3/746.png",
+    "sub": [
+      "If they are not all destroyed,",
+      "it will be civil war without end."
+    ],
+    "time": 4687
+  },
+  {
+    "id": 747,
+    "src": "/assets/starwars/episode3/747.png",
+    "sub": [
+      "First I want you to go to the Jedi temple."
+    ],
+    "time": 4693
+  },
+  {
+    "id": 748,
+    "src": "/assets/starwars/episode3/748.png",
+    "sub": [
+      "We will catch them off-balance."
+    ],
+    "time": 4697
+  },
+  {
+    "id": 749,
+    "src": "/assets/starwars/episode3/749.png",
+    "sub": [
+      "Do what must be done, Lord Vader."
+    ],
+    "time": 4701
+  },
+  {
+    "id": 750,
+    "src": "/assets/starwars/episode3/750.png",
+    "sub": [
+      "Do not hesitate. Show no mercy."
+    ],
+    "time": 4705
+  },
+  {
+    "id": 751,
+    "src": "/assets/starwars/episode3/751.png",
+    "sub": [
+      "Only then will you be strong enough",
+      "with the dark side..."
+    ],
+    "time": 4710
+  },
+  {
+    "id": 752,
+    "src": "/assets/starwars/episode3/752.png",
+    "sub": [
+      "to save Padmé."
+    ],
+    "time": 4714
+  },
+  {
+    "id": 753,
+    "src": "/assets/starwars/episode3/753.png",
+    "sub": [
+      "What about the other Jedi",
+      "spread across the galaxy?"
+    ],
+    "time": 4718
+  },
+  {
+    "id": 754,
+    "src": "/assets/starwars/episode3/754.png",
+    "sub": [
+      "Their betrayal will be dealt with."
+    ],
+    "time": 4721
+  },
+  {
+    "id": 755,
+    "src": "/assets/starwars/episode3/755.png",
+    "sub": [
+      "After you have killed",
+      "all the Jedi in the temple..."
+    ],
+    "time": 4726
+  },
+  {
+    "id": 756,
+    "src": "/assets/starwars/episode3/756.png",
+    "sub": [
+      "go to the Mustafar system."
+    ],
+    "time": 4729
+  },
+  {
+    "id": 757,
+    "src": "/assets/starwars/episode3/757.png",
+    "sub": [
+      "Wipe out Viceroy Gunray..."
+    ],
+    "time": 4732
+  },
+  {
+    "id": 758,
+    "src": "/assets/starwars/episode3/758.png",
+    "sub": [
+      "and the other separatist leaders."
+    ],
+    "time": 4736
+  },
+  {
+    "id": 759,
+    "src": "/assets/starwars/episode3/759.png",
+    "sub": [
+      "Once more the Sith will rule the galaxy!"
+    ],
+    "time": 4741
+  },
+  {
+    "id": 760,
+    "src": "/assets/starwars/episode3/760.png",
+    "sub": [
+      "And..."
+    ],
+    "time": 4746
+  },
+  {
+    "id": 761,
+    "src": "/assets/starwars/episode3/761.png",
+    "sub": [
+      "we shall have... peace."
+    ],
+    "time": 4749
+  },
+  {
+    "id": 762,
+    "src": "/assets/starwars/episode3/762.png",
+    "sub": [
+      "Sergeant, over here!"
+    ],
+    "time": 4796
+  },
+  {
+    "id": 763,
+    "src": "/assets/starwars/episode3/763.png",
+    "sub": [
+      "Hurry! All of them!"
+    ],
+    "time": 4799
+  },
+  {
+    "id": 764,
+    "src": "/assets/starwars/episode3/764.png",
+    "sub": [
+      "All Red units, let's move it!"
+    ],
+    "time": 4804
+  },
+  {
+    "id": 765,
+    "src": "/assets/starwars/episode3/765.png",
+    "sub": [
+      "Come on. Let's go!"
+    ],
+    "time": 4806
+  },
+  {
+    "id": 766,
+    "src": "/assets/starwars/episode3/766.png",
+    "sub": [
+      "Commander, contact your troops."
+    ],
+    "time": 4821
+  },
+  {
+    "id": 767,
+    "src": "/assets/starwars/episode3/767.png",
+    "sub": [
+      "Tell them to move to the higher levels."
+    ],
+    "time": 4823
+  },
+  {
+    "id": 768,
+    "src": "/assets/starwars/episode3/768.png",
+    "sub": [
+      "Very good, sir."
+    ],
+    "time": 4825
+  },
+  {
+    "id": 769,
+    "src": "/assets/starwars/episode3/769.png",
+    "sub": [
+      "By the way, I think you'll be needing this."
+    ],
+    "time": 4828
+  },
+  {
+    "id": 770,
+    "src": "/assets/starwars/episode3/770.png",
+    "sub": [
+      "Thank you, Cody. Let's get a move on.",
+      "We've got a battle to win."
+    ],
+    "time": 4831
+  },
+  {
+    "id": 771,
+    "src": "/assets/starwars/episode3/771.png",
+    "sub": [
+      "Yes, sir."
+    ],
+    "time": 4833
+  },
+  {
+    "id": 772,
+    "src": "/assets/starwars/episode3/772.png",
+    "sub": [
+      "Commander Cody..."
+    ],
+    "time": 4842
+  },
+  {
+    "id": 773,
+    "src": "/assets/starwars/episode3/773.png",
+    "sub": [
+      "the time has come."
+    ],
+    "time": 4845
+  },
+  {
+    "id": 774,
+    "src": "/assets/starwars/episode3/774.png",
+    "sub": [
+      "Execute order 66."
+    ],
+    "time": 4849
+  },
+  {
+    "id": 775,
+    "src": "/assets/starwars/episode3/775.png",
+    "sub": [
+      "Yes, my lord."
+    ],
+    "time": 4853
+  },
+  {
+    "id": 776,
+    "src": "/assets/starwars/episode3/776.png",
+    "sub": [
+      "Blast him!"
+    ],
+    "time": 4858
+  },
+  {
+    "id": 777,
+    "src": "/assets/starwars/episode3/777.png",
+    "sub": [
+      "Come on!"
+    ],
+    "time": 4886
+  },
+  {
+    "id": 778,
+    "src": "/assets/starwars/episode3/778.png",
+    "sub": [
+      "Execute order 66."
+    ],
+    "time": 4939
+  },
+  {
+    "id": 779,
+    "src": "/assets/starwars/episode3/779.png",
+    "sub": [
+      "It will be done, my lord."
+    ],
+    "time": 4943
+  },
+  {
+    "id": 780,
+    "src": "/assets/starwars/episode3/780.png",
+    "sub": [
+      "It will be done, my lord."
+    ],
+    "time": 4987
+  },
+  {
+    "id": 781,
+    "src": "/assets/starwars/episode3/781.png",
+    "sub": [
+      "Master Skywalker, there",
+      "are too many of them."
+    ],
+    "time": 5026
+  },
+  {
+    "id": 782,
+    "src": "/assets/starwars/episode3/782.png",
+    "sub": [
+      "What are we going to do?"
+    ],
+    "time": 5029
+  },
+  {
+    "id": 783,
+    "src": "/assets/starwars/episode3/783.png",
+    "sub": [
+      "The chancellor's office indicated Master",
+      "Anakin returned to the Jedi temple."
+    ],
+    "time": 5042
+  },
+  {
+    "id": 784,
+    "src": "/assets/starwars/episode3/784.png",
+    "sub": [
+      "Don't worry. I'm sure he'll be all right."
+    ],
+    "time": 5046
+  },
+  {
+    "id": 785,
+    "src": "/assets/starwars/episode3/785.png",
+    "sub": [
+      "- What's going on here?",
+      "- There's been a rebellion, sir."
+    ],
+    "time": 5078
+  },
+  {
+    "id": 786,
+    "src": "/assets/starwars/episode3/786.png",
+    "sub": [
+      "Don't worry.",
+      "The situation is under control."
+    ],
+    "time": 5081
+  },
+  {
+    "id": 787,
+    "src": "/assets/starwars/episode3/787.png",
+    "sub": [
+      "I'm sorry, sir. It's time for you to leave."
+    ],
+    "time": 5084
+  },
+  {
+    "id": 788,
+    "src": "/assets/starwars/episode3/788.png",
+    "sub": [
+      "And so it is."
+    ],
+    "time": 5089
+  },
+  {
+    "id": 789,
+    "src": "/assets/starwars/episode3/789.png",
+    "sub": [
+      "Get him!"
+    ],
+    "time": 5094
+  },
+  {
+    "id": 790,
+    "src": "/assets/starwars/episode3/790.png",
+    "sub": [
+      "Don't worry about him. Let him go."
+    ],
+    "time": 5114
+  },
+  {
+    "id": 791,
+    "src": "/assets/starwars/episode3/791.png",
+    "sub": [
+      "All these Wookiees are dead.",
+      "Move to the east."
+    ],
+    "time": 5143
+  },
+  {
+    "id": 792,
+    "src": "/assets/starwars/episode3/792.png",
+    "sub": [
+      "Yes, sir."
+    ],
+    "time": 5145
+  },
+  {
+    "id": 793,
+    "src": "/assets/starwars/episode3/793.png",
+    "sub": [
+      "Good-bye, Tarfful."
+    ],
+    "time": 5155
+  },
+  {
+    "id": 794,
+    "src": "/assets/starwars/episode3/794.png",
+    "sub": [
+      "Good-bye, Chewbacca."
+    ],
+    "time": 5157
+  },
+  {
+    "id": 795,
+    "src": "/assets/starwars/episode3/795.png",
+    "sub": [
+      "Miss you I will."
+    ],
+    "time": 5162
+  },
+  {
+    "id": 796,
+    "src": "/assets/starwars/episode3/796.png",
+    "sub": [
+      "Hopefully we'll be able to",
+      "intercept a few Jedi..."
+    ],
+    "time": 5201
+  },
+  {
+    "id": 797,
+    "src": "/assets/starwars/episode3/797.png",
+    "sub": [
+      "before they walk into this catastrophe."
+    ],
+    "time": 5203
+  },
+  {
+    "id": 798,
+    "src": "/assets/starwars/episode3/798.png",
+    "sub": [
+      "Did you find Kenobi?"
+    ],
+    "time": 5211
+  },
+  {
+    "id": 799,
+    "src": "/assets/starwars/episode3/799.png",
+    "sub": [
+      "Sir, no one could have survived that fall."
+    ],
+    "time": 5213
+  },
+  {
+    "id": 800,
+    "src": "/assets/starwars/episode3/800.png",
+    "sub": [
+      "Start loading your men on the ships."
+    ],
+    "time": 5216
+  },
+  {
+    "id": 801,
+    "src": "/assets/starwars/episode3/801.png",
+    "sub": [
+      "Move it."
+    ],
+    "time": 5218
+  },
+  {
+    "id": 802,
+    "src": "/assets/starwars/episode3/802.png",
+    "sub": [
+      "Emergency code 913."
+    ],
+    "time": 5254
+  },
+  {
+    "id": 803,
+    "src": "/assets/starwars/episode3/803.png",
+    "sub": [
+      "I have no contact on any frequency."
+    ],
+    "time": 5256
+  },
+  {
+    "id": 804,
+    "src": "/assets/starwars/episode3/804.png",
+    "sub": [
+      "Master Kenobi."
+    ],
+    "time": 5260
+  },
+  {
+    "id": 805,
+    "src": "/assets/starwars/episode3/805.png",
+    "sub": [
+      "- Repeat.",
+      "- Master Kenobi."
+    ],
+    "time": 5262
+  },
+  {
+    "id": 806,
+    "src": "/assets/starwars/episode3/806.png",
+    "sub": [
+      "Senator Organa. My clone troops",
+      "turned on me. I need help."
+    ],
+    "time": 5265
+  },
+  {
+    "id": 807,
+    "src": "/assets/starwars/episode3/807.png",
+    "sub": [
+      "We have just rescued Master Yoda."
+    ],
+    "time": 5269
+  },
+  {
+    "id": 808,
+    "src": "/assets/starwars/episode3/808.png",
+    "sub": [
+      "It appears this ambush",
+      "has happened everywhere."
+    ],
+    "time": 5271
+  },
+  {
+    "id": 809,
+    "src": "/assets/starwars/episode3/809.png",
+    "sub": [
+      "We're sending you our coordinates."
+    ],
+    "time": 5273
+  },
+  {
+    "id": 810,
+    "src": "/assets/starwars/episode3/810.png",
+    "sub": [
+      "Hush! Not so loud."
+    ],
+    "time": 5283
+  },
+  {
+    "id": 811,
+    "src": "/assets/starwars/episode3/811.png",
+    "sub": [
+      "Are you all right? I heard there was",
+      "an attack on the Jedi temple."
+    ],
+    "time": 5285
+  },
+  {
+    "id": 812,
+    "src": "/assets/starwars/episode3/812.png",
+    "sub": [
+      "- You could see the smoke from here.",
+      "- I'm fine."
+    ],
+    "time": 5288
+  },
+  {
+    "id": 813,
+    "src": "/assets/starwars/episode3/813.png",
+    "sub": [
+      "I came to see if you and the baby are safe."
+    ],
+    "time": 5291
+  },
+  {
+    "id": 814,
+    "src": "/assets/starwars/episode3/814.png",
+    "sub": [
+      "What's happening?"
+    ],
+    "time": 5292
+  },
+  {
+    "id": 815,
+    "src": "/assets/starwars/episode3/815.png",
+    "sub": [
+      "The Jedi have tried to",
+      "overthrow the Republic."
+    ],
+    "time": 5295
+  },
+  {
+    "id": 816,
+    "src": "/assets/starwars/episode3/816.png",
+    "sub": [
+      "I can't believe that."
+    ],
+    "time": 5298
+  },
+  {
+    "id": 817,
+    "src": "/assets/starwars/episode3/817.png",
+    "sub": [
+      "I saw Master Windu attempt to",
+      "assassinate the chancellor myself."
+    ],
+    "time": 5301
+  },
+  {
+    "id": 818,
+    "src": "/assets/starwars/episode3/818.png",
+    "sub": [
+      "What are you gonna do?"
+    ],
+    "time": 5306
+  },
+  {
+    "id": 819,
+    "src": "/assets/starwars/episode3/819.png",
+    "sub": [
+      "I will not betray the Republic."
+    ],
+    "time": 5317
+  },
+  {
+    "id": 820,
+    "src": "/assets/starwars/episode3/820.png",
+    "sub": [
+      "My loyalties lie with the chancellor..."
+    ],
+    "time": 5321
+  },
+  {
+    "id": 821,
+    "src": "/assets/starwars/episode3/821.png",
+    "sub": [
+      "and with the senate and with you."
+    ],
+    "time": 5324
+  },
+  {
+    "id": 822,
+    "src": "/assets/starwars/episode3/822.png",
+    "sub": [
+      "- What about Obi-Wan?",
+      "- I don't know."
+    ],
+    "time": 5328
+  },
+  {
+    "id": 823,
+    "src": "/assets/starwars/episode3/823.png",
+    "sub": [
+      "Many Jedi have been killed."
+    ],
+    "time": 5332
+  },
+  {
+    "id": 824,
+    "src": "/assets/starwars/episode3/824.png",
+    "sub": [
+      "We can only hope that",
+      "he's remained loyal to the chancellor."
+    ],
+    "time": 5334
+  },
+  {
+    "id": 825,
+    "src": "/assets/starwars/episode3/825.png",
+    "sub": [
+      "Anakin, I'm afraid."
+    ],
+    "time": 5338
+  },
+  {
+    "id": 826,
+    "src": "/assets/starwars/episode3/826.png",
+    "sub": [
+      "Have faith, my love."
+    ],
+    "time": 5343
+  },
+  {
+    "id": 827,
+    "src": "/assets/starwars/episode3/827.png",
+    "sub": [
+      "Everything will soon be set right."
+    ],
+    "time": 5345
+  },
+  {
+    "id": 828,
+    "src": "/assets/starwars/episode3/828.png",
+    "sub": [
+      "The chancellor has given me",
+      "a very important mission."
+    ],
+    "time": 5348
+  },
+  {
+    "id": 829,
+    "src": "/assets/starwars/episode3/829.png",
+    "sub": [
+      "The separatists have gathered",
+      "on the Mustafar system."
+    ],
+    "time": 5352
+  },
+  {
+    "id": 830,
+    "src": "/assets/starwars/episode3/830.png",
+    "sub": [
+      "I'm going there to end this war.",
+      "Wait for me until I return."
+    ],
+    "time": 5356
+  },
+  {
+    "id": 831,
+    "src": "/assets/starwars/episode3/831.png",
+    "sub": [
+      "Things will be different. I promise."
+    ],
+    "time": 5359
+  },
+  {
+    "id": 832,
+    "src": "/assets/starwars/episode3/832.png",
+    "sub": [
+      "Please, wait for me."
+    ],
+    "time": 5367
+  },
+  {
+    "id": 833,
+    "src": "/assets/starwars/episode3/833.png",
+    "sub": [
+      "Well, he is under a lot of stress, R2."
+    ],
+    "time": 5373
+  },
+  {
+    "id": 834,
+    "src": "/assets/starwars/episode3/834.png",
+    "sub": [
+      "Take care, my little friend."
+    ],
+    "time": 5378
+  },
+  {
+    "id": 835,
+    "src": "/assets/starwars/episode3/835.png",
+    "sub": [
+      "Oh, my lady, is there anything I might do?"
+    ],
+    "time": 5385
+  },
+  {
+    "id": 836,
+    "src": "/assets/starwars/episode3/836.png",
+    "sub": [
+      "No, thank you, 3PO."
+    ],
+    "time": 5388
+  },
+  {
+    "id": 837,
+    "src": "/assets/starwars/episode3/837.png",
+    "sub": [
+      "I feel so helpless."
+    ],
+    "time": 5393
+  },
+  {
+    "id": 838,
+    "src": "/assets/starwars/episode3/838.png",
+    "sub": [
+      "How many other Jedi have managed to survive?"
+    ],
+    "time": 5419
+  },
+  {
+    "id": 839,
+    "src": "/assets/starwars/episode3/839.png",
+    "sub": [
+      "Heard from no one have we."
+    ],
+    "time": 5422
+  },
+  {
+    "id": 840,
+    "src": "/assets/starwars/episode3/840.png",
+    "sub": [
+      "I saw thousands of troops",
+      "attack the Jedi temple."
+    ],
+    "time": 5426
+  },
+  {
+    "id": 841,
+    "src": "/assets/starwars/episode3/841.png",
+    "sub": [
+      "That's why I went looking for Yoda."
+    ],
+    "time": 5429
+  },
+  {
+    "id": 842,
+    "src": "/assets/starwars/episode3/842.png",
+    "sub": [
+      "Have we had any contact from the temple?"
+    ],
+    "time": 5431
+  },
+  {
+    "id": 843,
+    "src": "/assets/starwars/episode3/843.png",
+    "sub": [
+      "Received a coded retreat message we have."
+    ],
+    "time": 5433
+  },
+  {
+    "id": 844,
+    "src": "/assets/starwars/episode3/844.png",
+    "sub": [
+      "It requests all Jedi to",
+      "return to the temple."
+    ],
+    "time": 5437
+  },
+  {
+    "id": 845,
+    "src": "/assets/starwars/episode3/845.png",
+    "sub": [
+      "- It says the war is over.",
+      "- Then we must go back."
+    ],
+    "time": 5441
+  },
+  {
+    "id": 846,
+    "src": "/assets/starwars/episode3/846.png",
+    "sub": [
+      "If there are any stragglers, they will",
+      "fall into the trap and be killed."
+    ],
+    "time": 5444
+  },
+  {
+    "id": 847,
+    "src": "/assets/starwars/episode3/847.png",
+    "sub": [
+      "Suggest dismantling the",
+      "coded signal, do you?"
+    ],
+    "time": 5449
+  },
+  {
+    "id": 848,
+    "src": "/assets/starwars/episode3/848.png",
+    "sub": [
+      "Yes, Master. There is too much at stake."
+    ],
+    "time": 5452
+  },
+  {
+    "id": 849,
+    "src": "/assets/starwars/episode3/849.png",
+    "sub": [
+      "I agree."
+    ],
+    "time": 5456
+  },
+  {
+    "id": 850,
+    "src": "/assets/starwars/episode3/850.png",
+    "sub": [
+      "And a little more knowledge",
+      "might light our way."
+    ],
+    "time": 5459
+  },
+  {
+    "id": 851,
+    "src": "/assets/starwars/episode3/851.png",
+    "sub": [
+      "The plan has gone",
+      "as you had promised, my lord."
+    ],
+    "time": 5483
+  },
+  {
+    "id": 852,
+    "src": "/assets/starwars/episode3/852.png",
+    "sub": [
+      "You have done well, Viceroy."
+    ],
+    "time": 5486
+  },
+  {
+    "id": 853,
+    "src": "/assets/starwars/episode3/853.png",
+    "sub": [
+      "When my new apprentice",
+      "Darth Vader arrives..."
+    ],
+    "time": 5491
+  },
+  {
+    "id": 854,
+    "src": "/assets/starwars/episode3/854.png",
+    "sub": [
+      "he will take care of you."
+    ],
+    "time": 5495
+  },
+  {
+    "id": 855,
+    "src": "/assets/starwars/episode3/855.png",
+    "sub": [
+      "We're receiving a message from",
+      "the chancellor's office, sir."
+    ],
+    "time": 5511
+  },
+  {
+    "id": 856,
+    "src": "/assets/starwars/episode3/856.png",
+    "sub": [
+      "- Send it through.",
+      "- Yes, sir."
+    ],
+    "time": 5513
+  },
+  {
+    "id": 857,
+    "src": "/assets/starwars/episode3/857.png",
+    "sub": [
+      "Senator Organa, the supreme chancellor",
+      "requests your presence..."
+    ],
+    "time": 5518
+  },
+  {
+    "id": 858,
+    "src": "/assets/starwars/episode3/858.png",
+    "sub": [
+      "at a special session of Congress."
+    ],
+    "time": 5522
+  },
+  {
+    "id": 859,
+    "src": "/assets/starwars/episode3/859.png",
+    "sub": [
+      "- I will be there.",
+      "- He'll be expecting you."
+    ],
+    "time": 5524
+  },
+  {
+    "id": 860,
+    "src": "/assets/starwars/episode3/860.png",
+    "sub": [
+      "- Could be a trap.",
+      "- I don't think so."
+    ],
+    "time": 5531
+  },
+  {
+    "id": 861,
+    "src": "/assets/starwars/episode3/861.png",
+    "sub": [
+      "The chancellor will not be able to",
+      "control the thousands of star systems..."
+    ],
+    "time": 5534
+  },
+  {
+    "id": 862,
+    "src": "/assets/starwars/episode3/862.png",
+    "sub": [
+      "without keeping the senate intact."
+    ],
+    "time": 5537
+  },
+  {
+    "id": 863,
+    "src": "/assets/starwars/episode3/863.png",
+    "sub": [
+      "If a special session of",
+      "Congress there is..."
+    ],
+    "time": 5540
+  },
+  {
+    "id": 864,
+    "src": "/assets/starwars/episode3/864.png",
+    "sub": [
+      "easier for us to enter",
+      "the Jedi temple it will be."
+    ],
+    "time": 5543
+  },
+  {
+    "id": 865,
+    "src": "/assets/starwars/episode3/865.png",
+    "sub": [
+      "R2, stay with the ship."
+    ],
+    "time": 5585
+  },
+  {
+    "id": 866,
+    "src": "/assets/starwars/episode3/866.png",
+    "sub": [
+      "Welcome, Lord Vader.",
+      "We've been expecting you."
+    ],
+    "time": 5612
+  },
+  {
+    "id": 867,
+    "src": "/assets/starwars/episode3/867.png",
+    "sub": [
+      "And the Jedi rebellion has been foiled."
+    ],
+    "time": 5648
+  },
+  {
+    "id": 868,
+    "src": "/assets/starwars/episode3/868.png",
+    "sub": [
+      "What's happened?"
+    ],
+    "time": 5651
+  },
+  {
+    "id": 869,
+    "src": "/assets/starwars/episode3/869.png",
+    "sub": [
+      "The chancellor's been elaborating on a",
+      "plot by the Jedi to overthrow the senate."
+    ],
+    "time": 5654
+  },
+  {
+    "id": 870,
+    "src": "/assets/starwars/episode3/870.png",
+    "sub": [
+      "The remaining Jedi will be",
+      "hunted down and defeated."
+    ],
+    "time": 5659
+  },
+  {
+    "id": 871,
+    "src": "/assets/starwars/episode3/871.png",
+    "sub": [
+      "Not even the younglings survived."
+    ],
+    "time": 5679
+  },
+  {
+    "id": 872,
+    "src": "/assets/starwars/episode3/872.png",
+    "sub": [
+      "Killed not by clones this Padawan."
+    ],
+    "time": 5684
+  },
+  {
+    "id": 873,
+    "src": "/assets/starwars/episode3/873.png",
+    "sub": [
+      "By a lightsaber he was."
+    ],
+    "time": 5689
+  },
+  {
+    "id": 874,
+    "src": "/assets/starwars/episode3/874.png",
+    "sub": [
+      "Who?"
+    ],
+    "time": 5698
+  },
+  {
+    "id": 875,
+    "src": "/assets/starwars/episode3/875.png",
+    "sub": [
+      "Who could have done this?"
+    ],
+    "time": 5700
+  },
+  {
+    "id": 876,
+    "src": "/assets/starwars/episode3/876.png",
+    "sub": [
+      "The attempt on my life..."
+    ],
+    "time": 5713
+  },
+  {
+    "id": 877,
+    "src": "/assets/starwars/episode3/877.png",
+    "sub": [
+      "has left me scarred and deformed."
+    ],
+    "time": 5717
+  },
+  {
+    "id": 878,
+    "src": "/assets/starwars/episode3/878.png",
+    "sub": [
+      "But I assure you."
+    ],
+    "time": 5722
+  },
+  {
+    "id": 879,
+    "src": "/assets/starwars/episode3/879.png",
+    "sub": [
+      "My resolve has never been stronger!"
+    ],
+    "time": 5726
+  },
+  {
+    "id": 880,
+    "src": "/assets/starwars/episode3/880.png",
+    "sub": [
+      "Stop!"
+    ],
+    "time": 5733
+  },
+  {
+    "id": 881,
+    "src": "/assets/starwars/episode3/881.png",
+    "sub": [
+      "In order to ensure the security",
+      "and continuing stability..."
+    ],
+    "time": 5750
+  },
+  {
+    "id": 882,
+    "src": "/assets/starwars/episode3/882.png",
+    "sub": [
+      "the Republic will be reorganized..."
+    ],
+    "time": 5755
+  },
+  {
+    "id": 883,
+    "src": "/assets/starwars/episode3/883.png",
+    "sub": [
+      "into the first Galactic Empire!"
+    ],
+    "time": 5759
+  },
+  {
+    "id": 884,
+    "src": "/assets/starwars/episode3/884.png",
+    "sub": [
+      "For a safe and secure society."
+    ],
+    "time": 5766
+  },
+  {
+    "id": 885,
+    "src": "/assets/starwars/episode3/885.png",
+    "sub": [
+      "So this is how liberty dies."
+    ],
+    "time": 5779
+  },
+  {
+    "id": 886,
+    "src": "/assets/starwars/episode3/886.png",
+    "sub": [
+      "With thunderous applause."
+    ],
+    "time": 5782
+  },
+  {
+    "id": 887,
+    "src": "/assets/starwars/episode3/887.png",
+    "sub": [
+      "The war is over."
+    ],
+    "time": 5787
+  },
+  {
+    "id": 888,
+    "src": "/assets/starwars/episode3/888.png",
+    "sub": [
+      "Lord Sidious promised us peace.",
+      "We only want..."
+    ],
+    "time": 5791
+  },
+  {
+    "id": 889,
+    "src": "/assets/starwars/episode3/889.png",
+    "sub": [
+      "I have recalibrated the code,",
+      "warning all surviving Jedi to stay away."
+    ],
+    "time": 5803
+  },
+  {
+    "id": 890,
+    "src": "/assets/starwars/episode3/890.png",
+    "sub": [
+      "For the clones..."
+    ],
+    "time": 5807
+  },
+  {
+    "id": 891,
+    "src": "/assets/starwars/episode3/891.png",
+    "sub": [
+      "to discover the recalibration",
+      "a long time it will take."
+    ],
+    "time": 5810
+  },
+  {
+    "id": 892,
+    "src": "/assets/starwars/episode3/892.png",
+    "sub": [
+      "Wait. Master."
+    ],
+    "time": 5825
+  },
+  {
+    "id": 893,
+    "src": "/assets/starwars/episode3/893.png",
+    "sub": [
+      "There is something I must know."
+    ],
+    "time": 5829
+  },
+  {
+    "id": 894,
+    "src": "/assets/starwars/episode3/894.png",
+    "sub": [
+      "If into the security recordings you go,",
+      "only pain will you find."
+    ],
+    "time": 5838
+  },
+  {
+    "id": 895,
+    "src": "/assets/starwars/episode3/895.png",
+    "sub": [
+      "I must know the truth, Master."
+    ],
+    "time": 5842
+  },
+  {
+    "id": 896,
+    "src": "/assets/starwars/episode3/896.png",
+    "sub": [
+      "It can't be."
+    ],
+    "time": 5852
+  },
+  {
+    "id": 897,
+    "src": "/assets/starwars/episode3/897.png",
+    "sub": [
+      "It can't be."
+    ],
+    "time": 5854
+  },
+  {
+    "id": 898,
+    "src": "/assets/starwars/episode3/898.png",
+    "sub": [
+      "You have done well, my new apprentice."
+    ],
+    "time": 5857
+  },
+  {
+    "id": 899,
+    "src": "/assets/starwars/episode3/899.png",
+    "sub": [
+      "Now, Lord Vader..."
+    ],
+    "time": 5860
+  },
+  {
+    "id": 900,
+    "src": "/assets/starwars/episode3/900.png",
+    "sub": [
+      "go and bring peace to the Empire."
+    ],
+    "time": 5864
+  },
+  {
+    "id": 901,
+    "src": "/assets/starwars/episode3/901.png",
+    "sub": [
+      "I can't watch any more."
+    ],
+    "time": 5867
+  },
+  {
+    "id": 902,
+    "src": "/assets/starwars/episode3/902.png",
+    "sub": [
+      "Destroy the Sith we must."
+    ],
+    "time": 5871
+  },
+  {
+    "id": 903,
+    "src": "/assets/starwars/episode3/903.png",
+    "sub": [
+      "Send me to kill the emperor."
+    ],
+    "time": 5876
+  },
+  {
+    "id": 904,
+    "src": "/assets/starwars/episode3/904.png",
+    "sub": [
+      "I will not kill Anakin."
+    ],
+    "time": 5878
+  },
+  {
+    "id": 905,
+    "src": "/assets/starwars/episode3/905.png",
+    "sub": [
+      "To fight this Lord Sidious,",
+      "strong enough you are not."
+    ],
+    "time": 5881
+  },
+  {
+    "id": 906,
+    "src": "/assets/starwars/episode3/906.png",
+    "sub": [
+      "He is like my brother. I cannot do it."
+    ],
+    "time": 5885
+  },
+  {
+    "id": 907,
+    "src": "/assets/starwars/episode3/907.png",
+    "sub": [
+      "Twisted by the dark side",
+      "young Skywalker has become."
+    ],
+    "time": 5890
+  },
+  {
+    "id": 908,
+    "src": "/assets/starwars/episode3/908.png",
+    "sub": [
+      "The boy you trained, gone he is."
+    ],
+    "time": 5895
+  },
+  {
+    "id": 909,
+    "src": "/assets/starwars/episode3/909.png",
+    "sub": [
+      "Consumed by Darth Vader."
+    ],
+    "time": 5898
+  },
+  {
+    "id": 910,
+    "src": "/assets/starwars/episode3/910.png",
+    "sub": [
+      "I do not know where the",
+      "emperor has sent him."
+    ],
+    "time": 5901
+  },
+  {
+    "id": 911,
+    "src": "/assets/starwars/episode3/911.png",
+    "sub": [
+      "I don't know where to look."
+    ],
+    "time": 5904
+  },
+  {
+    "id": 912,
+    "src": "/assets/starwars/episode3/912.png",
+    "sub": [
+      "Use your feelings, Obi-Wan,",
+      "and find him you will."
+    ],
+    "time": 5908
+  },
+  {
+    "id": 913,
+    "src": "/assets/starwars/episode3/913.png",
+    "sub": [
+      "When was the last time you saw him?"
+    ],
+    "time": 5922
+  },
+  {
+    "id": 914,
+    "src": "/assets/starwars/episode3/914.png",
+    "sub": [
+      "- Yesterday.",
+      "- And do you know where he is now?"
+    ],
+    "time": 5925
+  },
+  {
+    "id": 915,
+    "src": "/assets/starwars/episode3/915.png",
+    "sub": [
+      "Padmé, I need your help."
+    ],
+    "time": 5931
+  },
+  {
+    "id": 916,
+    "src": "/assets/starwars/episode3/916.png",
+    "sub": [
+      "- He is in grave danger.",
+      "- From the Sith?"
+    ],
+    "time": 5935
+  },
+  {
+    "id": 917,
+    "src": "/assets/starwars/episode3/917.png",
+    "sub": [
+      "From himself."
+    ],
+    "time": 5938
+  },
+  {
+    "id": 918,
+    "src": "/assets/starwars/episode3/918.png",
+    "sub": [
+      "Anakin has turned to the dark side."
+    ],
+    "time": 5944
+  },
+  {
+    "id": 919,
+    "src": "/assets/starwars/episode3/919.png",
+    "sub": [
+      "You're wrong. How could you even say that?"
+    ],
+    "time": 5947
+  },
+  {
+    "id": 920,
+    "src": "/assets/starwars/episode3/920.png",
+    "sub": [
+      "I have seen a security hologram...",
+      "of him..."
+    ],
+    "time": 5954
+  },
+  {
+    "id": 921,
+    "src": "/assets/starwars/episode3/921.png",
+    "sub": [
+      "killing younglings."
+    ],
+    "time": 5959
+  },
+  {
+    "id": 922,
+    "src": "/assets/starwars/episode3/922.png",
+    "sub": [
+      "Not Anakin. He couldn't."
+    ],
+    "time": 5961
+  },
+  {
+    "id": 923,
+    "src": "/assets/starwars/episode3/923.png",
+    "sub": [
+      "He was deceived by a lie. We all were."
+    ],
+    "time": 5965
+  },
+  {
+    "id": 924,
+    "src": "/assets/starwars/episode3/924.png",
+    "sub": [
+      "It appears that the chancellor",
+      "is behind everything, including the war."
+    ],
+    "time": 5969
+  },
+  {
+    "id": 925,
+    "src": "/assets/starwars/episode3/925.png",
+    "sub": [
+      "Palpatine is the Sith lord",
+      "we've been looking for."
+    ],
+    "time": 5974
+  },
+  {
+    "id": 926,
+    "src": "/assets/starwars/episode3/926.png",
+    "sub": [
+      "After the death of Count Dooku,",
+      "Anakin became his new apprentice."
+    ],
+    "time": 5978
+  },
+  {
+    "id": 927,
+    "src": "/assets/starwars/episode3/927.png",
+    "sub": [
+      "I don't believe you."
+    ],
+    "time": 5987
+  },
+  {
+    "id": 928,
+    "src": "/assets/starwars/episode3/928.png",
+    "sub": [
+      "I can't."
+    ],
+    "time": 5990
+  },
+  {
+    "id": 929,
+    "src": "/assets/starwars/episode3/929.png",
+    "sub": [
+      "I must find him."
+    ],
+    "time": 6000
+  },
+  {
+    "id": 930,
+    "src": "/assets/starwars/episode3/930.png",
+    "sub": [
+      "You're going to kill him, aren't you?"
+    ],
+    "time": 6005
+  },
+  {
+    "id": 931,
+    "src": "/assets/starwars/episode3/931.png",
+    "sub": [
+      "He has become a very great threat."
+    ],
+    "time": 6011
+  },
+  {
+    "id": 932,
+    "src": "/assets/starwars/episode3/932.png",
+    "sub": [
+      "I can't."
+    ],
+    "time": 6015
+  },
+  {
+    "id": 933,
+    "src": "/assets/starwars/episode3/933.png",
+    "sub": [
+      "Anakin is the father, isn't he?"
+    ],
+    "time": 6031
+  },
+  {
+    "id": 934,
+    "src": "/assets/starwars/episode3/934.png",
+    "sub": [
+      "I'm so sorry."
+    ],
+    "time": 6037
+  },
+  {
+    "id": 935,
+    "src": "/assets/starwars/episode3/935.png",
+    "sub": [
+      "- Milady, let me come with you.",
+      "- There's no danger."
+    ],
+    "time": 6085
+  },
+  {
+    "id": 936,
+    "src": "/assets/starwars/episode3/936.png",
+    "sub": [
+      "The fighting's over. And this is personal."
+    ],
+    "time": 6087
+  },
+  {
+    "id": 937,
+    "src": "/assets/starwars/episode3/937.png",
+    "sub": [
+      "As you wish, milady, but",
+      "I strongly disagree."
+    ],
+    "time": 6090
+  },
+  {
+    "id": 938,
+    "src": "/assets/starwars/episode3/938.png",
+    "sub": [
+      "I'll be all right, Captain.",
+      "This is something I must do myself."
+    ],
+    "time": 6093
+  },
+  {
+    "id": 939,
+    "src": "/assets/starwars/episode3/939.png",
+    "sub": [
+      "Besides, 3PO will look after me."
+    ],
+    "time": 6096
+  },
+  {
+    "id": 940,
+    "src": "/assets/starwars/episode3/940.png",
+    "sub": [
+      "Oh, dear."
+    ],
+    "time": 6100
+  },
+  {
+    "id": 941,
+    "src": "/assets/starwars/episode3/941.png",
+    "sub": [
+      "Do you know? I think I'm beginning to",
+      "get the hang of this flying business."
+    ],
+    "time": 6115
+  },
+  {
+    "id": 942,
+    "src": "/assets/starwars/episode3/942.png",
+    "sub": [
+      "The separatists have been",
+      "taken care of, my master."
+    ],
+    "time": 6146
+  },
+  {
+    "id": 943,
+    "src": "/assets/starwars/episode3/943.png",
+    "sub": [
+      "It is finished then."
+    ],
+    "time": 6149
+  },
+  {
+    "id": 944,
+    "src": "/assets/starwars/episode3/944.png",
+    "sub": [
+      "You have restored peace",
+      "and justice to the galaxy."
+    ],
+    "time": 6156
+  },
+  {
+    "id": 945,
+    "src": "/assets/starwars/episode3/945.png",
+    "sub": [
+      "Send a message to the ships",
+      "of the Trade Federation."
+    ],
+    "time": 6161
+  },
+  {
+    "id": 946,
+    "src": "/assets/starwars/episode3/946.png",
+    "sub": [
+      "All droid units must shut down immediately."
+    ],
+    "time": 6166
+  },
+  {
+    "id": 947,
+    "src": "/assets/starwars/episode3/947.png",
+    "sub": [
+      "Very good, my lord."
+    ],
+    "time": 6171
+  },
+  {
+    "id": 948,
+    "src": "/assets/starwars/episode3/948.png",
+    "sub": [
+      "I saw your ship."
+    ],
+    "time": 6232
+  },
+  {
+    "id": 949,
+    "src": "/assets/starwars/episode3/949.png",
+    "sub": [
+      "- What are you doing out here?",
+      "- I was so worried about you."
+    ],
+    "time": 6237
+  },
+  {
+    "id": 950,
+    "src": "/assets/starwars/episode3/950.png",
+    "sub": [
+      "Obi-Wan told me terrible things."
+    ],
+    "time": 6241
+  },
+  {
+    "id": 951,
+    "src": "/assets/starwars/episode3/951.png",
+    "sub": [
+      "What things?"
+    ],
+    "time": 6244
+  },
+  {
+    "id": 952,
+    "src": "/assets/starwars/episode3/952.png",
+    "sub": [
+      "He said you've turned to the dark side."
+    ],
+    "time": 6247
+  },
+  {
+    "id": 953,
+    "src": "/assets/starwars/episode3/953.png",
+    "sub": [
+      "That you... killed younglings."
+    ],
+    "time": 6251
+  },
+  {
+    "id": 954,
+    "src": "/assets/starwars/episode3/954.png",
+    "sub": [
+      "Obi-Wan is trying to turn you against me."
+    ],
+    "time": 6256
+  },
+  {
+    "id": 955,
+    "src": "/assets/starwars/episode3/955.png",
+    "sub": [
+      "He cares about us."
+    ],
+    "time": 6259
+  },
+  {
+    "id": 956,
+    "src": "/assets/starwars/episode3/956.png",
+    "sub": [
+      "Us?"
+    ],
+    "time": 6260
+  },
+  {
+    "id": 957,
+    "src": "/assets/starwars/episode3/957.png",
+    "sub": [
+      "He knows."
+    ],
+    "time": 6262
+  },
+  {
+    "id": 958,
+    "src": "/assets/starwars/episode3/958.png",
+    "sub": [
+      "He wants to help you."
+    ],
+    "time": 6265
+  },
+  {
+    "id": 959,
+    "src": "/assets/starwars/episode3/959.png",
+    "sub": [
+      "Anakin, all I want is your love."
+    ],
+    "time": 6271
+  },
+  {
+    "id": 960,
+    "src": "/assets/starwars/episode3/960.png",
+    "sub": [
+      "Love won't save you, Padmé."
+    ],
+    "time": 6274
+  },
+  {
+    "id": 961,
+    "src": "/assets/starwars/episode3/961.png",
+    "sub": [
+      "- Only my new powers can do that.",
+      "- At what cost?"
+    ],
+    "time": 6277
+  },
+  {
+    "id": 962,
+    "src": "/assets/starwars/episode3/962.png",
+    "sub": [
+      "You're a good person. Don't do this."
+    ],
+    "time": 6280
+  },
+  {
+    "id": 963,
+    "src": "/assets/starwars/episode3/963.png",
+    "sub": [
+      "I won't lose you the way I lost my mother."
+    ],
+    "time": 6283
+  },
+  {
+    "id": 964,
+    "src": "/assets/starwars/episode3/964.png",
+    "sub": [
+      "I am becoming more powerful",
+      "than any Jedi has ever dreamed of."
+    ],
+    "time": 6287
+  },
+  {
+    "id": 965,
+    "src": "/assets/starwars/episode3/965.png",
+    "sub": [
+      "And I'm doing it for you. To protect you."
+    ],
+    "time": 6290
+  },
+  {
+    "id": 966,
+    "src": "/assets/starwars/episode3/966.png",
+    "sub": [
+      "Come away with me."
+    ],
+    "time": 6294
+  },
+  {
+    "id": 967,
+    "src": "/assets/starwars/episode3/967.png",
+    "sub": [
+      "Help me raise our child."
+    ],
+    "time": 6297
+  },
+  {
+    "id": 968,
+    "src": "/assets/starwars/episode3/968.png",
+    "sub": [
+      "Leave everything else behind",
+      "while we still can."
+    ],
+    "time": 6299
+  },
+  {
+    "id": 969,
+    "src": "/assets/starwars/episode3/969.png",
+    "sub": [
+      "Don't you see?",
+      "We don't have to run away anymore."
+    ],
+    "time": 6303
+  },
+  {
+    "id": 970,
+    "src": "/assets/starwars/episode3/970.png",
+    "sub": [
+      "I have brought peace to the Republic."
+    ],
+    "time": 6307
+  },
+  {
+    "id": 971,
+    "src": "/assets/starwars/episode3/971.png",
+    "sub": [
+      "I am more powerful than the chancellor."
+    ],
+    "time": 6310
+  },
+  {
+    "id": 972,
+    "src": "/assets/starwars/episode3/972.png",
+    "sub": [
+      "I can overthrow him."
+    ],
+    "time": 6312
+  },
+  {
+    "id": 973,
+    "src": "/assets/starwars/episode3/973.png",
+    "sub": [
+      "And together, you and I",
+      "can rule the galaxy..."
+    ],
+    "time": 6316
+  },
+  {
+    "id": 974,
+    "src": "/assets/starwars/episode3/974.png",
+    "sub": [
+      "make things the way we want them to be."
+    ],
+    "time": 6319
+  },
+  {
+    "id": 975,
+    "src": "/assets/starwars/episode3/975.png",
+    "sub": [
+      "I don't believe what I'm hearing."
+    ],
+    "time": 6328
+  },
+  {
+    "id": 976,
+    "src": "/assets/starwars/episode3/976.png",
+    "sub": [
+      "Obi-Wan was right. You've changed."
+    ],
+    "time": 6332
+  },
+  {
+    "id": 977,
+    "src": "/assets/starwars/episode3/977.png",
+    "sub": [
+      "I don't want to hear any",
+      "more about Obi-Wan."
+    ],
+    "time": 6337
+  },
+  {
+    "id": 978,
+    "src": "/assets/starwars/episode3/978.png",
+    "sub": [
+      "The Jedi turned against me.",
+      "Don't you turn against me."
+    ],
+    "time": 6341
+  },
+  {
+    "id": 979,
+    "src": "/assets/starwars/episode3/979.png",
+    "sub": [
+      "I don't know you anymore."
+    ],
+    "time": 6346
+  },
+  {
+    "id": 980,
+    "src": "/assets/starwars/episode3/980.png",
+    "sub": [
+      "You're breaking my heart."
+    ],
+    "time": 6352
+  },
+  {
+    "id": 981,
+    "src": "/assets/starwars/episode3/981.png",
+    "sub": [
+      "You're going down a path I can't follow."
+    ],
+    "time": 6354
+  },
+  {
+    "id": 982,
+    "src": "/assets/starwars/episode3/982.png",
+    "sub": [
+      "Because of Obi-Wan?"
+    ],
+    "time": 6358
+  },
+  {
+    "id": 983,
+    "src": "/assets/starwars/episode3/983.png",
+    "sub": [
+      "Because of what you've done."
+    ],
+    "time": 6361
+  },
+  {
+    "id": 984,
+    "src": "/assets/starwars/episode3/984.png",
+    "sub": [
+      "What you plan to do."
+    ],
+    "time": 6363
+  },
+  {
+    "id": 985,
+    "src": "/assets/starwars/episode3/985.png",
+    "sub": [
+      "Stop. Stop now. Come back."
+    ],
+    "time": 6366
+  },
+  {
+    "id": 986,
+    "src": "/assets/starwars/episode3/986.png",
+    "sub": [
+      "- I love you.",
+      "- Liar!"
+    ],
+    "time": 6369
+  },
+  {
+    "id": 987,
+    "src": "/assets/starwars/episode3/987.png",
+    "sub": [
+      "You're with him!",
+      "You brought him here to kill me."
+    ],
+    "time": 6378
+  },
+  {
+    "id": 988,
+    "src": "/assets/starwars/episode3/988.png",
+    "sub": [
+      "Let her go, Anakin."
+    ],
+    "time": 6382
+  },
+  {
+    "id": 989,
+    "src": "/assets/starwars/episode3/989.png",
+    "sub": [
+      "Let her go."
+    ],
+    "time": 6387
+  },
+  {
+    "id": 990,
+    "src": "/assets/starwars/episode3/990.png",
+    "sub": [
+      "You turned her against me!"
+    ],
+    "time": 6399
+  },
+  {
+    "id": 991,
+    "src": "/assets/starwars/episode3/991.png",
+    "sub": [
+      "You have done that yourself."
+    ],
+    "time": 6403
+  },
+  {
+    "id": 992,
+    "src": "/assets/starwars/episode3/992.png",
+    "sub": [
+      "You will not take her from me!"
+    ],
+    "time": 6410
+  },
+  {
+    "id": 993,
+    "src": "/assets/starwars/episode3/993.png",
+    "sub": [
+      "Your anger and your lust for power",
+      "have already done that."
+    ],
+    "time": 6413
+  },
+  {
+    "id": 994,
+    "src": "/assets/starwars/episode3/994.png",
+    "sub": [
+      "You have allowed this dark lord",
+      "to twist your mind..."
+    ],
+    "time": 6421
+  },
+  {
+    "id": 995,
+    "src": "/assets/starwars/episode3/995.png",
+    "sub": [
+      "until now you have become",
+      "the very thing you swore to destroy."
+    ],
+    "time": 6426
+  },
+  {
+    "id": 996,
+    "src": "/assets/starwars/episode3/996.png",
+    "sub": [
+      "Don't lecture me, Obi-Wan."
+    ],
+    "time": 6429
+  },
+  {
+    "id": 997,
+    "src": "/assets/starwars/episode3/997.png",
+    "sub": [
+      "I see through the lies of the Jedi."
+    ],
+    "time": 6431
+  },
+  {
+    "id": 998,
+    "src": "/assets/starwars/episode3/998.png",
+    "sub": [
+      "I do not fear the dark side as you do."
+    ],
+    "time": 6435
+  },
+  {
+    "id": 999,
+    "src": "/assets/starwars/episode3/999.png",
+    "sub": [
+      "I have brought peace..."
+    ],
+    "time": 6439
+  },
+  {
+    "id": 1000,
+    "src": "/assets/starwars/episode3/1000.png",
+    "sub": [
+      "freedom, justice and security",
+      "to my new empire."
+    ],
+    "time": 6442
+  },
+  {
+    "id": 1001,
+    "src": "/assets/starwars/episode3/1001.png",
+    "sub": [
+      "Your new empire?"
+    ],
+    "time": 6447
+  },
+  {
+    "id": 1002,
+    "src": "/assets/starwars/episode3/1002.png",
+    "sub": [
+      "Don't make me kill you."
+    ],
+    "time": 6450
+  },
+  {
+    "id": 1003,
+    "src": "/assets/starwars/episode3/1003.png",
+    "sub": [
+      "Anakin, my allegiance is to",
+      "the Republic, to democracy!"
+    ],
+    "time": 6454
+  },
+  {
+    "id": 1004,
+    "src": "/assets/starwars/episode3/1004.png",
+    "sub": [
+      "If you're not with me..."
+    ],
+    "time": 6458
+  },
+  {
+    "id": 1005,
+    "src": "/assets/starwars/episode3/1005.png",
+    "sub": [
+      "then you're my enemy."
+    ],
+    "time": 6461
+  },
+  {
+    "id": 1006,
+    "src": "/assets/starwars/episode3/1006.png",
+    "sub": [
+      "Only a Sith deals in absolutes."
+    ],
+    "time": 6465
+  },
+  {
+    "id": 1007,
+    "src": "/assets/starwars/episode3/1007.png",
+    "sub": [
+      "I will do what I must."
+    ],
+    "time": 6470
+  },
+  {
+    "id": 1008,
+    "src": "/assets/starwars/episode3/1008.png",
+    "sub": [
+      "You will try."
+    ],
+    "time": 6473
+  },
+  {
+    "id": 1009,
+    "src": "/assets/starwars/episode3/1009.png",
+    "sub": [
+      "I hear a new apprentice you have, Emperor."
+    ],
+    "time": 6508
+  },
+  {
+    "id": 1010,
+    "src": "/assets/starwars/episode3/1010.png",
+    "sub": [
+      "Or should I call you Darth Sidious?"
+    ],
+    "time": 6512
+  },
+  {
+    "id": 1011,
+    "src": "/assets/starwars/episode3/1011.png",
+    "sub": [
+      "Master Yoda."
+    ],
+    "time": 6516
+  },
+  {
+    "id": 1012,
+    "src": "/assets/starwars/episode3/1012.png",
+    "sub": [
+      "You survived."
+    ],
+    "time": 6518
+  },
+  {
+    "id": 1013,
+    "src": "/assets/starwars/episode3/1013.png",
+    "sub": [
+      "Surprised?"
+    ],
+    "time": 6520
+  },
+  {
+    "id": 1014,
+    "src": "/assets/starwars/episode3/1014.png",
+    "sub": [
+      "Your arrogance blinds you, Master Yoda."
+    ],
+    "time": 6524
+  },
+  {
+    "id": 1015,
+    "src": "/assets/starwars/episode3/1015.png",
+    "sub": [
+      "Now you will experience..."
+    ],
+    "time": 6528
+  },
+  {
+    "id": 1016,
+    "src": "/assets/starwars/episode3/1016.png",
+    "sub": [
+      "the full power of the dark side."
+    ],
+    "time": 6531
+  },
+  {
+    "id": 1017,
+    "src": "/assets/starwars/episode3/1017.png",
+    "sub": [
+      "I have waited a long",
+      "time for this moment..."
+    ],
+    "time": 6578
+  },
+  {
+    "id": 1018,
+    "src": "/assets/starwars/episode3/1018.png",
+    "sub": [
+      "my little green friend."
+    ],
+    "time": 6583
+  },
+  {
+    "id": 1019,
+    "src": "/assets/starwars/episode3/1019.png",
+    "sub": [
+      "At last the Jedi are no more."
+    ],
+    "time": 6598
+  },
+  {
+    "id": 1020,
+    "src": "/assets/starwars/episode3/1020.png",
+    "sub": [
+      "Not if anything to say about it I have."
+    ],
+    "time": 6602
+  },
+  {
+    "id": 1021,
+    "src": "/assets/starwars/episode3/1021.png",
+    "sub": [
+      "At an end your rule is."
+    ],
+    "time": 6611
+  },
+  {
+    "id": 1022,
+    "src": "/assets/starwars/episode3/1022.png",
+    "sub": [
+      "And not short enough it was."
+    ],
+    "time": 6615
+  },
+  {
+    "id": 1023,
+    "src": "/assets/starwars/episode3/1023.png",
+    "sub": [
+      "If so powerful you are..."
+    ],
+    "time": 6622
+  },
+  {
+    "id": 1024,
+    "src": "/assets/starwars/episode3/1024.png",
+    "sub": [
+      "why leave?"
+    ],
+    "time": 6625
+  },
+  {
+    "id": 1025,
+    "src": "/assets/starwars/episode3/1025.png",
+    "sub": [
+      "You will not stop me."
+    ],
+    "time": 6628
+  },
+  {
+    "id": 1026,
+    "src": "/assets/starwars/episode3/1026.png",
+    "sub": [
+      "Darth Vader will become",
+      "more powerful than either of us."
+    ],
+    "time": 6632
+  },
+  {
+    "id": 1027,
+    "src": "/assets/starwars/episode3/1027.png",
+    "sub": [
+      "Faith in your new apprentice",
+      "misplaced may be."
+    ],
+    "time": 6636
+  },
+  {
+    "id": 1028,
+    "src": "/assets/starwars/episode3/1028.png",
+    "sub": [
+      "As is your faith",
+      "in the dark side of the Force."
+    ],
+    "time": 6642
+  },
+  {
+    "id": 1029,
+    "src": "/assets/starwars/episode3/1029.png",
+    "sub": [
+      "Hurry. Careful timing we will need."
+    ],
+    "time": 6913
+  },
+  {
+    "id": 1030,
+    "src": "/assets/starwars/episode3/1030.png",
+    "sub": [
+      "Activate your homing",
+      "beacon when you're ready."
+    ],
+    "time": 6916
+  },
+  {
+    "id": 1031,
+    "src": "/assets/starwars/episode3/1031.png",
+    "sub": [
+      "There's no sign of his body, sir."
+    ],
+    "time": 6918
+  },
+  {
+    "id": 1032,
+    "src": "/assets/starwars/episode3/1032.png",
+    "sub": [
+      "- Then he is not dead.",
+      "- Double your search."
+    ],
+    "time": 6922
+  },
+  {
+    "id": 1033,
+    "src": "/assets/starwars/episode3/1033.png",
+    "sub": [
+      "Yes, sir. Right away, sir."
+    ],
+    "time": 6925
+  },
+  {
+    "id": 1034,
+    "src": "/assets/starwars/episode3/1034.png",
+    "sub": [
+      "Tell Captain Kagi to prepare my shuttle",
+      "for immediate takeoff."
+    ],
+    "time": 6929
+  },
+  {
+    "id": 1035,
+    "src": "/assets/starwars/episode3/1035.png",
+    "sub": [
+      "- Yes, Master.",
+      "- I sense Lord Vader is in danger."
+    ],
+    "time": 6933
+  },
+  {
+    "id": 1036,
+    "src": "/assets/starwars/episode3/1036.png",
+    "sub": [
+      "Into exile I must go."
+    ],
+    "time": 7006
+  },
+  {
+    "id": 1037,
+    "src": "/assets/starwars/episode3/1037.png",
+    "sub": [
+      "Failed I have."
+    ],
+    "time": 7010
+  },
+  {
+    "id": 1038,
+    "src": "/assets/starwars/episode3/1038.png",
+    "sub": [
+      "I have failed you, Anakin."
+    ],
+    "time": 7111
+  },
+  {
+    "id": 1039,
+    "src": "/assets/starwars/episode3/1039.png",
+    "sub": [
+      "I have failed you."
+    ],
+    "time": 7113
+  },
+  {
+    "id": 1040,
+    "src": "/assets/starwars/episode3/1040.png",
+    "sub": [
+      "I should have known the Jedi",
+      "were plotting to take over."
+    ],
+    "time": 7116
+  },
+  {
+    "id": 1041,
+    "src": "/assets/starwars/episode3/1041.png",
+    "sub": [
+      "Anakin, Chancellor Palpatine is evil!"
+    ],
+    "time": 7119
+  },
+  {
+    "id": 1042,
+    "src": "/assets/starwars/episode3/1042.png",
+    "sub": [
+      "From my point of view, the Jedi are evil."
+    ],
+    "time": 7121
+  },
+  {
+    "id": 1043,
+    "src": "/assets/starwars/episode3/1043.png",
+    "sub": [
+      "Then you are lost!"
+    ],
+    "time": 7124
+  },
+  {
+    "id": 1044,
+    "src": "/assets/starwars/episode3/1044.png",
+    "sub": [
+      "This is the end for you, my master."
+    ],
+    "time": 7138
+  },
+  {
+    "id": 1045,
+    "src": "/assets/starwars/episode3/1045.png",
+    "sub": [
+      "It's over, Anakin. I have the high ground."
+    ],
+    "time": 7165
+  },
+  {
+    "id": 1046,
+    "src": "/assets/starwars/episode3/1046.png",
+    "sub": [
+      "You underestimate my power."
+    ],
+    "time": 7171
+  },
+  {
+    "id": 1047,
+    "src": "/assets/starwars/episode3/1047.png",
+    "sub": [
+      "Don't try it."
+    ],
+    "time": 7174
+  },
+  {
+    "id": 1048,
+    "src": "/assets/starwars/episode3/1048.png",
+    "sub": [
+      "You were the chosen one!"
+    ],
+    "time": 7199
+  },
+  {
+    "id": 1049,
+    "src": "/assets/starwars/episode3/1049.png",
+    "sub": [
+      "It was said that you would destroy",
+      "the Sith, not join them!"
+    ],
+    "time": 7202
+  },
+  {
+    "id": 1050,
+    "src": "/assets/starwars/episode3/1050.png",
+    "sub": [
+      "Bring balance to the Force,",
+      "not leave it in darkness!"
+    ],
+    "time": 7209
+  },
+  {
+    "id": 1051,
+    "src": "/assets/starwars/episode3/1051.png",
+    "sub": [
+      "I hate you!"
+    ],
+    "time": 7223
+  },
+  {
+    "id": 1052,
+    "src": "/assets/starwars/episode3/1052.png",
+    "sub": [
+      "You were my brother, Anakin."
+    ],
+    "time": 7233
+  },
+  {
+    "id": 1053,
+    "src": "/assets/starwars/episode3/1053.png",
+    "sub": [
+      "I loved you."
+    ],
+    "time": 7237
+  },
+  {
+    "id": 1054,
+    "src": "/assets/starwars/episode3/1054.png",
+    "sub": [
+      "Master Kenobi. We have Miss Padmé on board."
+    ],
+    "time": 7281
+  },
+  {
+    "id": 1055,
+    "src": "/assets/starwars/episode3/1055.png",
+    "sub": [
+      "Yes. Please, please hurry."
+    ],
+    "time": 7284
+  },
+  {
+    "id": 1056,
+    "src": "/assets/starwars/episode3/1056.png",
+    "sub": [
+      "We should leave this dreadful place."
+    ],
+    "time": 7286
+  },
+  {
+    "id": 1057,
+    "src": "/assets/starwars/episode3/1057.png",
+    "sub": [
+      "Is Anakin all right?"
+    ],
+    "time": 7305
+  },
+  {
+    "id": 1058,
+    "src": "/assets/starwars/episode3/1058.png",
+    "sub": [
+      "Your Majesty, this way."
+    ],
+    "time": 7375
+  },
+  {
+    "id": 1059,
+    "src": "/assets/starwars/episode3/1059.png",
+    "sub": [
+      "There he is."
+    ],
+    "time": 7378
+  },
+  {
+    "id": 1060,
+    "src": "/assets/starwars/episode3/1060.png",
+    "sub": [
+      "He's still alive."
+    ],
+    "time": 7380
+  },
+  {
+    "id": 1061,
+    "src": "/assets/starwars/episode3/1061.png",
+    "sub": [
+      "Get a medical capsule immediately."
+    ],
+    "time": 7385
+  },
+  {
+    "id": 1062,
+    "src": "/assets/starwars/episode3/1062.png",
+    "sub": [
+      "Yes, sir. Right away."
+    ],
+    "time": 7388
+  },
+  {
+    "id": 1063,
+    "src": "/assets/starwars/episode3/1063.png",
+    "sub": [
+      "Excuse me, Master Yoda."
+    ],
+    "time": 7426
+  },
+  {
+    "id": 1064,
+    "src": "/assets/starwars/episode3/1064.png",
+    "sub": [
+      "Obi-Wan Kenobi has made contact."
+    ],
+    "time": 7434
+  },
+  {
+    "id": 1065,
+    "src": "/assets/starwars/episode3/1065.png",
+    "sub": [
+      "We'll take her to the medical center.",
+      "Quickly."
+    ],
+    "time": 7453
+  },
+  {
+    "id": 1066,
+    "src": "/assets/starwars/episode3/1066.png",
+    "sub": [
+      "Medically, she's completely healthy."
+    ],
+    "time": 7485
+  },
+  {
+    "id": 1067,
+    "src": "/assets/starwars/episode3/1067.png",
+    "sub": [
+      "For reasons we can't explain,",
+      "we are losing her."
+    ],
+    "time": 7488
+  },
+  {
+    "id": 1068,
+    "src": "/assets/starwars/episode3/1068.png",
+    "sub": [
+      "- She's dying?",
+      "- We don't know why."
+    ],
+    "time": 7492
+  },
+  {
+    "id": 1069,
+    "src": "/assets/starwars/episode3/1069.png",
+    "sub": [
+      "She has lost the will to live."
+    ],
+    "time": 7495
+  },
+  {
+    "id": 1070,
+    "src": "/assets/starwars/episode3/1070.png",
+    "sub": [
+      "We need to operate quickly",
+      "if we are to save the babies."
+    ],
+    "time": 7497
+  },
+  {
+    "id": 1071,
+    "src": "/assets/starwars/episode3/1071.png",
+    "sub": [
+      "Babies?"
+    ],
+    "time": 7500
+  },
+  {
+    "id": 1072,
+    "src": "/assets/starwars/episode3/1072.png",
+    "sub": [
+      "She's carrying twins."
+    ],
+    "time": 7502
+  },
+  {
+    "id": 1073,
+    "src": "/assets/starwars/episode3/1073.png",
+    "sub": [
+      "Luke."
+    ],
+    "time": 7546
+  },
+  {
+    "id": 1074,
+    "src": "/assets/starwars/episode3/1074.png",
+    "sub": [
+      "Oh, Luke."
+    ],
+    "time": 7555
+  },
+  {
+    "id": 1075,
+    "src": "/assets/starwars/episode3/1075.png",
+    "sub": [
+      "- It's a girl.",
+      "- Leia."
+    ],
+    "time": 7580
+  },
+  {
+    "id": 1076,
+    "src": "/assets/starwars/episode3/1076.png",
+    "sub": [
+      "There's good in him."
+    ],
+    "time": 7632
+  },
+  {
+    "id": 1077,
+    "src": "/assets/starwars/episode3/1077.png",
+    "sub": [
+      "I know."
+    ],
+    "time": 7636
+  },
+  {
+    "id": 1078,
+    "src": "/assets/starwars/episode3/1078.png",
+    "sub": [
+      "I know there's... still..."
+    ],
+    "time": 7639
+  },
+  {
+    "id": 1079,
+    "src": "/assets/starwars/episode3/1079.png",
+    "sub": [
+      "Lord Vader."
+    ],
+    "time": 7677
+  },
+  {
+    "id": 1080,
+    "src": "/assets/starwars/episode3/1080.png",
+    "sub": [
+      "Can you hear me?"
+    ],
+    "time": 7680
+  },
+  {
+    "id": 1081,
+    "src": "/assets/starwars/episode3/1081.png",
+    "sub": [
+      "Yes, Master."
+    ],
+    "time": 7685
+  },
+  {
+    "id": 1082,
+    "src": "/assets/starwars/episode3/1082.png",
+    "sub": [
+      "Where is Padmé?"
+    ],
+    "time": 7690
+  },
+  {
+    "id": 1083,
+    "src": "/assets/starwars/episode3/1083.png",
+    "sub": [
+      "Is she safe?"
+    ],
+    "time": 7693
+  },
+  {
+    "id": 1084,
+    "src": "/assets/starwars/episode3/1084.png",
+    "sub": [
+      "Is she all right?"
+    ],
+    "time": 7696
+  },
+  {
+    "id": 1085,
+    "src": "/assets/starwars/episode3/1085.png",
+    "sub": [
+      "It seems, in your anger, you killed her."
+    ],
+    "time": 7701
+  },
+  {
+    "id": 1086,
+    "src": "/assets/starwars/episode3/1086.png",
+    "sub": [
+      "I? I couldn't have."
+    ],
+    "time": 7706
+  },
+  {
+    "id": 1087,
+    "src": "/assets/starwars/episode3/1087.png",
+    "sub": [
+      "She was alive. I felt it!"
+    ],
+    "time": 7709
+  },
+  {
+    "id": 1088,
+    "src": "/assets/starwars/episode3/1088.png",
+    "sub": [
+      "No!"
+    ],
+    "time": 7731
+  },
+  {
+    "id": 1089,
+    "src": "/assets/starwars/episode3/1089.png",
+    "sub": [
+      "Hidden, safe the children must be kept."
+    ],
+    "time": 7746
+  },
+  {
+    "id": 1090,
+    "src": "/assets/starwars/episode3/1090.png",
+    "sub": [
+      "We must take them somewhere where",
+      "the Sith will not sense their presence."
+    ],
+    "time": 7752
+  },
+  {
+    "id": 1091,
+    "src": "/assets/starwars/episode3/1091.png",
+    "sub": [
+      "Split up they should be."
+    ],
+    "time": 7757
+  },
+  {
+    "id": 1092,
+    "src": "/assets/starwars/episode3/1092.png",
+    "sub": [
+      "My wife and I will take the girl."
+    ],
+    "time": 7760
+  },
+  {
+    "id": 1093,
+    "src": "/assets/starwars/episode3/1093.png",
+    "sub": [
+      "We've always talked of",
+      "adopting a baby girl."
+    ],
+    "time": 7764
+  },
+  {
+    "id": 1094,
+    "src": "/assets/starwars/episode3/1094.png",
+    "sub": [
+      "She will be loved with us."
+    ],
+    "time": 7767
+  },
+  {
+    "id": 1095,
+    "src": "/assets/starwars/episode3/1095.png",
+    "sub": [
+      "And what of the boy?"
+    ],
+    "time": 7770
+  },
+  {
+    "id": 1096,
+    "src": "/assets/starwars/episode3/1096.png",
+    "sub": [
+      "To Tatooine. To his family send him."
+    ],
+    "time": 7773
+  },
+  {
+    "id": 1097,
+    "src": "/assets/starwars/episode3/1097.png",
+    "sub": [
+      "I will take the child and watch over him."
+    ],
+    "time": 7778
+  },
+  {
+    "id": 1098,
+    "src": "/assets/starwars/episode3/1098.png",
+    "sub": [
+      "Until the time is right, disappear we will."
+    ],
+    "time": 7787
+  },
+  {
+    "id": 1099,
+    "src": "/assets/starwars/episode3/1099.png",
+    "sub": [
+      "Master Kenobi, wait a moment."
+    ],
+    "time": 7792
+  },
+  {
+    "id": 1100,
+    "src": "/assets/starwars/episode3/1100.png",
+    "sub": [
+      "In your solitude on Tatooine,",
+      "training I have for you."
+    ],
+    "time": 7798
+  },
+  {
+    "id": 1101,
+    "src": "/assets/starwars/episode3/1101.png",
+    "sub": [
+      "Training?"
+    ],
+    "time": 7802
+  },
+  {
+    "id": 1102,
+    "src": "/assets/starwars/episode3/1102.png",
+    "sub": [
+      "An old friend has learned",
+      "the path to immortality."
+    ],
+    "time": 7805
+  },
+  {
+    "id": 1103,
+    "src": "/assets/starwars/episode3/1103.png",
+    "sub": [
+      "One who has returned from",
+      "the netherworld of the Force."
+    ],
+    "time": 7811
+  },
+  {
+    "id": 1104,
+    "src": "/assets/starwars/episode3/1104.png",
+    "sub": [
+      "Your old master."
+    ],
+    "time": 7814
+  },
+  {
+    "id": 1105,
+    "src": "/assets/starwars/episode3/1105.png",
+    "sub": [
+      "Qui-Gon?"
+    ],
+    "time": 7817
+  },
+  {
+    "id": 1106,
+    "src": "/assets/starwars/episode3/1106.png",
+    "sub": [
+      "How to commune with him I will teach you."
+    ],
+    "time": 7822
+  },
+  {
+    "id": 1107,
+    "src": "/assets/starwars/episode3/1107.png",
+    "sub": [
+      "- Captain Antilles.",
+      "- Yes, Your Highness?"
+    ],
+    "time": 7826
+  },
+  {
+    "id": 1108,
+    "src": "/assets/starwars/episode3/1108.png",
+    "sub": [
+      "I'm placing these droids in your care."
+    ],
+    "time": 7828
+  },
+  {
+    "id": 1109,
+    "src": "/assets/starwars/episode3/1109.png",
+    "sub": [
+      "Treat them well. Clean them up."
+    ],
+    "time": 7830
+  },
+  {
+    "id": 1110,
+    "src": "/assets/starwars/episode3/1110.png",
+    "sub": [
+      "Have the protocol droid's mind wiped."
+    ],
+    "time": 7832
+  },
+  {
+    "id": 1111,
+    "src": "/assets/starwars/episode3/1111.png",
+    "sub": [
+      "What?"
+    ],
+    "time": 7834
+  },
+  {
+    "id": 1112,
+    "src": "/assets/starwars/episode3/1112.png",
+    "sub": [
+      "Oh, no!"
+    ],
+    "time": 7838
+  }
+]

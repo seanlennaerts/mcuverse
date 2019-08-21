@@ -1,0 +1,72 @@
+$font-size: 3rem;
+$font-size-mobile: 8vw;
+
+.credit {
+  position: absolute;
+  bottom: -5rem;
+  width: 100%;
+  color: white;
+  text-align: center;
+  line-height: 5rem;
+  font-size: 0.8rem;
+
+  a {
+    color: rgb(161, 161, 161);
+    text-decoration: none;
+  }
+}
+
+.rootWrapper {
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  -webkit-user-drag: none;
+  user-select: none;
+  width: 100%;
+  
+  a {
+    text-decoration: none;
+    flex: 1;
+
+    .franchiseWrapper {
+      text-align: center;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+
+      .franchiseName {
+        font-size: $font-size-mobile;
+        font-weight: 400;
+        white-space: nowrap;
+
+        @media only screen and (min-width: 37.5em) {
+          font-size: $font-size;
+        }
+      }
+
+      img {
+        height: $font-size-mobile;
+        @media only screen and (min-width: 37.5em) {
+          height: $font-size;
+        }
+      }
+
+      .starwars {
+        color: #FFE81F;
+        font-weight: 800;
+        -webkit-text-fill-color: transparent;
+        -webkit-text-stroke-width: 1px;
+        -webkit-text-stroke-color: #FFE81F;
+
+        @media only screen and (min-width: 37.5em) {
+          -webkit-text-stroke-width: 2px;
+        }
+      }
+      
+    }
+  }
+}
+
