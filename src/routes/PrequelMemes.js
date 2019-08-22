@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import debounce from 'lodash.debounce';
 
 import { Searchbar, Meme, Screenshot } from '../components';
 import '../App.scss';
