@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route } from "react-router-dom";
+import { BrowserRouter as Router, Route } from 'react-router-dom';
 
 import { Home, Quote, Searchbar } from './components';
 import { PrequelMemes, Franchise } from './routes';
@@ -11,7 +11,7 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <Route exact path="/" component={Franchise} /> 
+        <Route exact path="/" component={Franchise} />
         <Route path="/mcuverse" component={Main} />
         <Route path="/starwars" component={PrequelMemes} />
       </Router>
@@ -44,6 +44,7 @@ class Main extends Component {
     this.handleAlert = this.handleAlert.bind(this);
     this.buildContext = this.buildContext.bind(this);
     this.buildQuote = this.buildQuote.bind(this);
+    // this.handleScroll = this.handleScroll.bind(this);
 
     this.state = {
       alert: false,
@@ -54,7 +55,21 @@ class Main extends Component {
 
   componentDidMount() {
     document.title = 'MCU Bible Verse - Search Movie Quotes';
+    // window.addEventListener('scroll', debounce(this.handleScroll, 100));
   }
+
+  // handleScroll() {
+  //   if (window.innerHeight + document.documentElement.scrollTop === document.documentElement.offsetHeight) {
+  //     console.log('reached bottom')
+  //     this.loadMoreQuotes();
+  //   }
+  // }
+
+  // loadMoreQuotes() {
+  //   console.log('loading');
+  //   // this.setState({ isLoading: true });
+  //   this.getSubs();
+  // }
 
 
   handleAlert(show) {
@@ -79,7 +94,7 @@ class Main extends Component {
   }
 
   showSubs() {
-    var matches = []
+    let matches = [];
     movies.forEach(movie => {
       movie.subs.forEach((sub, index) => {
         let strIndex = sub.sub.join(' ').toLowerCase().indexOf(this.state.search.toLowerCase().trim());
@@ -112,7 +127,7 @@ class Main extends Component {
     return (
       <div className="App">
         <div className="logo">
-          <img src='/assets/Marvel_Studios_2016_logo.svg' alt='MCU logo'/>
+          <img src='/assets/Marvel_Studios_2016_logo.svg' alt='MCU logo' />
         </div>
         <div className="gradientHeader"></div>
         <Searchbar value={this.state.search} onSearchChange={this.handleSearchChange} placeholder='Search verse' />

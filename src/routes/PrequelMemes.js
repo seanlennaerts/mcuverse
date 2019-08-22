@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
+import debounce from 'lodash.debounce';
 
 import { Searchbar, Meme, Screenshot } from '../components';
 import '../App.scss';
 import movies from '../starwars/index';
+import * as placeHolders from '../starwars/placeholder.json';
 
 class PrequelMemes extends Component {
 
@@ -66,18 +68,18 @@ class PrequelMemes extends Component {
 
   handleSearchChange(event) {
     this.setState({
-      search: event.target.value,
+      search: event.target.value.replace(/[.,!?"']/g, '').toLowerCase().trim(),
     });
   }
 
   buildGrid() {
     var imgs = [];
-    let searchString = this.state.search.toLowerCase().trim();
+    let searchString = this.state.search;
 
 
     movies.forEach(movie => {
       movie.imgs.forEach(img => {
-        if (img.sub.join(' ').toLowerCase().includes(searchString)) {
+        if (img.sub.join(' ').replace(/[.,!?"']/g, '').toLowerCase().includes(searchString)) {
           imgs.push(<Meme
             key={`${movie.id} ${img.id}`}
             src={img.src}
@@ -109,7 +111,7 @@ class PrequelMemes extends Component {
       <div className="App">
         {this.state.screenshot ? this.buildScreenshot() : null}
         <div className="gradientHeaderPreq"></div>
-        <Searchbar onSearchChange={this.handleSearchChange} placeholder='Search' />
+        <Searchbar onSearchChange={this.handleSearchChange} placeholder={placeHolders.default[Math.floor(Math.random() * placeHolders.default.length)]} />
         <div className="prequelBody">
           <div className="grid">
             {this.state.search.length >= 3 ? this.buildGrid() : null}

@@ -2,7 +2,7 @@
   "name": "marvelquotes",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://seanlennaerts.github.io/mcuverse",
+  "homepage": "https://searchmoviequotes.com",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.19",
     "@fortawesome/free-brands-svg-icons": "^5.9.0",
@@ -11,6 +11,7 @@
     "clipboard-polyfill": "^2.8.1",
     "gh-pages": "^2.0.1",
     "html2canvas": "^1.0.0-rc.3",
+    "lodash.debounce": "^4.0.8",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
