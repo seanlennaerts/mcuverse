@@ -1,6 +1,6 @@
 import React, { Component } from 'react';
 
-import { Searchbar, Meme, Screenshot } from '../components';
+import { Searchbar, Meme, Screenshot, AsyncImage } from '../components';
 import '../App.scss';
 import movies from '../starwars/index';
 import * as placeHolders from '../starwars/placeholder.json';
@@ -67,7 +67,7 @@ class PrequelMemes extends Component {
 
   handleSearchChange(event) {
     this.setState({
-      search: event.target.value.replace(/[.,!?"']/g, '').toLowerCase().trim(),
+      search: event.target.value.replace(/[.,!?"'-]/g, '').toLowerCase().trim(),
     });
   }
 
@@ -78,11 +78,15 @@ class PrequelMemes extends Component {
 
     movies.forEach(movie => {
       movie.imgs.forEach(img => {
-        if (img.sub.join(' ').replace(/[.,!?"']/g, '').toLowerCase().includes(searchString)) {
-          imgs.push(<Meme
-            key={`${movie.id} ${img.id}`}
+        if (img.sub.join(' ').replace(/[.,!?"'-]/g, '').toLowerCase().includes(searchString)) {
+          // imgs.push(<Meme
+          //   key={`${movie.id} ${img.id}`}
+          //   src={`https://res.cloudinary.com/searchmoviequotes/image/upload/v1566439481/${img.src}`}
+          //   alt={`${movie.id} ${img.id}`}
+          //   text={img.sub}
+          // />);
+          imgs.push(<AsyncImage
             src={img.src}
-            alt={`${movie.id} ${img.id}`}
             text={img.sub}
           />);
         }
