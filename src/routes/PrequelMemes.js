@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import debounce from 'lodash.debounce';
 
 import { Searchbar, Meme, Screenshot, AsyncImage } from '../components';
 import '../App.scss';
@@ -12,17 +13,35 @@ class PrequelMemes extends Component {
 
     this.handleSearchChange = this.handleSearchChange.bind(this);
     this.handleMemeClick = this.handleMemeClick.bind(this);
+    this.handleScroll = this.handleScroll.bind(this);
 
     this.state = {
       search: '',
       screenshot: false,
       screenshotImage: '',
       screenshotText: [],
+
+      getIndex: this.searchlimit,
     };
+
+    this.searchlimit = 3*5;
   }
+
 
   componentDidMount() {
     document.title = 'Star Wars - Search Movie Quotes'
+    window.addEventListener('scroll', debounce(this.handleScroll, 100));
+  }
+
+  handleScroll() {
+    console.log(`window.innerHeight ${window.innerHeight}`);
+    console.log(`document.documentElement.scrollTop ${document.documentElement.scrollTop}`);
+    console.log(`document.documentElement.offsetHeight ${document.documentElement.offsetHeight}`);
+    if (window.innerHeight + document.documentElement.scrollTop === document.documentElement.offsetHeight) {
+      
+      console.log('reached bottom');
+      this.setState({getIndex: this.state.getIndex + this.searchlimit});
+    }
   }
 
   buildScreenshot() {
@@ -68,6 +87,7 @@ class PrequelMemes extends Component {
   handleSearchChange(event) {
     this.setState({
       search: event.target.value.replace(/[.,!?"'-]/g, '').toLowerCase().trim(),
+      getIndex: this.searchlimit,
     });
   }
 
@@ -92,7 +112,7 @@ class PrequelMemes extends Component {
         }
       });
     });
-    return imgs;
+    return imgs.slice(0, this.state.getIndex); // FIX: this is terrible because it searches redundantly
   }
 
   buildMemeModal() {
@@ -117,7 +137,7 @@ class PrequelMemes extends Component {
         <Searchbar onSearchChange={this.handleSearchChange} placeholder={placeHolders.default[Math.floor(Math.random() * placeHolders.default.length)]} />
         <div className="prequelBody">
           <div className="grid">
-            {this.state.search.length >= 3 ? this.buildGrid() : null}
+            {this.state.search.length >= 1 ? this.buildGrid() : null}
           </div>
         </div>
       </div>

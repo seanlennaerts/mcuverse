@@ -15,8 +15,6 @@ class AsyncImage extends Component {
   }
 
   onLoad() {
-    console.log('loaded');
-
     this.setState({
       loaded: true
     })
