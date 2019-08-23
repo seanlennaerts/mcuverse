@@ -78,7 +78,7 @@ class Main extends Component {
 
   handleSearchChange(event) {
     this.setState({
-      search: event.target.value,
+      search: event.target.value.toLowerCase().trim(),
       linkQuote: null
     });
   }
@@ -97,7 +97,7 @@ class Main extends Component {
     let matches = [];
     movies.forEach(movie => {
       movie.subs.forEach((sub, index) => {
-        let strIndex = sub.sub.join(' ').toLowerCase().indexOf(this.state.search.toLowerCase().trim());
+        let strIndex = sub.sub.join(' ').toLowerCase().indexOf(this.state.search);
         if (strIndex >= 0) {
           matches.push(this.buildQuote(movie, sub, index))
         }
@@ -112,7 +112,7 @@ class Main extends Component {
         context={this.buildContext(movie, index)}
         sub={sub.sub}
         subIndex={index}
-        search={this.state.search.toLowerCase().trim()} //important to trim to match the actual search because highlighting calcs are based on length
+        search={this.state.search} //important to trim to match the actual search because highlighting calcs are based on length
         title={movie.title}
         movieId={movie.id}
         time={sub.time}
@@ -130,7 +130,7 @@ class Main extends Component {
           <img src='/assets/Marvel_Studios_2016_logo.svg' alt='MCU logo' />
         </div>
         <div className="gradientHeader"></div>
-        <Searchbar value={this.state.search} onSearchChange={this.handleSearchChange} placeholder='Search verse' />
+        <Searchbar onSearchChange={this.handleSearchChange} placeholder='Search verse' />
         <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipboard</div>
         <div className="body" onTouchMove={() => document.getElementById('search').blur()}>
           {this.state.linkQuote ?
