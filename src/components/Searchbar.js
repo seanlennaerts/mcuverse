@@ -6,11 +6,13 @@ function Searchbar(props) {
   return (
     <div className="searchContainer">
       <input
+        id="search"
         type="search"
         value={value}
         onChange={onSearchChange}
         placeholder={placeholder}
         autoFocus
+        autoComplete="off"
       />
     </div>
   );

@@ -22,9 +22,9 @@ class AsyncImage extends Component {
 
   render() {
     return(
-      <a title="Download image" href={`https://res.cloudinary.com/searchmoviequotes/image/upload/v1566439481/${this.props.src}`} rel="noopener noreferrer" download target="_blank">
-        <div className="asyncWrapper" style={this.state.loaded ? {backgroundImage: `url(/assets/${this.props.src})`} : {backgroundImage: `url(/assets/${this.props.src})`, animation: "pulse 0.7s infinite ease-in-out"}}>
-          <img className="remote" onLoad={this.onLoad} style={this.state.loaded ? {opacity: 1} : {opacity: 0}} src={`https://res.cloudinary.com/searchmoviequotes/image/upload/v1566439481/${this.props.src}`} alt={this.props.text.join(' ')}/>
+      <a title="Download image" href={`https://firebasestorage.googleapis.com/v0/b/searchmoviequotes.appspot.com/o/starwars%2F${this.props.src.split('/')[1]}%2F${this.props.src.split('/')[2]}?alt=media`} rel="noopener noreferrer" download target="_blank">
+        <div className="asyncWrapper" style={this.state.loaded ? {backgroundImage: `url(/assets/${this.props.spl})`} : {backgroundImage: `url(/assets/${this.props.src})`, animation: "pulse 0.7s infinite ease-in-out"}}>
+          <img className="remote" onLoad={this.onLoad} style={this.state.loaded ? {opacity: 1} : {opacity: 0}} src={`https://firebasestorage.googleapis.com/v0/b/searchmoviequotes.appspot.com/o/starwars%2F${this.props.src.split('/')[1]}%2F${this.props.src.split('/')[2]}?alt=media`} alt={this.props.text.join(' ')}/>
         </div>
       </a>
     )

@@ -132,7 +132,7 @@ class Main extends Component {
         <div className="gradientHeader"></div>
         <Searchbar value={this.state.search} onSearchChange={this.handleSearchChange} placeholder='Search verse' />
         <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipboard</div>
-        <div className="body">
+        <div className="body" onTouchMove={() => document.getElementById('search').blur()}>
           {this.state.linkQuote ?
             [this.buildQuote(this.state.linkQuote.movie, this.state.linkQuote.sub, this.state.linkQuote.index, true)]
             : this.state.search.length >= 3 ? this.showSubs() : <Home movies={movies} />}

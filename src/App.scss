@@ -45,10 +45,13 @@ body {
   background: 
     linear-gradient(to bottom, transparent, #141414),
     linear-gradient(160deg, #FFE81F, transparent 60%);
-  position: sticky;
-  margin-top: -10rem;
+  // position: sticky;
+  position: fixed;
+  // margin-top: -10rem;
+  margin-top: -3rem;
+  top:0;
   z-index: -999;
-  top: -2.5rem;
+  // top: -2.5rem;
   pointer-events: none;
 }
 
@@ -57,7 +60,7 @@ body {
 }
 
 .prequelBody {
-  padding: 2rem 0;
+  padding-bottom: 2rem;
 }
 
 @media only screen and (min-width: 37.5em) {
@@ -68,6 +71,13 @@ body {
   .prequelBody {
     padding: 3rem;
   }
+}
+
+.loadMore {
+  padding: 2rem 0;
+  width: 100%;
+  display: flex;
+  justify-content: center;
 }
 
 .alert {

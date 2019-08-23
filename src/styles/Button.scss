@@ -1,0 +1,14 @@
+.button {
+  padding: 1rem;
+  text-align: center;
+  border-radius: .375rem;
+  box-shadow: 5px 5px 25px 0 rgba(46,61,73,.2);
+  color: #FFE81F;
+  border: solid 1px #FFE81F;
+  cursor: pointer;
+  width: 100%;
+  margin: 0 1rem;
+  @media only screen and (min-width: 37.5em) {
+    margin: 0;
+  }
+}
