@@ -14,6 +14,10 @@
   transition: 2s;
 }
 
+.pulse {
+  animation: pulse 0.7s infinite ease-in-out;
+}
+
 @keyframes pulse {
   0% { opacity: 0.8; }
   50% { opacity: 1; }
