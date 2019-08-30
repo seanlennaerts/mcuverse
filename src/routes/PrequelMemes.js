@@ -50,7 +50,7 @@ class PrequelMemes extends Component {
     // console.log(window.innerHeight + this.getScrollTop());
     // console.log(`document.documentElement.offsetHeight ${document.documentElement.offsetHeight}`);
     
-    if (this.state.getIndex >= this.searchResults) return;
+    if (this.searchResults === 0 || this.state.getIndex >= this.searchResults) return;
     if (window.innerHeight + this.getScrollTop() >= document.documentElement.offsetHeight) {
       // alert('reached bottom');
       this.setState({ getIndex: this.state.getIndex + this.searchlimit });
