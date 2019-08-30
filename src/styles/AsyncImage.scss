@@ -1,6 +1,6 @@
 .asyncWrapper {
   position: relative;
-  background-color: #171717;
+  background-color: #242424;
   background-repeat: no-repeat;
   background-position: center top;
   background-size: contain;
@@ -16,7 +16,7 @@
 }
 
 .pulse {
-  animation: pulse 1s infinite ease-in-out;
+  animation: pulse 0.7s infinite ease-in-out;
 }
 
 @keyframes pulse {

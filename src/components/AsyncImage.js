@@ -8,23 +8,39 @@ class AsyncImage extends Component {
     super(props);
     
     this.state = {
-      loaded: false,
+      loadedSmall: false,
+      loadedLarge: false,
     }
 
-    this.onLoad = this.onLoad.bind(this);
+    this.onLoadSmall = this.onLoadSmall.bind(this);
+    this.onLoadLarge = this.onLoadLarge.bind(this);
+
+    let small = new Image();
+    small.onload = () => this.onLoadSmall();
+    small.src = `/assets/${this.props.src.split('.')[0]}-small.png`;
+
+    let large = new Image();
+    large.onload = () => this.onLoadLarge();
+    large.src = `/assets/${this.props.src.split('.')[0]}-large.png`;
   }
 
-  onLoad() {
+  onLoadSmall() {
+      this.setState({
+        loadedSmall: true
+      });
+  }
+
+  onLoadLarge() {
     this.setState({
-      loaded: true
-    })
+      loadedLarge: true
+    });
   }
 
   render() {
     return(
       <a title="Download image" href={`/assets/${this.props.src.split('.')[0]}-large.png`} rel="noopener noreferrer" download target="_blank">
-        <div className={`asyncWrapper ${this.state.loaded ? '' : 'pulse'}`} style={{backgroundImage: `url(/assets/${this.props.src.split('.')[0]}-small.png`}}>
-          <img className="remote" onLoad={this.onLoad} style={this.state.loaded ? {opacity: 1} : {opacity: 0}} src={`/assets/${this.props.src.split('.')[0]}-large.png`} alt={this.props.text.join(' ')}/>
+        <div className={`asyncWrapper ${this.state.loadedLarge ? '' : 'pulse'}`} style={this.state.loadedSmall ? {backgroundImage: `url(/assets/${this.props.src.split('.')[0]}-small.png`} : {}}>
+          <img className="remote" style={this.state.loadedLarge ? {opacity: 1} : {opacity: 0}} src={`/assets/${this.props.src.split('.')[0]}-large.png`} alt={this.props.text.join(' ')}/>
         </div>
       </a>
     )
