@@ -2,9 +2,8 @@
 
 import React, { Component, } from "react";
 import ReactGA from "react-ga";
-import * as keys from '../keys.json';
 
-ReactGA.initialize(keys.googleAnalytics);
+ReactGA.initialize('UA-142102044-1');
 
 const withTracker = (WrappedComponent, options = {}) => {
   const trackPage = page => {
