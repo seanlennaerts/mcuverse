@@ -23,14 +23,14 @@ class PrequelMemes extends Component {
       getIndex: this.searchlimit,
     };
 
-    this.searchlimit = (3 * 5) * 2;
+    this.searchlimit = (3 * 5) * 1;
     this.searchResults = 0;
   }
 
 
   componentDidMount() {
     document.title = 'Star Wars - Search Movie Quotes'
-    window.addEventListener('scroll', debounce(this.handleScroll, 100));
+    window.addEventListener('scroll', debounce(this.handleScroll, 50));
   }
 
   // componentDidUpdate() {
@@ -45,14 +45,14 @@ class PrequelMemes extends Component {
   getScrollTop () { const el = document.scrollingElement || document.documentElement; return el.scrollTop }
 
   handleScroll() {
-    // console.log(`window.innerHeight: ${window.innerHeight}`);
-    // console.log(`document.documentElement.scrollTop ${this.getScrollTop()}`);
-    // console.log(window.innerHeight + this.getScrollTop());
-    // console.log(`document.documentElement.offsetHeight ${document.documentElement.offsetHeight}`);
+    
     
     if (this.searchResults === 0 || this.state.getIndex >= this.searchResults) return;
-    if (window.innerHeight + this.getScrollTop() >= document.documentElement.offsetHeight) {
-      // alert('reached bottom');
+    // console.log(`window.innerHeight: ${window.innerHeight}`);
+    // console.log(`document.documentElement.scrollTop ${this.getScrollTop()}`);
+    // console.log(`document.documentElement.offsetHeight ${document.documentElement.offsetHeight - window.innerHeight * 2}`);
+    if (this.getScrollTop() >= document.documentElement.offsetHeight - window.innerHeight * 2) {
+      console.log('loading more...');
       this.setState({ getIndex: this.state.getIndex + this.searchlimit });
     }
   }
