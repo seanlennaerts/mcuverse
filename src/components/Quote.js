@@ -4,6 +4,8 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faCopy } from '@fortawesome/free-solid-svg-icons';
 import { faReddit } from '@fortawesome/free-brands-svg-icons';
 
+import ReactGA from "react-ga";
+
 import '../styles/Quote.scss';
 import * as clipboard from "clipboard-polyfill";
 
@@ -24,8 +26,18 @@ class Quote extends Component {
       const quote = this.props.sub.join(' ');
       switch(purpose) {
         case "reddit":
+          ReactGA.event({
+            category: 'mcu',
+            action: 'share reddit',
+            label: `${this.props.movieId}-${this.props.subIndex}`
+          });
           return `${quote} [(*${this.props.title} ${this.props.time}*)](https://${window.location.hostname}/mcuverse/?movie=${this.props.movieId}&quoteIndex=${this.props.subIndex})`;
         default:
+          ReactGA.event({
+            category: 'mcu',
+            action: 'share default',
+            label: `${this.props.movieId}-${this.props.subIndex}` 
+          });
           return `${quote} (${this.props.title} ${this.props.time})`;
       }
     };
@@ -41,6 +53,13 @@ class Quote extends Component {
   }
 
   handleClickModal() {
+    if (!this.state.showModal) { // protect from double firing
+      ReactGA.event({
+        category: 'mcu',
+        action: 'open modal',
+        label: `${this.props.movieId}-${this.props.subIndex}` 
+      });
+    }
     this.setState({
       showModal: !this.state.showModal,
     });

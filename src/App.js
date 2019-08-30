@@ -1,8 +1,9 @@
 import React, { Component } from 'react';
 import { BrowserRouter as Router, Route } from 'react-router-dom';
+import ReactGA from "react-ga";
 
 import { Home, Quote, Searchbar } from './components';
-import { PrequelMemes, Franchise } from './routes';
+import { PrequelMemes, Franchise, withTracker } from './routes';
 
 import './App.scss';
 import movies from './movies/index';
@@ -11,9 +12,9 @@ class App extends Component {
   render() {
     return (
       <Router>
-        <Route exact path="/" component={Franchise} />
-        <Route path="/mcuverse" component={Main} />
-        <Route path="/starwars" component={PrequelMemes} />
+        <Route exact path="/" component={withTracker(Franchise)} />
+        <Route path="/mcuverse" component={withTracker(Main)} />
+        <Route path="/starwars" component={withTracker(PrequelMemes)} />
       </Router>
     );
   }
@@ -44,13 +45,14 @@ class Main extends Component {
     this.handleAlert = this.handleAlert.bind(this);
     this.buildContext = this.buildContext.bind(this);
     this.buildQuote = this.buildQuote.bind(this);
-    // this.handleScroll = this.handleScroll.bind(this);
 
     this.state = {
       alert: false,
       search: '',
       linkQuote,
     };
+
+    this.searchHistory = '';
   }
 
   componentDidMount() {
@@ -77,6 +79,21 @@ class Main extends Component {
   }
 
   handleSearchChange(event) {
+    if (event.target.value.length < this.state.search.length) {
+      if (this.searchHistory.length === 0) {
+        this.searchHistory = this.state.search;
+      }
+    } else if (event.target.value.length > this.state.search.length) {
+      this.searchHistory = ''; // considered a correction, will lose some search events tho
+    }
+    if (event.target.value.length === 0) {
+      ReactGA.event({
+        category: 'mcu',
+        action: 'search',
+        label: this.searchHistory
+      });
+    }
+
     this.setState({
       search: event.target.value.toLowerCase().trim(),
       linkQuote: null

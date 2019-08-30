@@ -1,7 +1,8 @@
 import React, { Component } from 'react';
 import debounce from 'lodash.debounce';
+import ReactGA from "react-ga";
 
-import { Searchbar, Screenshot, AsyncImage, Button } from '../components';
+import { Searchbar, AsyncImage, Button } from '../components';
 import '../App.scss';
 import movies from '../starwars/index';
 import * as placeHolders from '../starwars/placeholder.json';
@@ -11,32 +12,22 @@ class PrequelMemes extends Component {
     super(props);
 
     this.handleSearchChange = this.handleSearchChange.bind(this);
-    this.handleMemeClick = this.handleMemeClick.bind(this);
     this.handleScroll = this.handleScroll.bind(this);
 
     this.state = {
       search: '',
-      screenshot: false,
-      screenshotImage: '',
-      screenshotText: [],
-
       getIndex: this.searchlimit,
     };
 
     this.searchlimit = (3 * 5) * 1;
     this.searchResults = 0;
+    this.searchHistory = '';
   }
-
 
   componentDidMount() {
     document.title = 'Star Wars - Search Movie Quotes'
     window.addEventListener('scroll', debounce(this.handleScroll, 50));
   }
-
-  // componentDidUpdate() {
-  //   console.log(`searchResults: ${this.searchResults}`);
-  //   console.log(`getindex: ${this.state.getIndex}`);
-  // }
 
   componentWillUnmount() {
     window.removeEventListener('scroll', this.handleScroll);
@@ -45,8 +36,6 @@ class PrequelMemes extends Component {
   getScrollTop () { const el = document.scrollingElement || document.documentElement; return el.scrollTop }
 
   handleScroll() {
-    
-    
     if (this.searchResults === 0 || this.state.getIndex >= this.searchResults) return;
     // console.log(`window.innerHeight: ${window.innerHeight}`);
     // console.log(`document.documentElement.scrollTop ${this.getScrollTop()}`);
@@ -56,47 +45,21 @@ class PrequelMemes extends Component {
     }
   }
 
-  buildScreenshot() {
-    return (
-      <Screenshot
-        image={this.state.screenshotImage}
-      // text = {this.state.screenshotText}
-      />
-    )
-  }
-
-  // handleMemeClick(image, text) {
-  //   this.setState({
-  //     screenshot: true,
-  //     screenshotImage: image,
-  //     screenshotText: text,
-  //   });
-
-
-  handleMemeClick(element) {
-    this.setState({ screenshotImage: element });
-    console.log(element);
-
-    // console.log(image, text);
-    // let img = document.createElement('img');
-    // img.src = `${image}`;
-    // img.style.width = '1280px';
-    // p.style.position = 'absolute';
-    // p.style.top = '-9999px';
-    // p.style.left = '-9999px';
-    // document.body.prepend(img);
-    // html2canvas(p).then(canvas => {
-    //   let a = document.createElement('a');
-    //   a.href = canvas.toDataURL();
-    //   a.download = 'test.png';
-    //   a.click();
-    // });
-    // html2canvas(key).then(function(canvas) {
-    //   console.log(canvas.toDataURL("image/jpg"));
-    // });
-  }
-
   handleSearchChange(event) {
+    if (event.target.value.length < this.state.search.length) {
+      if (this.searchHistory.length === 0) {
+        this.searchHistory = this.state.search;
+      }
+    } else if (event.target.value.length > this.state.search.length) {
+      this.searchHistory = ''; // considered a correction, will lose some search events tho
+    }
+    if (event.target.value.length === 0) {
+      ReactGA.event({
+        category: 'starwars',
+        action: 'search',
+        label: this.searchHistory
+      });
+    }
     this.setState({
       search: event.target.value.replace(/[.,!?"'-]/g, '').toLowerCase().trim(),
       getIndex: this.searchlimit,
@@ -117,6 +80,7 @@ class PrequelMemes extends Component {
           imgs.push(<AsyncImage
             src={img.src}
             text={img.sub}
+            track={`${movie.id}-${img.id}`} // can't access key so dup is necassary
             key={`${movie.id}-${img.id}`}
           />);
         }
@@ -124,20 +88,6 @@ class PrequelMemes extends Component {
     });
     this.searchResults = imgs.length;
     return imgs.slice(0, this.state.getIndex); // todo: fix this garbage
-  }
-
-  buildMemeModal() {
-
-    const divStyle = { backgroundImage: `url(${this.state.modalImage})` }
-    return (
-      <div className="memeModalWrapper">
-        <div className="memeModal">
-          <div className="memeImage" style={divStyle}>
-          </div>
-        </div>
-      </div >
-
-    );
   }
 
   //shitty workaround for infinite scroll when original fetch doesn't have enough content to scroll
