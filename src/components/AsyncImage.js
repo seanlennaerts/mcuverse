@@ -22,9 +22,9 @@ class AsyncImage extends Component {
 
   render() {
     return(
-      <a title="Download image" href={`https://firebasestorage.googleapis.com/v0/b/searchmoviequotes.appspot.com/o/starwars%2F${this.props.src.split('/')[1]}%2F${this.props.src.split('/')[2]}?alt=media`} rel="noopener noreferrer" download target="_blank">
-        <div className={`asyncWrapper ${this.state.loaded ? '' : 'pulse'}`} style={{backgroundImage: `url(/assets/${this.props.src})`}}>
-          <img className="remote" onLoad={this.onLoad} style={this.state.loaded ? {opacity: 1} : {opacity: 0}} src={`https://firebasestorage.googleapis.com/v0/b/searchmoviequotes.appspot.com/o/starwars%2F${this.props.src.split('/')[1]}%2F${this.props.src.split('/')[2]}?alt=media`} alt={this.props.text.join(' ')}/>
+      <a title="Download image" href={`/assets/${this.props.src.split('.')[0]}-large.png`} rel="noopener noreferrer" download target="_blank">
+        <div className={`asyncWrapper ${this.state.loaded ? '' : 'pulse'}`} style={{backgroundImage: `url(/assets/${this.props.src.split('.')[0]}-small.png`}}>
+          <img className="remote" onLoad={this.onLoad} style={this.state.loaded ? {opacity: 1} : {opacity: 0}} src={`/assets/${this.props.src.split('.')[0]}-large.png`} alt={this.props.text.join(' ')}/>
         </div>
       </a>
     )
