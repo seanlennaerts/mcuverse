@@ -118,6 +118,7 @@ class PrequelMemes extends Component {
           imgs.push(<AsyncImage
             src={img.src}
             text={img.sub}
+            key={`${movie.id}-${img.id}`}
           />);
         }
       });

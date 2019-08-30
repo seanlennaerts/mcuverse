@@ -96,29 +96,29 @@ class Main extends Component {
   showSubs() {
     let matches = [];
     movies.forEach(movie => {
-      movie.subs.forEach((sub, index) => {
+      movie.subs.forEach(sub => {
         let strIndex = sub.sub.join(' ').toLowerCase().indexOf(this.state.search);
         if (strIndex >= 0) {
-          matches.push(this.buildQuote(movie, sub, index))
+          matches.push(this.buildQuote(movie, sub))
         }
       });
     });
     return matches;
   }
 
-  buildQuote(movie, sub, index, showModal = false) {
+  buildQuote(movie, sub, showModal = false) {
     return (
       <Quote
-        context={this.buildContext(movie, index)}
+        context={this.buildContext(movie, sub.index)}
         sub={sub.sub}
-        subIndex={index}
+        subIndex={sub.index}
         search={this.state.search} //important to trim to match the actual search because highlighting calcs are based on length
         title={movie.title}
         movieId={movie.id}
         time={sub.time}
         handle={this.handleAlert}
-        index={index}
         showModal={showModal}
+        key={`${movie.id}-${sub.index}`}
       />
     )
   }
