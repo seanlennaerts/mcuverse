@@ -21,7 +21,7 @@ class PrequelMemes extends Component {
 
     this.searchlimit = (3 * 5) * 1;
     this.searchResults = 0;
-    this.searchHistory = '';
+    this.searchTimeout = null;
   }
 
   componentDidMount() {
@@ -33,7 +33,7 @@ class PrequelMemes extends Component {
     window.removeEventListener('scroll', this.handleScroll);
   }
 
-  getScrollTop () { const el = document.scrollingElement || document.documentElement; return el.scrollTop }
+  getScrollTop() { const el = document.scrollingElement || document.documentElement; return el.scrollTop }
 
   handleScroll() {
     if (this.searchResults === 0 || this.state.getIndex >= this.searchResults) return;
@@ -46,28 +46,37 @@ class PrequelMemes extends Component {
   }
 
   handleSearchChange(event) {
-    if (event.target.value.length < this.state.search.length) {
-      if (this.searchHistory.length === 0) {
-        this.searchHistory = this.state.search;
-      }
-    } else if (event.target.value.length > this.state.search.length) {
-      this.searchHistory = ''; // considered a correction, will lose some search events tho
-    }
     if (event.target.value.length === 0) {
-      ReactGA.event({
-        category: 'starwars',
-        action: 'search',
-        label: this.searchHistory
-      });
+      clearTimeout(this.searchTimeout);
+      if (this.state.search.length > 0) {
+        ReactGA.event({
+          category: 'starwars',
+          action: 'search',
+          label: this.state.search
+        });
+      }
     }
+
     this.setState({
       search: event.target.value.replace(/[.,!?"'-]/g, '').toLowerCase().trim(),
       getIndex: this.searchlimit,
     });
+
+    clearTimeout(this.searchTimeout);
+    this.searchTimeout = setTimeout(() => {
+      if (this.state.search.length > 0) {
+        ReactGA.event({
+          category: 'starwars',
+          action: 'search',
+          label: this.state.search
+        });
+      }
+    }, 2000);
+
     if (event.target.value.length === 0) {
       this.searchResults = 0;
     }
-    window.scrollTo(0,0);
+    window.scrollTo(0, 0);
   }
 
   buildGrid() {
@@ -97,7 +106,7 @@ class PrequelMemes extends Component {
         <div className="loadMore">
           <Button
             text="SHOW MORE"
-            onClick={() => {this.setState({getIndex: this.state.getIndex + this.searchlimit})}}
+            onClick={() => { this.setState({ getIndex: this.state.getIndex + this.searchlimit }) }}
           />
         </div>
       );

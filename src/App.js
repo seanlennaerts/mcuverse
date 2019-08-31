@@ -52,52 +52,44 @@ class Main extends Component {
       linkQuote,
     };
 
-    this.searchHistory = '';
+    this.searchTimeout = null;
   }
 
   componentDidMount() {
     document.title = 'MCU Bible Verse - Search Movie Quotes';
-    // window.addEventListener('scroll', debounce(this.handleScroll, 100));
   }
-
-  // handleScroll() {
-  //   if (window.innerHeight + document.documentElement.scrollTop === document.documentElement.offsetHeight) {
-  //     console.log('reached bottom')
-  //     this.loadMoreQuotes();
-  //   }
-  // }
-
-  // loadMoreQuotes() {
-  //   console.log('loading');
-  //   // this.setState({ isLoading: true });
-  //   this.getSubs();
-  // }
-
 
   handleAlert(show) {
     this.setState({ alert: show });
   }
 
   handleSearchChange(event) {
-    if (event.target.value.length < this.state.search.length) {
-      if (this.searchHistory.length === 0) {
-        this.searchHistory = this.state.search;
-      }
-    } else if (event.target.value.length > this.state.search.length) {
-      this.searchHistory = ''; // considered a correction, will lose some search events tho
-    }
     if (event.target.value.length === 0) {
-      ReactGA.event({
-        category: 'mcu',
-        action: 'search',
-        label: this.searchHistory
-      });
+      clearTimeout(this.searchTimeout);
+      if (this.state.search.length > 0) {
+        ReactGA.event({
+          category: 'mcu',
+          action: 'search',
+          label: this.state.search
+        });
+      }
     }
 
     this.setState({
       search: event.target.value.toLowerCase().trim(),
       linkQuote: null
     });
+    
+    clearTimeout(this.searchTimeout);
+    this.searchTimeout = setTimeout(() => {
+      if (this.state.search.length > 0) {
+        ReactGA.event({
+          category: 'mcu',
+          action: 'search',
+          label: this.state.search
+        });
+      }
+    }, 2000); // might need to adjust this treshold
   }
 
   buildContext(movie, index) {
