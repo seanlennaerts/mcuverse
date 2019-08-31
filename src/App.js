@@ -64,15 +64,13 @@ class Main extends Component {
   }
 
   handleSearchChange(event) {
-    if (event.target.value.length === 0) {
+    if (event.target.value.length <= 1 && this.state.search.length > 1) {
       clearTimeout(this.searchTimeout);
-      if (this.state.search.length > 0) {
-        ReactGA.event({
-          category: 'mcu',
-          action: 'search',
-          label: this.state.search
-        });
-      }
+      ReactGA.event({
+        category: 'mcu',
+        action: 'search',
+        label: this.state.search
+      });
     }
 
     this.setState({
