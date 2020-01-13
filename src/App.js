@@ -142,7 +142,7 @@ class Main extends Component {
         <div className="body" onTouchMove={() => document.getElementById('search').blur()}>
           {this.state.linkQuote ?
             [this.buildQuote(this.state.linkQuote.movie, this.state.linkQuote.sub, this.state.linkQuote.index, true)]
-            : this.state.search.length >= 3 ? this.showSubs() : <Home movies={movies} />}
+            : this.state.search.length >= 0 ? this.showSubs() : <Home movies={movies} />}
         </div>
 
 
