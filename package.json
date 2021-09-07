@@ -1,6 +1,6 @@
 {
   "name": "marvelquotesit",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "private": true,
   "homepage": "https://timendum.github.io/mcuverse",
   "dependencies": {
@@ -9,6 +9,7 @@
     "@fortawesome/free-solid-svg-icons": "^5.9.0",
     "@fortawesome/react-fontawesome": "^0.1.4",
     "clipboard-polyfill": "^2.8.1",
+    "create-react-app": "^4.0.3",
     "gh-pages": "^2.0.1",
     "node-sass": "^4.12.0",
     "react": "^16.8.6",
