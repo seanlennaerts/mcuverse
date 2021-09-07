@@ -1,4 +1,5 @@
 import * as BlackPanther from './Black Panther.json';
+import * as BlackWidow from './Black Widow.json';
 import * as CaptainMarvel from './Captain Marvel.json';
 import * as DoctorStrange from './Doctor Strange.json';
 import * as IAntMan from './1 Ant-Man.json';
@@ -13,6 +14,7 @@ import * as IIAvengers from './2 Avengers.json';
 import * as IICaptainAmerica from './2 Captain America.json';
 import * as IIGuardiansoftheGalaxy from './2 Guardians of the Galaxy.json';
 import * as IIIronMan from './2 Iron Man.json';
+import * as IISpiderMan from './2 Spider-Man.json';
 import * as IIThor from './2 Thor.json';
 import * as IIIAvengers from './3 Avengers.json';
 import * as IIICaptainAmerica from './3 Captain America.json';
@@ -26,6 +28,11 @@ const subs = [
         id: "blackpanther",
         title: "Black Panther",
         subs: BlackPanther.default
+    },
+    {   
+        id: "blackwidow",
+        title: "Black Widow",
+        subs: BlackWidow.default
     },
     {   
         id: "captainmarvel",
@@ -96,6 +103,11 @@ const subs = [
         id: "ironman2",
         title: "2 Iron Man",
         subs: IIIronMan.default
+    },
+    {
+        id: "spiderman2",
+        title: "2 Spider-Man",
+        subs: IISpiderMan.default
     },
     {
         id: "thor2",
