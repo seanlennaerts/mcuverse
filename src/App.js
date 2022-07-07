@@ -1,21 +1,9 @@
 import React, { Component } from 'react';
-import { BrowserRouter as Router, Route } from "react-router-dom";
-
 import { Home, Quote, Searchbar } from './components';
 import './App.scss';
 import movies from './movies/index';
 
-class App extends Component {
-  render() {
-    return (
-      <Router>
-        <Route path="/" component={Main} />
-      </Router>
-    );
-  }
-}
-
-class Main extends React.Component {
+class App extends React.Component {
   constructor(props) {
     super(props);
     
@@ -115,3 +103,4 @@ class Main extends React.Component {
 }
 
 export default App;
+
