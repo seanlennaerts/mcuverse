@@ -31,7 +31,8 @@ class Home extends Component {
           <p>{this.state.quote.line} <i>({this.state.quote.title} {this.state.quote.time})</i></p>
         </div>
         <div className="credits">
-          made by /u/shonnyboymushi, translated and adapted by timendum.
+          Fatto da by /u/shonnyboymushi, tradotto e adattato da timendum.<br/>
+		  Ultimo film aggiunto: Doctor Strange nel Multiverso della Follia.
           </div>
       </div>
     );
