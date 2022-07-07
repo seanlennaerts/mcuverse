@@ -5,7 +5,6 @@ import { faCopy } from '@fortawesome/free-solid-svg-icons';
 import { faReddit } from '@fortawesome/free-brands-svg-icons';
 
 import '../styles/Quote.scss';
-import * as clipboard from "clipboard-polyfill";
 
 class Quote extends Component {
   constructor(props) {
@@ -30,7 +29,7 @@ class Quote extends Component {
       }
     };
 
-    clipboard.writeText(buildCopyTextFor(purpose));
+    navigator.clipboard.writeText(buildCopyTextFor(purpose));
     this.props.handle(true);
     setTimeout(() => {
       this.props.handle(false);
