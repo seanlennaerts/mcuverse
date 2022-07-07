@@ -38,6 +38,11 @@ const subs = [
         title: "Black Widow",
         subs: BlackWidow.default
     },
+    {
+        id: "captainmarvel",
+        title: "Captain Marvel",
+        subs: CaptainMarvel.default
+    },
     {   
         id: "eternals",
         title: "Eternals",
@@ -157,7 +162,7 @@ const subs = [
         id: "shangchi",
         title: "Shang-Chi",
         subs: ShangChi.default
-    }
+    },
     {
         id: "hulk",
         title: "The Incredible Hulk",
