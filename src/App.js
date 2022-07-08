@@ -73,6 +73,7 @@ class App extends React.Component {
   buildQuote(movie, sub, index, showModal = false) {
     return (
       <Quote
+      key={movie.id+sub.time}
       context={this.buildContext(movie, index)}
       sub={sub.sub}
       subIndex={index}
