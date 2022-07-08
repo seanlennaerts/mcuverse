@@ -19,6 +19,10 @@ To check live the changes.
 
 To produce a build.
 
-	npm run-script gh-pages
+	npm run-script serve
+
+To produce test the build.
+
+	npm run-script deploy
 
 To publish the build to Github Pages.
