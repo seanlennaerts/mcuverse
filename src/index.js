@@ -6,7 +6,6 @@ import {
 } from "react-router-dom";
 import './index.css';
 import App from './App';
-import { register } from './serviceWorker';
 
 
 const root = ReactDOM.createRoot(
@@ -19,6 +18,4 @@ root.render(
       </Routes>
     </BrowserRouter>
 );
-
-register();
 
