@@ -40,6 +40,11 @@ class Quote extends Component {
   }
 
   handleClickModal() {
+	if (!this.state.showModal) {
+		window.history.pushState({}, '', `${window.location.protocol}//${window.location.hostname}:${window.location.port}/mcuverse/?movie=${this.props.movieId}&quoteIndex=${this.props.subIndex}`);
+	} else {
+		window.history.pushState({}, '', `${window.location.protocol}//${window.location.hostname}:${window.location.port}/mcuverse/`);
+	}
     this.setState({
       showModal: !this.state.showModal,
     });

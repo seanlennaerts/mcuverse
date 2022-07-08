@@ -1,7 +1,8 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Home, Quote, Searchbar } from './components';
 import './App.scss';
 import movies from './movies/index';
+import Fuse from 'fuse.js'
 
 class App extends React.Component {
   constructor(props) {
@@ -24,6 +25,8 @@ class App extends React.Component {
       }
     } catch (e) {}
 
+    const flatSubs = movies.map(x => x.subs.map((y,i) => ({"id": x['id'], 'sub':y['sub'].join(" "), 'i':i}))).flatMap(x => x);
+    this.fuse = new Fuse(flatSubs, {keys: ["sub"], includeMatches: true,  threshold: 0.3, ignoreLocation: true,  minMatchCharLength: 3});
     this.handleSearchChange = this.handleSearchChange.bind(this);
     this.handleAlert = this.handleAlert.bind(this);
     this.buildContext = this.buildContext.bind(this);
@@ -58,26 +61,27 @@ class App extends React.Component {
   }
 
   showSubs() {
-    var matches = []
-    movies.forEach(movie => {
-      movie.subs.forEach((sub, index) => {
-        let strIndex = sub.sub.join(' ').toLowerCase().indexOf(this.state.search.toLowerCase());
-        if (strIndex >= 0) {
-          matches.push(this.buildQuote(movie, sub, index))
+    const matches = [];
+    const finded = this.fuse.search(this.state.search.toLowerCase(), {limit: 99});
+    finded.forEach(row => {
+      movies.forEach(movie => {
+        if (movie.id === row.item.id) {
+            const matched = row.matches[0].value.substring(row.matches[0].indices[0][0], row.matches[0].indices[0][1]);
+            matches.push(this.buildQuote(movie, movie.subs[row.item.i], row.item.i, matched));
         }
-      });
+      })
     });
     return matches;
   }
 
-  buildQuote(movie, sub, index, showModal = false) {
+  buildQuote(movie, sub, index, matched,showModal = false) {
     return (
       <Quote
-      key={movie.id+sub.time}
+      key={movie.id + sub.index}
       context={this.buildContext(movie, index)}
       sub={sub.sub}
       subIndex={index}
-      search={this.state.search.toLowerCase().trim()} //important to trim to match the actual search because highlighting calcs are based on length
+      search={matched}
       title={movie.title}
       movieId={movie.id}
       time={sub.time}
