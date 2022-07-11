@@ -10,7 +10,7 @@ class App extends React.Component {
     
     let linkQuote;
     try {
-      let queryParams = new URLSearchParams(props.location.search);
+      let queryParams = new URLSearchParams(document.location.search);
       let indexFromUrl = parseInt(queryParams.get("quoteIndex"));
       let movieFromUrl = queryParams.get("movie");
       if (movieFromUrl && indexFromUrl) {
@@ -62,19 +62,22 @@ class App extends React.Component {
 
   showSubs() {
     const matches = [];
-    const finded = this.fuse.search(this.state.search.toLowerCase(), {limit: 99});
+    const ss = this.state.search.toLowerCase();
+    const finded = this.fuse.search(ss, {limit: 99});
     finded.forEach(row => {
       movies.forEach(movie => {
         if (movie.id === row.item.id) {
-            const matched = row.matches[0].value.substring(row.matches[0].indices[0][0], row.matches[0].indices[0][1]);
-            matches.push(this.buildQuote(movie, movie.subs[row.item.i], row.item.i, matched));
+           if (row.matches[0].indices[0][1] - row.matches[0].indices[0][0] > ss.length/2) {
+              const matched = row.matches[0].value.substring(row.matches[0].indices[0][0], row.matches[0].indices[0][1]+1);
+              matches.push(this.buildQuote(movie, movie.subs[row.item.i], row.item.i, matched));
+	    }
         }
       })
     });
     return matches;
   }
 
-  buildQuote(movie, sub, index, matched,showModal = false) {
+  buildQuote(movie, sub, index, matched, showModal = false) {
     return (
       <Quote
       key={movie.id + sub.index}
@@ -99,7 +102,7 @@ class App extends React.Component {
       <div className={`alert ${this.state.alert ? 'alert-show' : 'alert-hide'}`}>Copied to clipboard</div>
       <div className="body">
         { this.state.linkQuote ? 
-         [this.buildQuote(this.state.linkQuote.movie, this.state.linkQuote.sub, this.state.linkQuote.index, true)]
+         [this.buildQuote(this.state.linkQuote.movie, this.state.linkQuote.sub, this.state.linkQuote.index, "", true)]
          : this.state.search.length >= 3 ? this.showSubs() : <Home movies={movies}/>} 
       </div>
       </div>
