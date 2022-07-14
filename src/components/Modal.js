@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import '../styles/Modal.scss';
 
 export default function Modal(props) {
@@ -14,51 +14,15 @@ export default function Modal(props) {
       </ModalWrapper>
       : null
   );
-}
+};
 
-class ModalWrapper extends React.PureComponent {
-  constructor(props) {
-    super(props);
-
-    this.state = { visible: false }
-
-    this.handleClick = this.handleClick.bind(this);
-    this.handleEscPress = this.handleEscPress.bind(this);
-  }
-
-  handleClick(event) {
-    this.props.onClose();
-    event.stopPropagation();
-  }
-
-  handleEscPress(event) {
-    if (event.key === "Escape") {
-      this.props.onClose();
-    }
-  }
-
-  componentWillMount() {
-    document.addEventListener("keydown", this.handleEscPress);
-  }
-
-  componentDidMount() {
-    setTimeout(() => {
-      this.setState({ visible: true });
-    }, 10) // need timeout to async animation
-  }
-
-
-  componentWillUnmount() {
-    document.removeEventListener("keydown", this.handleEscPress);
-  }
-
-  render() {
-    return (
-      <div className={`modalWrapper ${this.state.visible ? 'modalVisible' : ''}`} onClick={this.handleClick}>
-        <div className={`modal ${this.state.visible ? 'modalContentVisible' : ''}`}>
-          {this.props.children}
+const ModalWrapper = (props) => {
+  const [visible] = useState(props.show);
+  return (
+      <div className={`modalWrapper ${visible ? 'modalVisible' : ''}`}>
+        <div className={`modal ${visible ? 'modalContentVisible' : ''}`}>
+          {props.children}
         </div>
       </div>
     );
-  }
-}
+};

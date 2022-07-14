@@ -70,7 +70,7 @@ class App extends React.Component {
            if (row.matches[0].indices[0][1] - row.matches[0].indices[0][0] > ss.length/2) {
               const matched = row.matches[0].value.substring(row.matches[0].indices[0][0], row.matches[0].indices[0][1]+1);
               matches.push(this.buildQuote(movie, movie.subs[row.item.i], row.item.i, matched));
-	    }
+        }
         }
       })
     });
@@ -89,8 +89,7 @@ class App extends React.Component {
       movieId={movie.id}
       time={sub.time}
       handle={this.handleAlert}
-      index={index}
-      showModal={showModal}
+      startingShowModal={showModal}
     />
     )
   }
