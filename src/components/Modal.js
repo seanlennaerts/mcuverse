@@ -14,7 +14,7 @@ export default function Modal(props) {
       </ModalWrapper>
       : null
   );
-};
+}
 
 const ModalWrapper = (props) => {
   const [visible] = useState(props.show);

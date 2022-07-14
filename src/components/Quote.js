@@ -14,7 +14,7 @@ const generateUrl = (movieId, subIndex) => {
 };
 
 
-const Quote = ({key, context, sub, subIndex, search, title, movieId, time, handle, startingShowModal}) => {
+const Quote = ({context, sub, subIndex, search, title, movieId, time, handle, startingShowModal}) => {
     const [showModal, setShowModal] = useState(startingShowModal);
     const handleEsc = (e) => {
         if (e.key === "Escape" && showModal) {
