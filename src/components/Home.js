@@ -10,10 +10,11 @@ const getRandomQuote = (movies) => {
     let line = '';
     let randMovie = null;
     let randQuote = null;
-    while (line.split(' ').length <= 4 || line.substring(0,1) !== line.substring(0,1).toUpperCase()) {
+    while (line.split(' ').length <= 4 || line[0] !== line[0].toUpperCase() || line[0].toLowerCase() === line[0].toUpperCase()) {
+		// exclude: less then 4 words,    not uppercase lines                  not starting with a letter
         randMovie = movies[getRandomInt(movies.length)];
         randQuote = randMovie.subs[getRandomInt(randMovie.subs.length)];
-        line = randQuote.sub.join(' ');
+        line = randQuote.sub.join(' ').trim();
     }
     return {title: randMovie.title, line: randQuote.sub.join(' '), time: randQuote.time}
 };
