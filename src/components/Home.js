@@ -11,7 +11,7 @@ const getRandomQuote = (movies) => {
     let randMovie = null;
     let randQuote = null;
     while (line.split(' ').length <= 4 || line[0] !== line[0].toUpperCase() || line[0].toLowerCase() === line[0].toUpperCase()) {
-		// exclude: less then 4 words,    not uppercase lines                  not starting with a letter
+        // exclude: less then 4 words,    not uppercase lines                  not starting with a letter
         randMovie = movies[getRandomInt(movies.length)];
         randQuote = randMovie.subs[getRandomInt(randMovie.subs.length)];
         line = randQuote.sub.join(' ').trim();
