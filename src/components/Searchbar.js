@@ -1,7 +1,8 @@
-import React from 'react';
-import '../styles/Searchbar.scss';
+import React from "react";
+import "../styles/Searchbar.scss";
+
 function Searchbar(props) {
-  return(
+  return (
     <div className="searchContainer">
       <input
         type="search"
@@ -11,7 +12,7 @@ function Searchbar(props) {
         autoFocus
       />
     </div>
-    );
+  );
 }
 
 export { Searchbar };

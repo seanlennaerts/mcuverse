@@ -1,28 +1,20 @@
-import React, { useState } from 'react';
-import '../styles/Modal.scss';
+import React, { useState } from "react";
+import "../styles/Modal.scss";
 
-export default function Modal(props) {
-  const {
-    show,
-    onClose,
-  } = props;
+export default function Modal({ show, onClose, children }) {
 
-  return (
-    props.show ?
-      <ModalWrapper show={show} onClose={onClose}>
-        {props.children}
-      </ModalWrapper>
-      : null
-  );
+  return show ? (
+    <ModalWrapper show={show} onClose={onClose}>
+      {children}
+    </ModalWrapper>
+  ) : null;
 }
 
-const ModalWrapper = (props) => {
-  const [visible] = useState(props.show);
+const ModalWrapper = ({ show, children }) => {
+  const [visible] = useState(show);
   return (
-      <div className={`modalWrapper ${visible ? 'modalVisible' : ''}`}>
-        <div className={`modal ${visible ? 'modalContentVisible' : ''}`}>
-          {props.children}
-        </div>
-      </div>
-    );
+    <div className={`modalWrapper ${visible ? "modalVisible" : ""}`}>
+      <div className={`modal ${visible ? "modalContentVisible" : ""}`}>{children}</div>
+    </div>
+  );
 };
