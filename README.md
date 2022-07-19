@@ -15,14 +15,10 @@ To install all dependencies.
 
 To check live the changes.
 
-	npm run-script build
+	npm run build
 
 To produce a build.
 
-	npm run-script serve
-
-To produce test the build.
-
-	npm run-script deploy
+	npm run deploy
 
 To publish the build to Github Pages.
