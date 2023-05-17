@@ -16,6 +16,8 @@ jobs:
       uses: actions/setup-node@v3
       with:
         node-version: 18
+    - name: Update dependencies
+      run: npx update-browserslist-db@latest
     - name: Build
       run: |
         npm install
