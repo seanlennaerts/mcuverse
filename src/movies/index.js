@@ -137,6 +137,11 @@ const subs = [
         subs: IIThor.default
     },
     {
+        id: "antman3",
+        title: "3 Ant-Man",
+        subs: IIIAntMan.default
+    },
+    {
         id: "avengers3",
         title: "3 Avengers",
         subs: IIIAvengers.default
