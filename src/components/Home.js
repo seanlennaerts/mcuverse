@@ -42,7 +42,7 @@ const Home = ({ movies }) => {
       <div className="credits">
         Originariamente sviluppato da /u/shonnyboymushi, espanso, tradotto e adattato da timendum.
         <br />
-        Ultimo film aggiunto: Doctor Strange nel Multiverso della Follia.
+        Ultimo film aggiunto:Ant-Man and the Wasp: Quantumania.
       </div>
     </div>
   );
