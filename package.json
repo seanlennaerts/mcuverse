@@ -1,24 +1,20 @@
 {
   "name": "marvelquotesit",
-  "version": "0.2.0",
+  "version": "0.2.3",
   "private": true,
   "homepage": "https://timendum.github.io/mcuverse/",
   "dependencies": {
-    "@fortawesome/fontawesome-svg-core": "^6.1.1",
-    "@fortawesome/free-brands-svg-icons": "^6.1.1",
-    "@fortawesome/free-solid-svg-icons": "^6.1.1",
+    "@fortawesome/fontawesome-svg-core": "^6.4.0",
+    "@fortawesome/free-brands-svg-icons": "^6.4.0",
+    "@fortawesome/free-solid-svg-icons": "^6.4.0",
     "@fortawesome/react-fontawesome": "^0.2.0",
-    "@testing-library/jest-dom": "^5.16.4",
-    "@testing-library/react": "^13.3.0",
-    "@testing-library/user-event": "^13.5.0",
     "fuse.js": "^6.6.2",
-    "gh-pages": "^4.0.0",
+    "gh-pages": "^5.0.0",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "react-router-dom": "^6.3.0",
+    "react-router-dom": "^6.11.1",
     "react-scripts": "5.0.1",
-    "sass": "^1.53.0",
-    "web-vitals": "^2.1.4"
+    "sass": "^1.62.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -35,8 +31,10 @@
   },
   "browserslist": {
     "production": [
-      ">0.2%",
-      "not dead",
+      ">1%",
+      "Firefox ESR",
+      "last 2 and_ff version",
+      "not ie <= 11",
       "not op_mini all"
     ],
     "development": [

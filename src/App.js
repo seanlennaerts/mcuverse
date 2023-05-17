@@ -5,13 +5,15 @@ import movies from "./movies/index";
 import Fuse from "fuse.js";
 
 const fuse = new Fuse(
-  movies.flatMap((x) => x.subs.map((y, i) => ({ id: x.id, sub: y.sub.join(" "), i: i }))),
+  movies.flatMap((x) =>
+    x.subs.map((y, i) => ({ id: x.id, sub: y.sub.join(" "), i: i }))
+  ),
   {
     keys: ["sub"],
     includeMatches: true,
     threshold: 0.3,
     ignoreLocation: true,
-    minMatchCharLength: 3
+    minMatchCharLength: 3,
   }
 );
 
@@ -27,7 +29,7 @@ export default function App() {
         quoteFromLocation = {
           movie: movie,
           sub: movie.subs[indexFromUrl],
-          index: indexFromUrl
+          index: indexFromUrl,
         };
       }
     }
@@ -47,7 +49,10 @@ export default function App() {
     return finded.flatMap((row) => {
       return movies.map((movie) => {
         if (movie.id === row.item.id) {
-          if (row.matches[0].indices[0][1] - row.matches[0].indices[0][0] > search.length / 2) {
+          if (
+            row.matches[0].indices[0][1] - row.matches[0].indices[0][0] >
+            search.length / 2
+          ) {
             const matched = row.matches[0].value.substring(
               row.matches[0].indices[0][0],
               row.matches[0].indices[0][1] + 1
@@ -64,6 +69,7 @@ export default function App() {
             );
           }
         }
+        return <div />;
       });
     });
   };
@@ -85,7 +91,9 @@ export default function App() {
   return (
     <div className="App">
       <Searchbar value={search} onSearchChange={handleSearchChange} />
-      <div className={`alert ${copyAlert ? "alert-show" : "alert-hide"}`}>Copied to clipboard</div>
+      <div className={`alert ${copyAlert ? "alert-show" : "alert-hide"}`}>
+        Copied to clipboard
+      </div>
       <div className="body">{body}</div>
     </div>
   );

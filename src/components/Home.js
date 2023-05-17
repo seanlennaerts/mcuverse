@@ -12,14 +12,18 @@ const getRandomQuote = (movies) => {
   let randQuote = null;
   do {
     randMovie = movies[getRandomInt(movies.length)];
-	randQuote = randMovie.subs[getRandomInt(randMovie.subs.length)];
-	line = randQuote.sub.join(" ").trim();
+    randQuote = randMovie.subs[getRandomInt(randMovie.subs.length)];
+    line = randQuote.sub.join(" ").trim();
   } while (
     line.split(" ").length <= 4 || // exclude: less then 4 words
     line[0] !== line[0].toUpperCase() || // only uppercase first letter
     line[0].toLowerCase() === line[0].toUpperCase() // not starting with a letter
-  )
-  return { title: randMovie.title, line: randQuote.sub.join(" "), time: randQuote.time };
+  );
+  return {
+    title: randMovie.title,
+    line: randQuote.sub.join(" "),
+    time: randQuote.time,
+  };
 };
 
 const Home = ({ movies }) => {
@@ -40,9 +44,10 @@ const Home = ({ movies }) => {
         </p>
       </div>
       <div className="credits">
-        Originariamente sviluppato da /u/shonnyboymushi, espanso, tradotto e adattato da timendum.
+        Originariamente sviluppato da /u/shonnyboymushi, espanso, tradotto e
+        adattato da timendum.
         <br />
-        Ultimo film aggiunto:Ant-Man and the Wasp: Quantumania.
+        Ultimo film aggiunto: Ant-Man and the Wasp: Quantumania.
       </div>
     </div>
   );
